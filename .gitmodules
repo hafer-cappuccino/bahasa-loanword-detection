@@ -1,0 +1,3 @@
+[submodule "lib/wold"]
+	path = lib/wold
+	url = https://github.com/lexibank/wold
