@@ -1,11 +1,15 @@
+import ast
 from dataclasses import asdict, dataclass
-from typing import List, Tuple
+from typing import List
 
 import bonobo
-from pycldf.dataset import Dataset
+import pandas as pd
+from pycldf.dataset import Dataset, Wordlist
 
 
 dataset: Dataset = Dataset.from_metadata('lib/wold/cldf/cldf-metadata.json')
+
+forms: Wordlist = list(dataset['FormTable'])
 
 
 @dataclass(frozen=True)
@@ -23,31 +27,33 @@ class WordForm:
     # with 1 being clearly borrowed
     borrowing_score: float
 
+    # The following ages were used.
+    # "Prehistorical" until end of year 500.
+    # "Modern" from the 8th century.
+    # "Early Malay" is between Prehistorical and Modern.
+    age_label: str
+
 
 def extract_words():
-    forms = list(dataset['FormTable'])
     for form in forms:
         yield WordForm(
             value=form['Value'],
             segments=form['Segments'],
             language=form['Language_ID'],
-            borrowing_score=float(form['Borrowed_score'])
+            borrowing_score=float(form['Borrowed_score']),
+            age_label=form['age_label'],
         )
 
 
 def filter_indonesian_words(form: WordForm):
     if form.language == 'Indonesian':
-        yield asdict(form)
-
-
-# TODO: Add to the pipeline
-def filter_indonesian_loanwords(form: WordForm):
-    if form.borrowing_score == 1.0:
         yield form
 
 
-def load_to_dataframe(form):
-    pass
+def load_to_df(csv):
+    df: pd.DataFrame = pd.read_csv(csv)
+    df['segments'] = df['segments'].apply(lambda x: ast.literal_eval(x))
+    return df.to_pickle('dataframe.pkl')
 
 
 
@@ -57,11 +63,12 @@ if __name__ == '__main__':
     graph.add_chain(
         extract_words,
         filter_indonesian_words,
+        asdict,
         bonobo.UnpackItems(0),  # transform from bonobo node to top-level namedtuple
         bonobo.CsvWriter(
-            'indonesian_wordforms.csv',
-            fields=('value', 'segments', 'borrowing_score')
-        )
+            'out/indonesian_wordforms.csv',
+            fields=('value', 'segments', 'language', 'borrowing_score', 'age_label')
+        ),
     )
 
     bonobo.run(graph)
