@@ -10,6 +10,7 @@ pycldf = "^1.18.0"
 pandas = "^1.2.1"
 sklearn = "^0.0"
 bonobo = "0.7.0rc3"
+jupyterlab = "^3.0.8"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
