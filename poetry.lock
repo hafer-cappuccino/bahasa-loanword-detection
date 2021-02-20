@@ -30,29 +30,38 @@ tests_no_zope = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>
 
 [[package]]
 name = "bonobo"
-version = "0.6.4"
+version = "0.7.0rc3"
 description = "Bonobo, a simple, modern and atomic extract-transform-load toolkit for python 3.5+."
 category = "main"
 optional = false
-python-versions = "*"
+python-versions = ">=3.5"
 
 [package.dependencies]
-fs = ">=2.0,<3.0"
-graphviz = ">=0.8,<0.9"
-jinja2 = ">=2.9,<3.0"
-mondrian = ">=0.7,<1.0"
+cached-property = ">=1.5,<2.0"
+fs = ">=2.4,<3.0"
+graphviz = ">=0.8.4,<0.9.0"
+jinja2 = ">=2.10,<3.0"
+mondrian = ">=0.8,<1.0"
 packaging = ">=19.0,<20.0"
-psutil = ">=5.4,<6.0"
-python-slugify = ">=1.2.0,<1.3.0"
-requests = ">=2.0,<3.0"
-stevedore = ">=1.27,<2.0"
+psutil = ">=5.6,<6.0"
+python-slugify = ">=1.2.6,<1.3.0"
+requests = ">=2.22,<3.0"
+stevedore = ">=1.30,<2.0"
 whistle = ">=1.0,<2.0"
 
 [package.extras]
-dev = ["cookiecutter (>=1.5,<1.6)", "coverage (>=4.4,<5.0)", "pytest (>=3.4,<4.0)", "pytest-cov (>=2.5,<3.0)", "pytest-timeout (>=1,<2)", "sphinx (>=1.7,<2.0)", "sphinx-sitemap (>=0.2,<0.3)"]
-docker = ["bonobo-docker (>=0.6.0a1,<0.7.0)"]
+dev = ["cookiecutter (>=1.6,<1.7)", "coverage (>=4.5,<5.0)", "pytest (>=4.6,<5.0)", "pytest-cov (>=2.7,<3.0)", "pytest-timeout (>=1,<2)", "sphinx (>=1.7,<2.0)", "sphinx-sitemap (>=0.2,<0.3)"]
+docker = ["bonobo-docker (>=0.6,<1.0)"]
 jupyter = ["ipywidgets (>=6.0,<7.0)", "jupyter (>=1.0,<2.0)"]
-sqlalchemy = ["bonobo-sqlalchemy (>=0.6.0a1,<0.7.0)"]
+sqlalchemy = ["bonobo-sqlalchemy (>=0.6,<1.0)"]
+
+[[package]]
+name = "cached-property"
+version = "1.5.2"
+description = "A decorator for caching properties in classes."
+category = "main"
+optional = false
+python-versions = "*"
 
 [[package]]
 name = "certifi"
@@ -577,7 +586,7 @@ dev = ["coverage (>=4.4,<5.0)", "pytest (>=3.4,<4.0)", "pytest-cov (>=2.5,<3.0)"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "1ea53619522202ead896e92937e3146386eaded756b4feb669396441c52c85cd"
+content-hash = "c82a5408019bb3f9921a501fe3c60a2a551461a73be899a6f53b7796080e964b"
 
 [metadata.files]
 appdirs = [
@@ -593,11 +602,15 @@ attrs = [
     {file = "attrs-20.3.0.tar.gz", hash = "sha256:832aa3cde19744e49938b91fea06d69ecb9e649c93ba974535d08ad92164f700"},
 ]
 bonobo = [
-    {file = "bonobo-0.6.4-py2.py3-none-any.whl", hash = "sha256:b0ad6b99238ddda74a99c6ba141eb3eea56df03f9ffc62ddda189800444038b8"},
-    {file = "bonobo-0.6.4-py3.5.egg", hash = "sha256:05bbe75aa759a349455df3d323e2b291e4cb48474f69bda330d8a1a92c4c3bcf"},
-    {file = "bonobo-0.6.4-py3.6.egg", hash = "sha256:9e789be5f74697c94bab743ea9c89b0f9a05d9a86aa6504b1cb53a6e7e88375c"},
-    {file = "bonobo-0.6.4-py3.7.egg", hash = "sha256:7dbfd42a07f287d4a67a1fd8546db2345960fcf02422c42fd399bc363ec21553"},
-    {file = "bonobo-0.6.4.tar.gz", hash = "sha256:cde6810082cd532bd685a815455a80a364e87b27ed8660a400d5ebb6e3dc8250"},
+    {file = "bonobo-0.7.0rc3-py2.py3-none-any.whl", hash = "sha256:a950f2a5a1d8a48f2bfa6529bda4a5ad799f4a95276dc856f0cfc65ce7ad7a79"},
+    {file = "bonobo-0.7.0rc3-py3.5.egg", hash = "sha256:e9fe0b2d47ceae9ac07cc4e5df2c5a7c0c5bf8074f21438abc9a85218e015874"},
+    {file = "bonobo-0.7.0rc3-py3.6.egg", hash = "sha256:54ddc772b5f069a90b3cc9b5244f91c10ef2798c1aa1093121151dba5695a660"},
+    {file = "bonobo-0.7.0rc3-py3.7.egg", hash = "sha256:cf3c6ad7eb0984fed56cfd7d1eee01e56e5ff8261853b34cac01eb6dc4effa34"},
+    {file = "bonobo-0.7.0rc3.tar.gz", hash = "sha256:ea0a6eec039315cd1bc8e05bed231e1f7e1e156f0f10984afa964ff5feb24be0"},
+]
+cached-property = [
+    {file = "cached-property-1.5.2.tar.gz", hash = "sha256:9fa5755838eecbb2d234c3aa390bd80fbd3ac6b6869109bfc1b499f7bd89a130"},
+    {file = "cached_property-1.5.2-py2.py3-none-any.whl", hash = "sha256:df4f613cf7ad9a588cc381aaf4a512d26265ecebd5eb9e1ba12f1319eb85a6a0"},
 ]
 certifi = [
     {file = "certifi-2020.12.5-py2.py3-none-any.whl", hash = "sha256:719a74fb9e33b9bd44cc7f3a8d94bc35e4049deebe19ba7d8e108280cfd59830"},
