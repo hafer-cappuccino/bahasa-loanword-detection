@@ -7,8 +7,7 @@ This project can be set up either with [`docker`](https://docker.com) or
 
 ### Docker
 
-Before a docker container can be run, the image must be built first (`make`
-directives have been created for convenience
+Before a docker container can be run, the image must be built first
 
 ```sh
 $ make build
@@ -37,10 +36,14 @@ From within the virtualenv, a Jupyter lab can be served: `jupyter lab`.
 
 ## Make Directives
 
-| command | description |
+A [Makefile](Makefile) has been included in this project for convenience. To use
+the Makefile rules, simply run `make <rule>` with `<rule>` substituted with any
+of the rules in the table below.
+
+| rule | description |
 | --------| ----------- |
-| `make build` | Build a docker image. |
-| `make run` | Runs a docker container with the built image. |
-| `make stop` | Stops the docker container. |
-| `make csv` | Writes the list of Indonesian word forms to a CSV file. Requires a running docker container. |
+| `build` | Build a docker image. |
+| `run` | Runs a docker container with the built image. |
+| `stop` | Stops the docker container. |
+| `csv` | Writes the list of Indonesian word forms to a CSV file. Requires a running docker container. |
 
