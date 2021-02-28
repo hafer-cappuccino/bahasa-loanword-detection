@@ -4,9 +4,10 @@ import pandas as pd
 from nltk import lm
 from nltk.util import ngrams
 from nltk.lm.preprocessing import padded_everygram_pipeline
+from sklearn.base import ClassifierMixin
 
 
-class Markov:
+class Markov(ClassifierMixin):
     
     def __init__(self, data: pd.DataFrame, order: int = 3, smoothing: float = 0.1):
         """
@@ -75,7 +76,7 @@ class Markov:
         native_entropies = self.calculate_entropies(self.nativewords_model, X.value)
         loan_entropies = self.calculate_entropies(self.loanwords_model, X.value)
         predictions = [
-            0 if loan_entropy < native_entropy else 1
+            1 if loan_entropy < native_entropy else 0
             for native_entropy, loan_entropy in zip(native_entropies, loan_entropies)
         ]
         return predictions
