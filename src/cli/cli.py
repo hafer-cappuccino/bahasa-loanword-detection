@@ -1,4 +1,3 @@
-
 import click
 
 from sklearn.model_selection import train_test_split
@@ -49,7 +48,7 @@ def markov(test_size, seed):
         )
     )
 
-    model = Markov(data=dataset.X_train)
+    model = Markov(X=dataset.X_train)
     evaluate(model, dataset)
 
 if __name__ == '__main__':

@@ -1,14 +1,18 @@
 from dataclasses import asdict, dataclass
-from typing import Any
+from typing import Any, Union
 
-import matplotlib.pyplot as plt
-from sklearn.base import ClassifierMixin
+import pandas as pd
 from sklearn.metrics import (
     classification_report,
-    plot_confusion_matrix,
+    confusion_matrix,
 )
+from tabulate import tabulate
 
 from src.data.models import Dataset
+from src.models.markov import Markov
+from src.models.svm import SVM
+
+
 
 
 @dataclass
@@ -36,14 +40,14 @@ SEED_OPTIONS = asdict(
 )
 
 
-def evaluate(model: ClassifierMixin, dataset: Dataset):
+def evaluate(model: Union[Markov, SVM], dataset: Dataset):
     message = (
-        f'\n 🚀 {model.__class__.__name__} classification report'
-        'and confusion matrix plot'
+        f'\n 🚀 {model.__class__.__name__}'
     )
 
     print(message)
     print('-' * len(message))
+    print('Classification Report')
     print(
         classification_report(
             model.predict(dataset.X_test),
@@ -51,6 +55,13 @@ def evaluate(model: ClassifierMixin, dataset: Dataset):
             target_names=['native', 'loanwords'],
         )
     )
-    plot_confusion_matrix(model.classifier, dataset.X_test, dataset.y_test)
-    plt.show()
-    print()
+
+    print('\nConfusion Matrix')
+
+    df = pd.DataFrame(
+        confusion_matrix(dataset.y_test, model.predict(dataset.X_test)),
+        columns=['P', 'N'],
+        index=['P', 'N'],
+    )
+
+    print(tabulate(df, headers='keys', tablefmt='psql'))
