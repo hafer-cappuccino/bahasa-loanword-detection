@@ -13,7 +13,6 @@ class WOLD:
     df: pd.DataFrame = None
     encoder: MultiLabelBinarizer = MultiLabelBinarizer()
 
-
     def __post_init__(self):
         self.df = pd.read_csv(self.csv_path)
         self.df['segments'] = self.df['segments'].apply(lambda x: ast.literal_eval(x))
@@ -50,29 +49,3 @@ class WOLD:
             else:
                 processed.append(segment)
         return processed
-
-
-wold_data = WOLD()
-
-
-# The data to feed into the Markov LM.
-# WOLDDataset = Dataset(
-#     *train_test_split(
-#         wold_data.df[['value', 'borrowing_score']],
-#         wold_data.df.borrowing_score,
-#         test_size=0.2,
-#         random_state=42,
-#     )
-# )
-
-
-# The data to feed into the SVM.
-# ref: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-# BagOfSounds = Dataset(
-#     *train_test_split(
-#         wold_data.onehot(),
-#         wold_data.df.borrowing_score,
-#         test_size=0.2,
-#         random_state=42,
-#     )
-# )
