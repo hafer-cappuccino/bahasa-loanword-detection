@@ -11,7 +11,8 @@ ENV POETRY_VERSION=${POETRY_VERSION:-1.1.4} \
     # and disable pyc files from being written at import time
     PYTHONFAULTHANDLER=1 \
     PYTHONBUFFERED=1  \
-    PYTHONDONTWRITEBYTECODE=1
+    PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONPATH="/project"
 
 ENV PATH="$POETRY_HOME/bin:$PATH"
 
