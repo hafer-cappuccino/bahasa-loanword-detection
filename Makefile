@@ -4,7 +4,7 @@ build:
 
 .PHONY: run
 run:
-	docker container run --rm -p 8888:8888 \
+	docker container run --init --rm -p 8888:8888 \
     --name loanwords \
     --mount type=bind,source="$(shell pwd)",target=/project loanwords
 
@@ -15,3 +15,9 @@ stop:
 .PHONY: csv
 csv:
 	docker container exec -it loanwords bonobo run src/data/etl.py
+
+.PHONY: shell
+shell:
+	docker container run --init --rm \
+	--mount type=bind,source="$(shell pwd)",target=/project \
+	-i -t loanwords bash
