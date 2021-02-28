@@ -1,3 +1,5 @@
+from typing import List
+
 import numpy as np
 import pandas as pd
 from sklearn.svm import LinearSVC
@@ -20,7 +22,7 @@ class SVM:
         self.classifier = LinearSVC()
         self.classifier.fit(self.X, self.y)
 
-    def predict(self, X: np.array):
+    def predict(self, X: np.array) -> List[str]:
         """
         Given a list of samples, return a list of predictions.
 
@@ -28,5 +30,7 @@ class SVM:
 
         :param X: the input vector with a shape of (num_samples, num_features).
         :param y: the output vector with a shape of (num_samples,).
+
+        :returns: a list of classifications.
         """
         return self.classifier.predict(X)
