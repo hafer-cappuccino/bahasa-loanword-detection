@@ -14,4 +14,4 @@ stop:
 
 .PHONY: csv
 csv:
-	docker container exec -it loanwords bonobo run src/data/wold.py
+	docker container exec -it loanwords bonobo run src/data/etl.py

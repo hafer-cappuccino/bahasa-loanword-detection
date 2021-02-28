@@ -1,74 +1,83 @@
 import ast
-from dataclasses import asdict, dataclass
+from dataclasses import dataclass
 from typing import List
 
-import bonobo
 import pandas as pd
-from pycldf.dataset import Dataset, Wordlist
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MultiLabelBinarizer
+
+from src.data.models import Dataset as Dataset
 
 
-dataset: Dataset = Dataset.from_metadata('lib/wold/cldf/cldf-metadata.json')
-
-forms: Wordlist = list(dataset['FormTable'])
-
-
-@dataclass(frozen=True)
-class WordForm:
-    # the actual word form
-    value: str
-
-    # the word form tokenized as character segments, '+' represents a space
-    segments: List[str]
-
-    # the language the word form belongs to
-    language: str
-
-    # the borrowing score of the word, range of [0, 1],
-    # with 1 being clearly borrowed
-    borrowing_score: float
-
-    # The following ages were used.
-    # "Prehistorical" until end of year 500.
-    # "Modern" from the 8th century.
-    # "Early Malay" is between Prehistorical and Modern.
-    age_label: str
+@dataclass
+class WOLD:
+    csv_path: str = 'out/indonesian_wordforms.csv'
+    df: pd.Dataframe = None
+    encoder: MultiLabelBinarizer = MultiLabelBinarizer()
 
 
-def extract_words():
-    for form in forms:
-        yield WordForm(
-            value=form['Value'],
-            segments=form['Segments'],
-            language=form['Language_ID'],
-            borrowing_score=float(form['Borrowed_score']),
-            age_label=form['age_label'],
-        )
+    def __post_init__(self):
+        self.df = pd.read_csv(self.csv_path)
+        self.df['segments'] = self.df['segments'].apply(lambda x: ast.literal_eval)
+
+        self.df['segments'] = self.df['segments']
+
+        # only consider borrowing scores 1, everything else is *not* a loanword
+        self.df.loc[self.df.borrowing_score != 1.0, 'borrowing_score'] = 0
+        self.df.borrowing_score = self.df.borrowing_score.astype(int)
+
+        self.df['segments'] = self.df['segments'].apply(WOLD.fold)
+
+    def onehot(self) -> pd.DataFrame:
+        """
+        Return a onehot encoding of the samples.
+        """
+        return self.encoder.fit_transform(self.df.segments)
+
+    @staticmethod
+    def fold(segments) -> List[str]:
+        """
+        Removes any segments that have two graphemes represented by a '/' in the
+        segment. We have decided to take this approach since in Bahasa, the
+        grapheme representation of such segments produce the same sound, i.e.
+        they are ultimately the same phoneme.
+
+        :param segments: a list of segments, that are phonemes represented by
+            some grapheme.
+        :return: a list of segments.
+        """
+        processed = []
+        for segment in segments:
+            segment = segment.lower()
+            if segment in ('a/a', 'j/dʒ', 'k/k', 'm/m', 'r/r', 's/s', 'ss/s'):
+                processed.append(segment.split('/')[-1])
+            else:
+                processed.append(segment)
+        return processed
+
+    
+
+wold_data = WOLD()
 
 
-def filter_indonesian_words(form: WordForm):
-    if form.language == 'Indonesian':
-        yield form
-
-
-def load_to_df(csv):
-    df: pd.DataFrame = pd.read_csv(csv)
-    df['segments'] = df['segments'].apply(lambda x: ast.literal_eval(x))
-    return df.to_pickle('dataframe.pkl')
-
-
-
-if __name__ == '__main__':
-    graph = bonobo.Graph()
-
-    graph.add_chain(
-        extract_words,
-        filter_indonesian_words,
-        asdict,
-        bonobo.UnpackItems(0),  # transform from bonobo node to top-level namedtuple
-        bonobo.CsvWriter(
-            'out/indonesian_wordforms.csv',
-            fields=('value', 'segments', 'language', 'borrowing_score', 'age_label')
-        ),
+# The data to feed into the Markov LM.
+BagOfSounds = Dataset(
+    *train_test_split(
+        wold_data.df[['value', 'borrowing_score']],
+        wold_data.df.borrowing_score,
+        test_size=0.2,
+        random_state=42,
     )
+)
 
-    bonobo.run(graph)
+
+# The data to feed into the SVM.
+# ref: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+BagOfSoundsOneHot = Dataset(
+    *train_test_split(
+        wold_data.onehot(),
+        wold_data.df.borrowing_score,
+        test_size=0.2,
+        random_state=42,
+    )
+)

@@ -7,7 +7,7 @@ This project can be set up either with [`docker`](https://docker.com) or
 
 ### Docker
 
-Before a docker container can be run, the image must be built first
+Before a docker container can be run, the image must be built first:
 
 ```sh
 $ make build

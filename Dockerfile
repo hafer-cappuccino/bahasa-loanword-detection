@@ -7,7 +7,6 @@ ENV POETRY_VERSION=${POETRY_VERSION:-1.1.4} \
     POETRY_NO_INTERACTION=1 \
     POETRY_VIRTUALENVS_CREATE=false \
     PIP_NO_CACHE_DIR=true \
-    AIRFLOW_HOME=$AIRFLOW_HOME \
     # Enables Python tracebacks on segfaults
     # and disable pyc files from being written at import time
     PYTHONFAULTHANDLER=1 \

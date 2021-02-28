@@ -11,6 +11,9 @@ pandas = "^1.2.1"
 sklearn = "^0.0"
 bonobo = "0.7.0rc3"
 jupyterlab = "^3.0.8"
+attrs = "^20.3.0"
+matplotlib = "^3.3.4"
+nltk = "^3.5"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
