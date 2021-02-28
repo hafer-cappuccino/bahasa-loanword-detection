@@ -9,19 +9,19 @@ from sklearn.base import ClassifierMixin
 
 class Markov(ClassifierMixin):
     
-    def __init__(self, data: pd.DataFrame, order: int = 3, smoothing: float = 0.1):
+    def __init__(self, X: pd.DataFrame, order: int = 3, smoothing: float = 0.1):
         """
         A Markov model that calculates the entropies of a list of sounds.
         
-        :param data: the DataFrame containing the segments and borrowing scores.
+        :param X: the DataFrame containing the segments and borrowing scores.
         :param order: the ngram order.
         :param smoothing: the smoothing discounting value.
         """
         self.order = order
         self.smoothing = smoothing
-        
-        loanwords = data[data.borrowing_score == 1].value
-        nativewords = data[data.borrowing_score == 0].value
+
+        loanwords = X[X.borrowing_score == 1].value
+        nativewords = X[X.borrowing_score == 0].value
         
         loanwords_train, loanwords_vocab = padded_everygram_pipeline(self.order, loanwords)
         nativewords_train, nativewords_vocab = padded_everygram_pipeline(self.order, nativewords)
