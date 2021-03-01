@@ -5,88 +5,53 @@ from torch.autograd import Variable
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 
+from src.data.wold import WOLD
+
+
 class NN:
 
-    def __init__(self, data_path: str):
-        self.df = pd.read_csv(data_path)
+    def __init__(
+            self,
+            train_set,
+            test_set,
+            n_hidden: int = 32,
+    ):
+        self.df = WOLD().df
+        self.train_set = train_set.reset_index(drop=True)
+        self.test_set = test_set.reset_index(drop=True)
 
-    def preprocess(self):
-        new_dfseg = []
-
-        for i in self.df.segments:
-            new_dfseg.append(eval(i))
-
-        self.df.segments = new_dfseg
-
-        segments_prep = []
-
-        for word in self.df.segments:
-            phonemes = []
-            for i in word:
-                if 'A/a' == i or 'K/k' == i or 'M/m' == i or 'R/r' == i or 'S/s' == i or 'ss/s' == i:
-                    i = i.replace(i, i[-1])
-                    phonemes.append(i)
-                if 'J/dʒ' in i:
-                    i = i.replace(i, 'dʒ')
-                    phonemes.append(i)
-                else:
-                    phonemes.append(i)
-
-            segments_prep.append(phonemes)
-        self.df.segments = segments_prep
-        classes = []
-
-        for s in self.df.borrowing_score:
-            if s == 1.0:
-                classes.append(s)
-            else:
-                classes.append(0.0)
-        self.df.borrowing_score = classes
         self.all_letters = []
 
         for l in self.df.segments:
             for s in l:
                 if s not in self.all_letters:
                     self.all_letters.append(s)
-        self.n_letters = len(self.all_letters)
-        train_set, test_set = train_test_split(self.df, test_size=0.2, random_state=42)
 
-        self.train_set = train_set.reset_index(drop=True)
-        self.test_set = test_set.reset_index(drop=True)
-        print("Preprocessing is done!")
+        self.best_model = GRU(
+            len(self.all_letters),
+            n_hidden,
+            2,  # this is a binary classification language task
+        )
 
-    def load_model(self):
-        n_hidden = 32
-        n_classes = 2
-        self.best_model = GRU(self.n_letters, n_hidden, n_classes)
-        self.best_model.load_state_dict(torch.load('best_model_state.pt'))
+        self.best_model.load_state_dict(
+            torch.load('src/models/gru/best_model_state.pt')
+        )
 
-    def predict_test(self):
-        true = []
+    def predict(self, X):
+        X = X.reset_index(drop=True)
         pred = []
 
-        n_confusion = len(self.test_set)
-        for i in range(n_confusion):
-            category, line, category_tensor, line_tensor = self.testing_sample(self.test_set, i)
+        for i in range(len(X)):
+            _, _, _, line_tensor = self.testing_sample(X, i)
             output = self.evaluate(line_tensor)
             guess = self.category_from_output(output)
-            true.append(category)
             pred.append(guess)
-        print("All predictions are done!")
-        return true, pred
+        return pred
 
-    def predict(self, word):
-
+    def predict_word(self, word):
         line_tensor = self.char_tensor(word)
-
         output = self.evaluate(line_tensor)
-        guess = self.category_from_output(output)
-        return guess
-
-    def report(self, true, pred):
-        target_names = ['class 0', 'class 1']
-        print(classification_report(true, pred, target_names=target_names))
-
+        return self.category_from_output(output)
 
     def evaluate(self, line_tensor):
         hidden = self.best_model.initHidden()

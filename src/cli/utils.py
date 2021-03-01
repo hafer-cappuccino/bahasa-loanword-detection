@@ -42,7 +42,7 @@ SEED_OPTIONS = asdict(
 
 def evaluate(model: Union[Markov, SVM], dataset: Dataset):
     message = (
-        f'\n 🚀 {model.__class__.__name__}'
+        f'\n\n 🚀 {model.__class__.__name__}'
     )
 
     print(message)
