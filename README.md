@@ -19,7 +19,7 @@ To run the docker container:
 $ make shell
 ```
 
-This runs an interactive bash shell. Then, you can run the following to see the model evaluations:
+This runs an interactive bash shell. Then from within the docker container's bash shell, you can run the following to see the model evaluations:
 
 ``` sh
 $ make analysis
@@ -36,7 +36,11 @@ $ poetry install
 Once the dependencies are installed, you can activate the virtualenv that Poetry
 generated with `poetry shell`.
 
-From within the virtualenv, a Jupyter lab can be served: `jupyter lab`.
+From within the virtualenv, a Jupyter lab can be served: `jupyter lab` and the project's CLI script available:
+
+```
+$ python src/cli/cli.py --help
+```
 
 ## Make Directives
 
