@@ -1,0 +1,2050 @@
+value,segments,language,borrowing_score,age_label
+dunia,"['d', 'u', 'n', 'i', 'a']",Indonesian,1.0,Early Malay
+alam,"['a', 'l', 'a', 'm']",Indonesian,1.0,Early Malay
+jagat,"['dʒ', 'a', 'g', 'a', 't']",Indonesian,1.0,Early Malay
+buana,"['b', 'u', 'a', 'n', 'a']",Indonesian,1.0,Early Malay
+darat,"['d', 'a', 'r', 'a', 't']",Indonesian,0.0,Prehistorical
+tanah,"['t', 'a', 'n', 'a', 'h']",Indonesian,0.0,Prehistorical
+bumi,"['b', 'u', 'm', 'i']",Indonesian,1.0,Early Malay
+tanah,"['t', 'a', 'n', 'a', 'h']",Indonesian,0.0,Prehistorical
+debu,"['d', 'e', 'b', 'u']",Indonesian,0.0,Prehistorical
+serdak,"['s', 'e', 'r', 'd', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+duli,"['d', 'u', 'l', 'i']",Indonesian,1.0,Early Malay
+lumpur,"['l', 'u', 'm', 'p', 'u', 'r']",Indonesian,0.0,Prehistorical
+pasir,"['p', 'a', 's', 'i', 'r']",Indonesian,0.0,Prehistorical
+gunung,"['g', 'u', 'n', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+bukit,"['b', 'u', 'k', 'i', 't']",Indonesian,0.0,Prehistorical
+tebing,"['t', 'e', 'b', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+dataran,"['d', 'a', 't', 'a', 'r', 'a', 'n']",Indonesian,0.0,Early Malay
+padang,"['p', 'a', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+médan,"['m', 'é/e', 'd', 'a', 'n']",Indonesian,1.0,Early Malay
+lembah,"['l', 'e', 'm', 'b', 'a', 'h']",Indonesian,0.0,Prehistorical
+pulau,"['p', 'u', 'l', 'aʊ']",Indonesian,0.0,Prehistorical
+nusa,"['n', 'u', 's', 'a']",Indonesian,0.0,Prehistorical
+daratan,"['d', 'a', 'r', 'a', 't', 'a', 'n']",Indonesian,0.0,Early Malay
+pantai,"['p', 'a', 'n', 't', 'aɪ']",Indonesian,0.0,Prehistorical
+pesisir,"['p', 'e', 's', 'i', 's', 'i', 'r']",Indonesian,1.0,Modern
+gua,"['g', 'u', 'a']",Indonesian,1.0,Early Malay
+air,"['a', 'i', 'r']",Indonesian,0.0,Prehistorical
+laut,"['l', 'a', 'u', 't']",Indonesian,0.0,Prehistorical
+samudra,"['s', 'a', 'm', 'u', 'd', 'r', 'a']",Indonesian,1.0,Early Malay
+tenang,"['t', 'e', 'n', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+bergejolak,"['b', 'e', 'r', 'g', 'e', 'dʒ', 'o', 'l', 'a', 'ʔ']",Indonesian,0.0,Modern
+bergelora,"['b', 'e', 'r', 'g', 'e', 'l', 'o', 'r', 'a']",Indonesian,0.0,Early Malay
+bergolak,"['b', 'e', 'r', 'g', 'o', 'l', 'a', 'ʔ']",Indonesian,0.0,Modern
+buih,"['b', 'u', 'i', 'h']",Indonesian,0.0,Prehistorical
+busa,"['b', 'u', 's', 'a']",Indonesian,0.25,Early Malay
+lautan,"['l', 'a', 'u', 't', 'a', 'n']",Indonesian,0.0,Early Malay
+samudra,"['s', 'a', 'm', 'u', 'd', 'r', 'a']",Indonesian,1.0,Early Malay
+danau,"['d', 'a', 'n', 'aʊ']",Indonesian,0.0,Prehistorical
+situ,"['s', 'i', 't', 'u']",Indonesian,1.0,Modern
+teluk,"['t', 'e', 'l', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+laguna,"['l', 'a', 'g', 'u', 'n', 'a']",Indonesian,1.0,Modern
+terumbu,"['t', 'e', 'r', 'u', 'm', 'b', 'u']",Indonesian,0.0,Prehistorical
+tanjung,"['t', 'a', 'ɲ', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+ancol,"['a', 'ɲ', 'o', 'l']",Indonesian,1.0,Modern
+ombak,"['o', 'm', 'b', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+gelombang,"['g', 'e', 'l', 'o', 'm', 'b', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+alun,"['a', 'l', 'u', 'n']",Indonesian,0.0,Prehistorical
+pasang-surut (laut),"['p', 'a', 's', 'a', 'ŋ', '+', 's', 'u', 'r', 'u', 't', '+', 'l', 'a', 'u', 't']",Indonesian,0.0,Modern
+surut,"['s', 'u', 'r', 'u', 't']",Indonesian,0.0,Prehistorical
+pasang (1),"['p', 'a', 's', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+sungai,"['s', 'u', 'ŋ', 'aɪ']",Indonesian,0.0,Prehistorical
+anak sungai,"['a', 'n', 'a', 'k', '+', 's', 'u', 'ŋ', 'aɪ']",Indonesian,0.0,Prehistorical
+kali,"['k', 'a', 'l', 'i']",Indonesian,1.0,Modern
+pusaran air,"['p', 'u', 's', 'a', 'r', 'a', 'n', '+', 'a', 'i', 'r']",Indonesian,0.0,Modern
+mata air,"['m', 'a', 't', 'a', '+', 'a', 'i', 'r']",Indonesian,0.0,Prehistorical
+sumur,"['s', 'u', 'm', 'u', 'r']",Indonesian,0.0,Prehistorical
+perigi,"['p', 'e', 'r', 'i', 'g', 'i']",Indonesian,0.0,Prehistorical
+rawa,"['r', 'a', 'w', 'a']",Indonesian,0.5,Modern
+paya,"['p', 'a', 'j', 'a']",Indonesian,0.0,Prehistorical
+air terjun,"['a', 'i', 'r', '+', 't', 'e', 'r', 'dʒ', 'u', 'n']",Indonesian,0.0,Prehistorical
+hutan,"['h', 'u', 't', 'a', 'n']",Indonesian,0.0,Prehistorical
+rimba,"['r', 'i', 'm', 'b', 'a']",Indonesian,0.0,Prehistorical
+wana,"['w', 'a', 'n', 'a']",Indonesian,1.0,Modern
+kayu,"['k', 'a', 'j', 'u']",Indonesian,0.0,Prehistorical
+batu,"['b', 'a', 't', 'u']",Indonesian,0.0,Prehistorical
+séla,"['s', 'é/e', 'l', 'a']",Indonesian,1.0,Modern
+gempa (bumi/tektonik),"['g', 'e', 'm', 'p', 'a']",Indonesian,1.0,Early Malay
+lindu,"['l', 'i', 'n', 'd', 'u']",Indonesian,1.0,Modern
+langit,"['l', 'a', 'ŋ', 'i', 't']",Indonesian,0.0,Prehistorical
+angkasa,"['a', 'ŋ', 'k', 'a', 's', 'a']",Indonesian,1.0,Early Malay
+cakrawala,"['tʃ', 'a', 'k', 'r', 'a', 'w', 'a', 'l', 'a']",Indonesian,1.0,Early Malay
+dirgantara,"['d', 'i', 'r', 'g', 'a', 'n', 't', 'a', 'r', 'a']",Indonesian,1.0,Modern
+"matahari, mentari","['m', 'a', 't', 'a', 'h', 'a', 'r', 'i']",Indonesian,0.0,Prehistorical
+surya,"['s', 'u', 'r', 'j', 'a']",Indonesian,1.0,Early Malay
+bulan,"['b', 'u', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+rembulan,"['r', 'e', 'm', 'b', 'u', 'l', 'a', 'n']",Indonesian,1.0,Modern
+candra,"['tʃ', 'a', 'n', 'd', 'r', 'a']",Indonesian,1.0,Early Malay
+bintang,"['b', 'i', 'n', 't', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kartika,"['k', 'a', 'r', 't', 'i', 'k', 'a']",Indonesian,1.0,Early Malay
+kilat,"['k', 'i', 'l', 'a', 't']",Indonesian,0.0,Prehistorical
+guntur,"['g', 'u', 'n', 't', 'u', 'r']",Indonesian,0.5,Modern
+guruh,"['g', 'u', 'r', 'u', 'h']",Indonesian,0.0,Prehistorical
+"glédék, gelédék","['g', 'l', 'é/e', 'd', 'é/e', 'ʔ']",Indonesian,1.0,Modern
+petir,"['p', 'e', 't', 'i', 'r']",Indonesian,0.0,Prehistorical
+halilintar,"['h', 'a', 'l', 'i', 'l', 'i', 'n', 't', 'a', 'r']",Indonesian,0.0,Prehistorical
+badai,"['b', 'a', 'd', 'aɪ']",Indonesian,1.0,Prehistorical
+ribut,"['r', 'i', 'b', 'u', 't']",Indonesian,0.0,Prehistorical
+pelangi,"['p', 'e', 'l', 'a', 'ŋ', 'i']",Indonesian,0.25,Early Malay
+bianglala,"['b', 'i', 'a', 'ŋ', 'l', 'a', 'l', 'a']",Indonesian,1.0,Modern
+cahaya,"['tʃ', 'a', 'h', 'a', 'j', 'a']",Indonesian,1.0,Early Malay
+sinar,"['s', 'i', 'n', 'a', 'r']",Indonesian,0.0,Prehistorical
+kegelapan,"['k', 'e', 'g', 'e', 'l', 'a', 'p', 'a', 'n']",Indonesian,0.0,Early Malay
+kekelaman,"['k', 'e', 'k', 'e', 'l', 'a', 'm', 'a', 'n']",Indonesian,0.0,Prehistorical
+kegelitaan,"['k', 'e', 'g', 'e', 'l', 'i', 't', 'aː', 'n']",Indonesian,0.0,Prehistorical
+bayangan,"['b', 'a', 'j', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+bayang-bayang,"['b', 'a', 'j', 'a', 'ŋ', '+', 'b', 'a', 'j', 'a', 'ŋ']",Indonesian,0.0,Early Malay
+naung,"['n', 'a', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+embun,"['e', 'm', 'b', 'u', 'n']",Indonesian,0.0,Prehistorical
+ibun,"['i', 'b', 'u', 'n']",Indonesian,1.0,Modern
+udara,"['u', 'd', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+angin,"['a', 'ŋ', 'i', 'n']",Indonesian,0.0,Prehistorical
+hawa,"['h', 'a', 'w', 'a']",Indonesian,1.0,Early Malay
+angin,"['a', 'ŋ', 'i', 'n']",Indonesian,0.0,Prehistorical
+bayu,"['b', 'a', 'j', 'u']",Indonesian,1.0,Early Malay
+pawana,"['p', 'a', 'w', 'a', 'n', 'a']",Indonesian,1.0,Early Malay
+awan,"['a', 'w', 'a', 'n']",Indonesian,0.0,Prehistorical
+méga,"['m', 'é/e', 'g', 'a']",Indonesian,1.0,Early Malay
+kabut,"['k', 'a', 'b', 'u', 't']",Indonesian,0.0,Prehistorical
+halimun,"['h', 'a', 'l', 'i', 'm', 'u', 'n']",Indonesian,1.0,Modern
+hujan,"['h', 'u', 'dʒ', 'a', 'n']",Indonesian,0.0,Prehistorical
+salju,"['s', 'a', 'l', 'dʒ', 'u']",Indonesian,1.0,Early Malay
+és,"['é/e', 's']",Indonesian,1.0,Modern
+cuaca,"['tʃ', 'u', 'a', 'tʃ', 'a']",Indonesian,1.0,Early Malay
+udara,"['u', 'd', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+hawa,"['h', 'a', 'w', 'a']",Indonesian,1.0,Early Malay
+pawaka,"['p', 'a', 'w', 'a', 'k', 'a']",Indonesian,1.0,Early Malay
+api,"['a', 'p', 'i']",Indonesian,0.0,Prehistorical
+lidah api,"['l', 'i', 'd', 'a', 'h', '+', 'a', 'p', 'i']",Indonesian,0.0,Early Malay
+nyala (api),"['ɲ', 'a', 'l', 'a', '+', 'a', 'p', 'i']",Indonesian,0.0,Prehistorical
+asap,"['a', 's', 'a', 'p']",Indonesian,0.0,Prehistorical
+abu,"['a', 'b', 'u']",Indonesian,0.0,Prehistorical
+bara,"['b', 'a', 'r', 'a']",Indonesian,0.0,Prehistorical
+membakar,"['m', 'e', 'm', 'b', 'a', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+terbakar,"['t', 'e', 'r', 'b', 'a', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+menyalakan,"['m', 'e', 'ɲ', 'a', 'l', 'a', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+"menyulut, menyulutkan","['m', 'e', 'ɲ', 'u', 'l', 'u', 't']",Indonesian,0.75,Modern
+memadamkan,"['m', 'e', 'm', 'a', 'd', 'a', 'm', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+korék api,"['k', 'o', 'r', 'é/e', 'k', '+', 'a', 'p', 'i']",Indonesian,0.0,Modern
+kayu bakar,"['k', 'a', 'j', 'u', '+', 'b', 'a', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+arang,"['a', 'r', 'a', 'ŋ']",Indonesian,0.5,Early Malay
+orang,"['o', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+manusia,"['m', 'a', 'n', 'u', 's', 'i', 'a']",Indonesian,0.75,Early Malay
+insan,"['i', 'n', 's', 'a', 'n']",Indonesian,1.0,Early Malay
+"laki-laki, lelaki","['l', 'a', 'k', 'i', '+', 'l', 'a', 'k', 'i']",Indonesian,0.0,Prehistorical
+pria,"['p', 'r', 'i', 'a']",Indonesian,1.0,Early Malay
+cowok,"['tʃ', 'o', 'w', 'o', 'ʔ']",Indonesian,0.0,Modern
+perempuan,"['p', 'e', 'r', 'e', 'm', 'p', 'u', 'a', 'n']",Indonesian,0.0,Prehistorical
+wanita,"['w', 'a', 'n', 'i', 't', 'a']",Indonesian,1.0,Early Malay
+céwék,"['tʃ', 'é/e', 'w', 'é/e', 'ʔ']",Indonesian,0.5,Modern
+"laki-laki, lelaki","['l', 'a', 'k', 'i', '+', 'l', 'a', 'k', 'i']",Indonesian,0.0,Prehistorical
+pria,"['p', 'r', 'i', 'a']",Indonesian,1.0,Early Malay
+perempuan,"['p', 'e', 'r', 'e', 'm', 'p', 'u', 'a', 'n']",Indonesian,0.0,Prehistorical
+wanita,"['w', 'a', 'n', 'i', 't', 'a']",Indonesian,1.0,Early Malay
+"putra, putera","['p', 'u', 't', 'r', 'a']",Indonesian,1.0,Early Malay
+anak muda,"['a', 'n', 'a', 'k', '+', 'm', 'u', 'd', 'a']",Indonesian,0.0,Early Malay
+teruna,"['t', 'e', 'r', 'u', 'n', 'a']",Indonesian,1.0,Early Malay
+pemuda,"['p', 'e', 'm', 'u', 'd', 'a']",Indonesian,0.0,Prehistorical
+gadis,"['g', 'a', 'd', 'i', 's']",Indonesian,0.75,Modern
+"putri, puteri","['p', 'u', 't', 'r', 'i']",Indonesian,1.0,Early Malay
+dara,"['d', 'a', 'r', 'a']",Indonesian,0.25,Early Malay
+gadis,"['g', 'a', 'd', 'i', 's']",Indonesian,0.75,Modern
+anak,"['a', 'n', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+bocah,"['b', 'o', 'tʃ', 'a', 'h']",Indonesian,1.0,Modern
+bayi,"['b', 'a', 'j', 'i']",Indonesian,1.0,Modern
+suami,"['s', 'u', 'a', 'm', 'i']",Indonesian,1.0,Early Malay
+laki,"['l', 'a', 'k', 'i']",Indonesian,0.0,Prehistorical
+istri,"['i', 's', 't', 'r', 'i']",Indonesian,1.0,Early Malay
+bini,"['b', 'i', 'n', 'i']",Indonesian,0.0,Prehistorical
+mengawini,"['m', 'e', 'ŋ', 'a', 'w', 'i', 'n', 'i']",Indonesian,0.0,Early Malay
+menikahi,"['m', 'e', 'n', 'i', 'k', 'a', 'h', 'i']",Indonesian,0.0,Early Malay
+pernikahan,"['p', 'e', 'r', 'n', 'i', 'k', 'a', 'h', 'a', 'n']",Indonesian,0.0,Early Malay
+perkawinan,"['p', 'e', 'r', 'k', 'a', 'w', 'i', 'n', 'a', 'n']",Indonesian,0.0,Early Malay
+perceraian,"['p', 'e', 'r', 'tʃ', 'e', 'r', 'a', 'i', 'a', 'n']",Indonesian,0.0,Early Malay
+talak,"['t', 'a', 'l', 'a', 'ʔ']",Indonesian,1.0,Early Malay
+"bapa, bapak","['b', 'a', 'p', 'a']",Indonesian,0.75,Early Malay
+ayah,"['a', 'j', 'a', 'h']",Indonesian,0.5,Early Malay
+"papa, papi","['p', 'a', 'p', 'a']",Indonesian,1.0,Modern
+ibu,"['i', 'b', 'u']",Indonesian,0.75,Early Malay
+"mak, emak","['m', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+"bunda, ibunda","['b', 'u', 'n', 'd', 'a']",Indonesian,0.0,Early Malay
+"induk, indung","['i', 'n', 'd', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+"mama, mami","['m', 'a', 'm', 'a']",Indonesian,1.0,Modern
+orang tua,"['o', 'r', 'a', 'ŋ', '+', 't', 'u', 'a']",Indonesian,0.0,Prehistorical
+"putra, putera","['p', 'u', 't', 'r', 'a']",Indonesian,1.0,Early Malay
+"putri, puteri","['p', 'u', 't', 'r', 'i']",Indonesian,1.0,Early Malay
+(ikan) lumba-lumba,"['i', 'k', 'a', 'n', '+', 'l', 'u', 'm', 'b', 'a', '+', 'l', 'u', 'm', 'b', 'a']",Indonesian,0.0,Prehistorical
+anak,"['a', 'n', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+abang,"['a', 'b', 'a', 'ŋ']",Indonesian,0.5,Early Malay
+saudara (kandung),"['s', 'a', 'u', 'd', 'a', 'r', 'a', '+', 'k', 'a', 'n', 'd', 'u', 'ŋ']",Indonesian,0.0,Modern
+kembar,"['k', 'e', 'm', 'b', 'a', 'r']",Indonesian,0.25,Prehistorical
+kakék,"['k', 'a', 'k', 'é/e', 'ʔ']",Indonesian,0.5,Modern
+opa,"['o', 'p', 'a']",Indonesian,1.0,Modern
+nénék,"['n', 'é/e', 'n', 'é/e', 'ʔ']",Indonesian,0.5,Modern
+oma,"['o', 'm', 'a']",Indonesian,1.0,Modern
+paman,"['p', 'a', 'm', 'a', 'n']",Indonesian,1.0,Modern
+"om, oom","['o', 'm']",Indonesian,1.0,Modern
+bibi,"['b', 'i', 'b', 'i']",Indonesian,0.75,Modern
+tante,"['t', 'a', 'n', 't', 'e']",Indonesian,1.0,Modern
+sepupu,"['s', 'e', 'p', 'u', 'p', 'u']",Indonesian,0.0,Prehistorical
+nénék-moyang,"['n', 'é/e', 'n', 'é/e', 'k', '+', 'm', 'o', 'j', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+leluhur,"['l', 'e', 'l', 'u', 'h', 'u', 'r']",Indonesian,1.0,Modern
+keturunan,"['k', 'e', 't', 'u', 'r', 'u', 'n', 'a', 'n']",Indonesian,0.0,Prehistorical
+anak-cucu,"['a', 'n', 'a', 'k', '+', 'tʃ', 'u', 'tʃ', 'u']",Indonesian,0.0,Prehistorical
+bapak tiri,"['b', 'a', 'p', 'a', 'k', '+', 't', 'i', 'r', 'i']",Indonesian,0.0,Early Malay
+ayah tiri,"['a', 'j', 'a', 'h', '+', 't', 'i', 'r', 'i']",Indonesian,0.0,Early Malay
+ibu tiri,"['i', 'b', 'u', '+', 't', 'i', 'r', 'i']",Indonesian,0.0,Early Malay
+mak/emak tiri,"['m', 'a', 'k', '+', 't', 'i', 'r', 'i']",Indonesian,0.0,Prehistorical
+yatim-piatu,"['j', 'a', 't', 'i', 'm', '+', 'p', 'i', 'a', 't', 'u']",Indonesian,0.0,Early Malay
+janda,"['dʒ', 'a', 'n', 'd', 'a']",Indonesian,0.75,Early Malay
+duda,"['d', 'u', 'd', 'a']",Indonesian,1.0,Modern
+famili,"['f', 'a', 'm', 'i', 'l', 'i']",Indonesian,1.0,Modern
+saudara,"['s', 'a', 'u', 'd', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+sanak,"['s', 'a', 'n', 'a', 'ʔ']",Indonesian,0.0,Early Malay
+kerabat,"['k', 'e', 'r', 'a', 'b', 'a', 't']",Indonesian,1.0,Early Malay
+keluarga,"['k', 'e', 'l', 'u', 'a', 'r', 'g', 'a']",Indonesian,0.75,Early Malay
+aku,"['a', 'k', 'u']",Indonesian,0.0,Prehistorical
+saya,"['s', 'a', 'j', 'a']",Indonesian,0.75,Early Malay
+kamu,"['k', 'a', 'm', 'u']",Indonesian,0.0,Prehistorical
+"kau, engkau","['k', 'aʊ']",Indonesian,0.0,Prehistorical
+dia,"['d', 'i', 'a']",Indonesian,0.0,Prehistorical
+ia,"['i', 'a']",Indonesian,0.0,Prehistorical
+beliau,"['b', 'e', 'l', 'i', 'aʊ']",Indonesian,0.0,Prehistorical
+kita,"['k', 'i', 't', 'a']",Indonesian,0.0,Prehistorical
+kami,"['k', 'a', 'm', 'i']",Indonesian,0.0,Prehistorical
+kalian,"['k', 'a', 'l', 'i', 'a', 'n']",Indonesian,1.0,Modern
+meréka,"['m', 'e', 'r', 'é/e', 'k', 'a']",Indonesian,1.0,Early Malay
+binatang,"['b', 'i', 'n', 'a', 't', 'a', 'ŋ']",Indonesian,0.75,Early Malay
+héwan,"['h', 'é/e', 'w', 'a', 'n']",Indonesian,1.0,Early Malay
+jantan,"['dʒ', 'a', 'n', 't', 'a', 'n']",Indonesian,0.0,Prehistorical
+betina,"['b', 'e', 't', 'i', 'n', 'a']",Indonesian,0.0,Prehistorical
+ternak,"['t', 'e', 'r', 'n', 'a', 'ʔ']",Indonesian,0.0,Early Malay
+gembala,"['g', 'e', 'm', 'b', 'a', 'l', 'a']",Indonesian,0.75,Early Malay
+kandang,"['k', 'a', 'n', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+sapi,"['s', 'a', 'p', 'i']",Indonesian,1.0,Modern
+lembu,"['l', 'e', 'm', 'b', 'u']",Indonesian,0.0,Prehistorical
+domba,"['d', 'o', 'm', 'b', 'a']",Indonesian,1.0,Early Malay
+biri-biri,"['b', 'i', 'r', 'i', '+', 'b', 'i', 'r', 'i']",Indonesian,0.5,Early Malay
+babi hutan,"['b', 'a', 'b', 'i', '+', 'h', 'u', 't', 'a', 'n']",Indonesian,0.0,Prehistorical
+céléng,"['tʃ', 'é/e', 'l', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+babi,"['b', 'a', 'b', 'i']",Indonesian,0.0,Prehistorical
+kambing,"['k', 'a', 'm', 'b', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+kuda,"['k', 'u', 'd', 'a']",Indonesian,1.0,Early Malay
+keledai,"['k', 'e', 'l', 'e', 'd', 'aɪ']",Indonesian,1.0,Early Malay
+bagal,"['b', 'a', 'g', 'a', 'l']",Indonesian,1.0,Early Malay
+unggas,"['u', 'ŋ', 'g', 'a', 's']",Indonesian,0.25,Early Malay
+(ayam) jago,"['a', 'j', 'a', 'm', '+', 'dʒ', 'a', 'g', 'o']",Indonesian,1.0,Modern
+ayam,"['a', 'j', 'a', 'm']",Indonesian,0.0,Prehistorical
+angsa,"['a', 'ŋ', 's', 'a']",Indonesian,1.0,Early Malay
+bébék,"['b', 'é/e', 'b', 'é/e', 'ʔ']",Indonesian,1.0,Modern
+itik,"['i', 't', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+sarang,"['s', 'a', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+burung,"['b', 'u', 'r', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+camar (laut),"['tʃ', 'a', 'm', 'a', 'r', '+', 'l', 'a', 'u', 't']",Indonesian,0.0,Prehistorical
+bangau,"['b', 'a', 'ŋ', 'aʊ']",Indonesian,0.0,Prehistorical
+rajawali,"['r', 'a', 'dʒ', 'a', 'w', 'a', 'l', 'i']",Indonesian,1.0,Early Malay
+elang,"['e', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+hering,"['h', 'e', 'r', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+kelelawar,"['k', 'e', 'l', 'e', 'l', 'a', 'w', 'a', 'r']",Indonesian,0.25,Prehistorical
+kalong,"['k', 'a', 'l', 'o', 'ŋ']",Indonesian,1.0,Modern
+(burung) nuri,"['b', 'u', 'r', 'u', 'ŋ', '+', 'n', 'u', 'r', 'i']",Indonesian,0.75,Early Malay
+(burung) bétét,"['b', 'u', 'r', 'u', 'ŋ', '+', 'b', 'é/e', 't', 'é/e', 't']",Indonesian,1.0,Modern
+(burung) gagak,"['b', 'u', 'r', 'u', 'ŋ', '+', 'g', 'a', 'g', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+(burung) merpati,"['b', 'u', 'r', 'u', 'ŋ', '+', 'm', 'e', 'r', 'p', 'a', 't', 'i']",Indonesian,1.0,Early Malay
+burung hantu,"['b', 'u', 'r', 'u', 'ŋ', '+', 'h', 'a', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+anjing,"['a', 'ɲ', 'i', 'ŋ']",Indonesian,0.5,Early Malay
+kelinci,"['k', 'e', 'l', 'i', 'ɲ', 'i']",Indonesian,1.0,Modern
+terwélu,"['t', 'e', 'r', 'w', 'é/e', 'l', 'u']",Indonesian,1.0,Modern
+arnab,"['a', 'r', 'n', 'a', 'b']",Indonesian,1.0,Early Malay
+kucing,"['k', 'u', 'tʃ', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+oposum,"['o', 'p', 'o', 's', 'u', 'm']",Indonesian,1.0,Modern
+tikus,"['t', 'i', 'k', 'u', 's']",Indonesian,0.0,Prehistorical
+ikan,"['i', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+sirip,"['s', 'i', 'r', 'i', 'p']",Indonesian,0.0,Prehistorical
+sisik,"['s', 'i', 's', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+insang,"['i', 'n', 's', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kerang,"['k', 'e', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+(ikan) hiu,"['i', 'k', 'a', 'n', '+', 'h', 'i', 'u']",Indonesian,0.0,Prehistorical
+(ikan) paus,"['i', 'k', 'a', 'n', '+', 'p', 'a', 'u', 's']",Indonesian,0.0,Prehistorical
+(ikan) pari,"['i', 'k', 'a', 'n', '+', 'p', 'a', 'r', 'i']",Indonesian,0.0,Prehistorical
+belut,"['b', 'e', 'l', 'u', 't']",Indonesian,0.0,Prehistorical
+lindung,"['l', 'i', 'n', 'd', 'u', 'ŋ']",Indonesian,1.0,Modern
+serigala,"['s', 'e', 'r', 'i', 'g', 'a', 'l', 'a']",Indonesian,1.0,Early Malay
+singa,"['s', 'i', 'ŋ', 'a']",Indonesian,1.0,Early Malay
+beruang,"['b', 'e', 'r', 'u', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+rubah,"['r', 'u', 'b', 'a', 'h']",Indonesian,1.0,Early Malay
+rusa,"['r', 'u', 's', 'a']",Indonesian,0.0,Prehistorical
+kijang,"['k', 'i', 'dʒ', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+monyét,"['m', 'o', 'ɲ', 'é/e', 't']",Indonesian,1.0,Modern
+gajah,"['g', 'a', 'dʒ', 'a', 'h']",Indonesian,1.0,Early Malay
+"unta, onta","['u', 'n', 't', 'a']",Indonesian,1.0,Early Malay
+serangga,"['s', 'e', 'r', 'a', 'ŋ', 'g', 'a']",Indonesian,0.5,Early Malay
+tuma,"['t', 'u', 'm', 'a']",Indonesian,0.0,Prehistorical
+caplak,"['tʃ', 'a', 'p', 'l', 'a', 'ʔ']",Indonesian,1.0,Modern
+lipan,"['l', 'i', 'p', 'a', 'n']",Indonesian,0.0,Prehistorical
+kalajengking,"['k', 'a', 'l', 'a', 'dʒ', 'e', 'ŋ', 'k', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+kecoa,"['k', 'e', 'tʃ', 'o', 'a']",Indonesian,1.0,Modern
+semut,"['s', 'e', 'm', 'u', 't']",Indonesian,1.0,Early Malay
+laba-laba,"['l', 'a', 'b', 'a', '+', 'l', 'a', 'b', 'a']",Indonesian,0.5,Early Malay
+lebah,"['l', 'e', 'b', 'a', 'h']",Indonesian,0.0,Prehistorical
+tawon,"['t', 'a', 'w', 'o', 'n']",Indonesian,1.0,Modern
+lilin,"['l', 'i', 'l', 'i', 'n']",Indonesian,0.0,Prehistorical
+tawon,"['t', 'a', 'w', 'o', 'n']",Indonesian,1.0,Modern
+penyengat,"['p', 'e', 'ɲ', 'e', 'ŋ', 'a', 't']",Indonesian,0.0,Prehistorical
+tabuhan,"['t', 'a', 'b', 'u', 'h', 'a', 'n']",Indonesian,0.25,Modern
+lalat,"['l', 'a', 'l', 'a', 't']",Indonesian,0.0,Prehistorical
+agas,"['a', 'g', 'a', 's']",Indonesian,0.0,Prehistorical
+nyamuk,"['ɲ', 'a', 'm', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+cacing,"['tʃ', 'a', 'tʃ', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+ular,"['u', 'l', 'a', 'r']",Indonesian,0.0,Prehistorical
+kunang-kunang,"['k', 'u', 'n', 'a', 'ŋ', '+', 'k', 'u', 'n', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kupu-kupu,"['k', 'u', 'p', 'u', '+', 'k', 'u', 'p', 'u']",Indonesian,0.0,Prehistorical
+rama-rama,"['r', 'a', 'm', 'a', '+', 'r', 'a', 'm', 'a']",Indonesian,0.0,Prehistorical
+belalang,"['b', 'e', 'l', 'a', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+siput,"['s', 'i', 'p', 'u', 't']",Indonesian,0.0,Prehistorical
+kéong,"['k', 'é/e', 'o', 'ŋ']",Indonesian,1.0,Modern
+bekicot,"['b', 'e', 'k', 'i', 'tʃ', 'o', 't']",Indonesian,1.0,Modern
+kodok,"['k', 'o', 'd', 'o', 'ʔ']",Indonesian,1.0,Modern
+katak,"['k', 'a', 't', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+kadal,"['k', 'a', 'd', 'a', 'l']",Indonesian,1.0,Modern
+cicak,"['tʃ', 'i', 'tʃ', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+buaya,"['b', 'u', 'a', 'j', 'a']",Indonesian,0.0,Prehistorical
+kura-kura,"['k', 'u', 'r', 'a', '+', 'k', 'u', 'r', 'a']",Indonesian,0.0,Prehistorical
+badan,"['b', 'a', 'd', 'a', 'n']",Indonesian,1.0,Early Malay
+tubuh,"['t', 'u', 'b', 'u', 'h']",Indonesian,0.0,Prehistorical
+kulit,"['k', 'u', 'l', 'i', 't']",Indonesian,0.0,Prehistorical
+belulang,"['b', 'e', 'l', 'u', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+daging,"['d', 'a', 'g', 'i', 'ŋ']",Indonesian,0.5,Early Malay
+rambut,"['r', 'a', 'm', 'b', 'u', 't']",Indonesian,0.5,Early Malay
+jénggot,"['dʒ', 'é/e', 'ŋ', 'g', 'o', 't']",Indonesian,1.0,Modern
+janggut,"['dʒ', 'a', 'ŋ', 'g', 'u', 't']",Indonesian,0.0,Prehistorical
+bréwok,"['b', 'r', 'é/e', 'w', 'o', 'ʔ']",Indonesian,1.0,Modern
+bulu,"['b', 'u', 'l', 'u']",Indonesian,0.0,Prehistorical
+jambut,"['dʒ', 'a', 'm', 'b', 'u', 't']",Indonesian,1.0,Modern
+ketombé,"['k', 'e', 't', 'o', 'm', 'b', 'é/e']",Indonesian,1.0,Modern
+darah,"['d', 'a', 'r', 'a', 'h']",Indonesian,0.0,Prehistorical
+pembuluh (darah),"['p', 'e', 'm', 'b', 'u', 'l', 'u', 'h', '+', 'd', 'a', 'r', 'a', 'h']",Indonesian,0.0,Modern
+urat,"['u', 'r', 'a', 't']",Indonesian,0.0,Prehistorical
+arteri,"['a', 'r', 't', 'e', 'r', 'i']",Indonesian,1.0,Modern
+tulang,"['t', 'u', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+rusuk,"['r', 'u', 's', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+iga,"['i', 'g', 'a']",Indonesian,1.0,Prehistorical
+tanduk,"['t', 'a', 'n', 'd', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+ékor,"['é/e', 'k', 'o', 'r']",Indonesian,0.0,Prehistorical
+buntut,"['b', 'u', 'n', 't', 'u', 't']",Indonesian,0.75,Modern
+punggung,"['p', 'u', 'ŋ', 'g', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+belakang,"['b', 'e', 'l', 'a', 'k', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+pinggang,"['p', 'i', 'ŋ', 'g', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+tulang belakang,"['t', 'u', 'l', 'a', 'ŋ', '+', 'b', 'e', 'l', 'a', 'k', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kepala,"['k', 'e', 'p', 'a', 'l', 'a']",Indonesian,1.0,Early Malay
+pelipis,"['p', 'e', 'l', 'i', 'p', 'i', 's']",Indonesian,0.0,Prehistorical
+tengkorak,"['t', 'e', 'ŋ', 'k', 'o', 'r', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+otak,"['o', 't', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+muka,"['m', 'u', 'k', 'a']",Indonesian,1.0,Early Malay
+wajah,"['w', 'a', 'dʒ', 'a', 'h']",Indonesian,1.0,Early Malay
+dahi,"['d', 'a', 'h', 'i']",Indonesian,0.0,Prehistorical
+rahang,"['r', 'a', 'h', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+pipi,"['p', 'i', 'p', 'i']",Indonesian,0.0,Prehistorical
+dagu,"['d', 'a', 'g', 'u']",Indonesian,0.0,Prehistorical
+mata,"['m', 'a', 't', 'a']",Indonesian,0.0,Prehistorical
+alis (mata),"['a', 'l', 'i', 's', '+', 'm', 'a', 't', 'a']",Indonesian,0.0,Prehistorical
+kelopak mata,"['k', 'e', 'l', 'o', 'p', 'a', 'k', '+', 'm', 'a', 't', 'a']",Indonesian,0.0,Prehistorical
+bulu mata,"['b', 'u', 'l', 'u', '+', 'm', 'a', 't', 'a']",Indonesian,0.0,Prehistorical
+berkedip,"['b', 'e', 'r', 'k', 'e', 'd', 'i', 'p']",Indonesian,0.0,Prehistorical
+telinga,"['t', 'e', 'l', 'i', 'ŋ', 'a']",Indonesian,0.0,Prehistorical
+kuping,"['k', 'u', 'p', 'i', 'ŋ']",Indonesian,1.0,Modern
+cuping,"['tʃ', 'u', 'p', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+kotoran telinga,"['k', 'o', 't', 'o', 'r', 'a', 'n', '+', 't', 'e', 'l', 'i', 'ŋ', 'a']",Indonesian,0.0,Prehistorical
+tahi kuping,"['t', 'a', 'h', 'i', '+', 'k', 'u', 'p', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+hidung,"['h', 'i', 'd', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+lubang hidung,"['l', 'u', 'b', 'a', 'ŋ', '+', 'h', 'i', 'd', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+rongga hidung,"['r', 'o', 'ŋ', 'g', 'a', '+', 'h', 'i', 'd', 'u', 'ŋ']",Indonesian,0.0,Early Malay
+ingus,"['i', 'ŋ', 'u', 's']",Indonesian,0.0,Prehistorical
+mulut,"['m', 'u', 'l', 'u', 't']",Indonesian,0.0,Prehistorical
+paruh,"['p', 'a', 'r', 'u', 'h']",Indonesian,0.0,Prehistorical
+bibir,"['b', 'i', 'b', 'i', 'r']",Indonesian,0.0,Prehistorical
+lidah,"['l', 'i', 'd', 'a', 'h']",Indonesian,0.0,Prehistorical
+gigi,"['g', 'i', 'g', 'i']",Indonesian,0.0,Prehistorical
+gusi,"['g', 'u', 's', 'i']",Indonesian,0.0,Prehistorical
+(gigi) geraham,"['g', 'i', 'g', 'i', '+', 'g', 'e', 'r', 'a', 'h', 'a', 'm']",Indonesian,0.25,Prehistorical
+léhér,"['l', 'é/e', 'h', 'é/e', 'r']",Indonesian,0.0,Prehistorical
+tengkuk,"['t', 'e', 'ŋ', 'k', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+tenggorokan,"['t', 'e', 'ŋ', 'g', 'o', 'r', 'o', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+kerongkongan,"['k', 'e', 'r', 'o', 'ŋ', 'k', 'o', 'ŋ', 'a', 'n']",Indonesian,0.75,Modern
+bahu,"['b', 'a', 'h', 'u']",Indonesian,0.75,Early Malay
+pundak,"['p', 'u', 'n', 'd', 'a', 'ʔ']",Indonesian,1.0,Modern
+tulang belikat,"['t', 'u', 'l', 'a', 'ŋ', '+', 'b', 'e', 'l', 'i', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+tulang selangka,"['t', 'u', 'l', 'a', 'ŋ', '+', 's', 'e', 'l', 'a', 'ŋ', 'k', 'a']",Indonesian,0.0,Prehistorical
+lengan,"['l', 'e', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+ketiak,"['k', 'e', 't', 'i', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+kéték,"['k', 'é/e', 't', 'é/e', 'ʔ']",Indonesian,1.0,Modern
+siku,"['s', 'i', 'k', 'u']",Indonesian,0.0,Prehistorical
+pergelangan tangan,"['p', 'e', 'r', 'g', 'e', 'l', 'a', 'ŋ', 'a', 'n', '+', 't', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Modern
+tangan,"['t', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+tapak/telapak tangan,"['t', 'a', 'p', 'a', 'k', '+', 't', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+jari,"['dʒ', 'a', 'r', 'i']",Indonesian,0.0,Prehistorical
+jempol,"['dʒ', 'e', 'm', 'p', 'o', 'l']",Indonesian,1.0,Modern
+ibu jari,"['i', 'b', 'u', '+', 'dʒ', 'a', 'r', 'i']",Indonesian,0.0,Early Malay
+kuku,"['k', 'u', 'k', 'u']",Indonesian,0.0,Prehistorical
+cakar,"['tʃ', 'a', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+kaki,"['k', 'a', 'k', 'i']",Indonesian,0.0,Prehistorical
+paha,"['p', 'a', 'h', 'a']",Indonesian,0.0,Prehistorical
+betis,"['b', 'e', 't', 'i', 's']",Indonesian,0.0,Prehistorical
+lutut,"['l', 'u', 't', 'u', 't']",Indonesian,0.0,Prehistorical
+kaki,"['k', 'a', 'k', 'i']",Indonesian,0.0,Prehistorical
+mata kaki,"['m', 'a', 't', 'a', '+', 'k', 'a', 'k', 'i']",Indonesian,0.0,Prehistorical
+tumit,"['t', 'u', 'm', 'i', 't']",Indonesian,0.0,Prehistorical
+jejak,"['dʒ', 'e', 'dʒ', 'a', 'ʔ']",Indonesian,0.25,Prehistorical
+jari kaki,"['dʒ', 'a', 'r', 'i', '+', 'k', 'a', 'k', 'i']",Indonesian,0.0,Prehistorical
+sayap,"['s', 'a', 'j', 'a', 'p']",Indonesian,0.0,Prehistorical
+bulu (burung),"['b', 'u', 'l', 'u', '+', 'b', 'u', 'r', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+dada,"['d', 'a', 'd', 'a']",Indonesian,0.0,Prehistorical
+susu (1),"['s', 'u', 's', 'u']",Indonesian,0.0,Prehistorical
+payudara,"['p', 'a', 'j', 'u', 'd', 'a', 'r', 'a']",Indonesian,1.0,Modern
+puting,"['p', 'u', 't', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+ambing,"['a', 'm', 'b', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+pusar,"['p', 'u', 's', 'a', 'r']",Indonesian,0.75,Modern
+jantung,"['dʒ', 'a', 'n', 't', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+paru-paru,"['p', 'a', 'r', 'u', '+', 'p', 'a', 'r', 'u']",Indonesian,0.0,Prehistorical
+léver,"['l', 'é/e', 'v', 'e', 'r']",Indonesian,1.0,Modern
+hati,"['h', 'a', 't', 'i']",Indonesian,0.0,Prehistorical
+ginjal,"['g', 'i', 'ɲ', 'a', 'l']",Indonesian,0.0,Prehistorical
+limpa,"['l', 'i', 'm', 'p', 'a']",Indonesian,0.0,Prehistorical
+lambung,"['l', 'a', 'm', 'b', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+maag,"['m', 'aː', 'g']",Indonesian,1.0,Modern
+perut,"['p', 'e', 'r', 'u', 't']",Indonesian,0.0,Prehistorical
+usus,"['u', 's', 'u', 's']",Indonesian,0.75,Modern
+pinggang,"['p', 'i', 'ŋ', 'g', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+pinggul,"['p', 'i', 'ŋ', 'g', 'u', 'l']",Indonesian,0.0,Prehistorical
+pantat,"['p', 'a', 'n', 't', 'a', 't']",Indonesian,0.0,Prehistorical
+rahim,"['r', 'a', 'h', 'i', 'm']",Indonesian,1.0,Early Malay
+"kandung, kandungan","['k', 'a', 'n', 'd', 'u', 'ŋ']",Indonesian,0.5,Modern
+biji kemaluan,"['b', 'i', 'dʒ', 'i', '+', 'k', 'e', 'm', 'a', 'l', 'u', 'a', 'n']",Indonesian,0.0,Modern
+buah pelir,"['b', 'u', 'a', 'h', '+', 'p', 'e', 'l', 'i', 'r']",Indonesian,0.0,Prehistorical
+testis,"['t', 'e', 's', 't', 'i', 's']",Indonesian,1.0,Modern
+pénis,"['p', 'é/e', 'n', 'i', 's']",Indonesian,1.0,Modern
+kontol,"['k', 'o', 'n', 't', 'o', 'l']",Indonesian,0.75,Modern
+pelir,"['p', 'e', 'l', 'i', 'r']",Indonesian,0.0,Prehistorical
+bernafas,"['b', 'e', 'r', 'n', 'a', 'f', 'a', 's']",Indonesian,1.0,Early Malay
+menguap,"['m', 'e', 'ŋ', 'u', 'a', 'p']",Indonesian,0.0,Prehistorical
+cegukan,"['tʃ', 'e', 'g', 'u', 'k', 'a', 'n']",Indonesian,0.0,Modern
+batuk,"['b', 'a', 't', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+bersin,"['b', 'e', 'r', 's', 'i', 'n']",Indonesian,0.0,Prehistorical
+berkeringat,"['b', 'e', 'r', 'k', 'e', 'r', 'i', 'ŋ', 'a', 't']",Indonesian,0.0,Prehistorical
+meludah,"['m', 'e', 'l', 'u', 'd', 'a', 'h']",Indonesian,0.0,Prehistorical
+muntah,"['m', 'u', 'n', 't', 'a', 'h']",Indonesian,0.25,Early Malay
+menggigit,"['m', 'e', 'ŋ', 'g', 'i', 'g', 'i', 't']",Indonesian,0.0,Prehistorical
+menjilat,"['m', 'e', 'ɲ', 'i', 'l', 'a', 't']",Indonesian,0.0,Prehistorical
+berliur,"['b', 'e', 'r', 'l', 'i', 'u', 'r']",Indonesian,0.0,Prehistorical
+mengiler,"['m', 'e', 'ŋ', 'i', 'l', 'e', 'r']",Indonesian,1.0,Modern
+tidur,"['t', 'i', 'd', 'u', 'r']",Indonesian,0.0,Prehistorical
+mendengkur,"['m', 'e', 'n', 'd', 'e', 'ŋ', 'k', 'u', 'r']",Indonesian,0.0,Prehistorical
+mimpi,"['m', 'i', 'm', 'p', 'i']",Indonesian,0.0,Prehistorical
+bangun,"['b', 'a', 'ŋ', 'u', 'n']",Indonesian,0.0,Prehistorical
+kentut,"['k', 'e', 'n', 't', 'u', 't']",Indonesian,0.0,Prehistorical
+buang angin,"['b', 'u', 'a', 'ŋ', '+', 'a', 'ŋ', 'i', 'n']",Indonesian,0.0,Modern
+kencing,"['k', 'e', 'ɲ', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+bérak,"['b', 'é/e', 'r', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+bersetubuh,"['b', 'e', 'r', 's', 'e', 't', 'u', 'b', 'u', 'h']",Indonesian,0.0,Prehistorical
+menggigil,"['m', 'e', 'ŋ', 'g', 'i', 'g', 'i', 'l']",Indonesian,0.0,Prehistorical
+mandi,"['m', 'a', 'n', 'd', 'i']",Indonesian,0.0,Prehistorical
+memperanakkan,"['m', 'e', 'm', 'p', 'e', 'r', 'a', 'n', 'a', 'k', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+lahir,"['l', 'a', 'h', 'i', 'r']",Indonesian,1.0,Early Malay
+hamil,"['h', 'a', 'm', 'i', 'l']",Indonesian,1.0,Early Malay
+bunting,"['b', 'u', 'n', 't', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+mengandung,"['m', 'e', 'ŋ', 'a', 'n', 'd', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+hidup,"['h', 'i', 'd', 'u', 'p']",Indonesian,0.0,Prehistorical
+mati,"['m', 'a', 't', 'i']",Indonesian,0.0,Prehistorical
+tenggelam,"['t', 'e', 'ŋ', 'g', 'e', 'l', 'a', 'm']",Indonesian,0.0,Prehistorical
+membunuh,"['m', 'e', 'm', 'b', 'u', 'n', 'u', 'h']",Indonesian,0.0,Prehistorical
+mayat,"['m', 'a', 'j', 'a', 't']",Indonesian,1.0,Early Malay
+jasad,"['dʒ', 'a', 's', 'a', 'd']",Indonesian,1.0,Early Malay
+jenazah,"['dʒ', 'e', 'n', 'a', 'z', 'a', 'h']",Indonesian,1.0,Early Malay
+mengubur(kan),"['m', 'e', 'ŋ', 'u', 'b', 'u', 'r', 'k', 'a', 'n']",Indonesian,1.0,Early Malay
+"kubur, kuburan","['k', 'u', 'b', 'u', 'r']",Indonesian,1.0,Early Malay
+makam,"['m', 'a', 'k', 'a', 'm']",Indonesian,1.0,Early Malay
+kuat,"['k', 'u', 'a', 't']",Indonesian,0.75,Early Malay
+lemah,"['l', 'e', 'm', 'a', 'h']",Indonesian,0.0,Prehistorical
+séhat,"['s', 'é/e', 'h', 'a', 't']",Indonesian,1.0,Early Malay
+sakit,"['s', 'a', 'k', 'i', 't']",Indonesian,0.0,Prehistorical
+demam,"['d', 'e', 'm', 'a', 'm']",Indonesian,0.0,Prehistorical
+gondok,"['g', 'o', 'n', 'd', 'o', 'ʔ']",Indonesian,0.5,Modern
+flu,"['f', 'l', 'u']",Indonesian,1.0,Modern
+pilek,"['p', 'i', 'l', 'e', 'ʔ']",Indonesian,1.0,Modern
+"selesma, selésma","['s', 'e', 'l', 'e', 's', 'm', 'a']",Indonesian,1.0,Early Malay
+masuk angin,"['m', 'a', 's', 'u', 'k', '+', 'a', 'ŋ', 'i', 'n']",Indonesian,0.5,Modern
+luka,"['l', 'u', 'k', 'a']",Indonesian,0.0,Prehistorical
+memar,"['m', 'e', 'm', 'a', 'r']",Indonesian,0.0,Prehistorical
+bengkak,"['b', 'e', 'ŋ', 'k', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+(rasa) gatal,"['r', 'a', 's', 'a', '+', 'g', 'a', 't', 'a', 'l']",Indonesian,0.0,Prehistorical
+lepuh,"['l', 'e', 'p', 'u', 'h']",Indonesian,0.0,Prehistorical
+bisul,"['b', 'i', 's', 'u', 'l']",Indonesian,0.0,Prehistorical
+nanah,"['n', 'a', 'n', 'a', 'h']",Indonesian,0.0,Prehistorical
+parut,"['p', 'a', 'r', 'u', 't']",Indonesian,0.0,Prehistorical
+meyembuhkan,"['m', 'e', 'j', 'e', 'm', 'b', 'u', 'h', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+dokter,"['d', 'o', 'k', 't', 'e', 'r']",Indonesian,1.0,Modern
+obat,"['o', 'b', 'a', 't']",Indonesian,0.0,Prehistorical
+racun,"['r', 'a', 'tʃ', 'u', 'n']",Indonesian,0.0,Prehistorical
+"capék, capai","['tʃ', 'a', 'p', 'é/e', 'ʔ']",Indonesian,1.0,Modern
+lelah,"['l', 'e', 'l', 'a', 'h']",Indonesian,0.0,Prehistorical
+beristirahat,"['b', 'e', 'r', 'i', 's', 't', 'i', 'r', 'a', 'h', 'a', 't']",Indonesian,1.0,Early Malay
+malas,"['m', 'a', 'l', 'a', 's']",Indonesian,0.0,Prehistorical
+botak,"['b', 'o', 't', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+pincang,"['p', 'i', 'ɲ', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+tuli,"['t', 'u', 'l', 'i']",Indonesian,0.0,Prehistorical
+budek,"['b', 'u', 'd', 'e', 'ʔ']",Indonesian,1.0,Modern
+bisu,"['b', 'i', 's', 'u']",Indonesian,0.0,Prehistorical
+buta,"['b', 'u', 't', 'a']",Indonesian,0.0,Prehistorical
+mabuk,"['m', 'a', 'b', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+telanjang,"['t', 'e', 'l', 'a', 'ɲ', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+makan,"['m', 'a', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+makanan,"['m', 'a', 'k', 'a', 'n', 'a', 'n']",Indonesian,0.0,Prehistorical
+masak,"['m', 'a', 's', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+mentah,"['m', 'e', 'n', 't', 'a', 'h']",Indonesian,0.0,Prehistorical
+matang,"['m', 'a', 't', 'a', 'ŋ']",Indonesian,0.5,Early Malay
+masak,"['m', 'a', 's', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+mentah,"['m', 'e', 'n', 't', 'a', 'h']",Indonesian,0.0,Prehistorical
+basi,"['b', 'a', 's', 'i']",Indonesian,0.0,Prehistorical
+busuk,"['b', 'u', 's', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+minum,"['m', 'i', 'n', 'u', 'm']",Indonesian,0.0,Prehistorical
+lapar,"['l', 'a', 'p', 'a', 'r']",Indonesian,0.0,Prehistorical
+kelaparan,"['k', 'e', 'l', 'a', 'p', 'a', 'r', 'a', 'n']",Indonesian,0.0,Prehistorical
+paceklik,"['p', 'a', 'tʃ', 'e', 'k', 'l', 'i', 'ʔ']",Indonesian,1.0,Modern
+haus,"['h', 'a', 'u', 's']",Indonesian,0.0,Prehistorical
+meng(h)isap,"['m', 'e', 'ŋ', 'h', 'i', 's', 'a', 'p']",Indonesian,0.0,Prehistorical
+mengunyah,"['m', 'e', 'ŋ', 'u', 'ɲ', 'a', 'h']",Indonesian,0.0,Prehistorical
+mamah,"['m', 'a', 'm', 'a', 'h']",Indonesian,0.0,Prehistorical
+menelan,"['m', 'e', 'n', 'e', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+mencekik,"['m', 'e', 'ɲ', 'e', 'k', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+memasak,"['m', 'e', 'm', 'a', 's', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+mendidih,"['m', 'e', 'n', 'd', 'i', 'd', 'i', 'h']",Indonesian,0.0,Prehistorical
+menggoréng,"['m', 'e', 'ŋ', 'g', 'o', 'r', 'é/e', 'ŋ']",Indonesian,0.0,Prehistorical
+memanggang,"['m', 'e', 'm', 'a', 'ŋ', 'g', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+memanggang,"['m', 'e', 'm', 'a', 'ŋ', 'g', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+open,"['o', 'p', 'e', 'n']",Indonesian,1.0,Modern
+tungku,"['t', 'u', 'ŋ', 'k', 'u']",Indonesian,0.0,Prehistorical
+dapur,"['d', 'a', 'p', 'u', 'r']",Indonesian,0.0,Prehistorical
+panci,"['p', 'a', 'ɲ', 'i']",Indonesian,0.75,Modern
+periuk,"['p', 'e', 'r', 'i', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+belanga,"['b', 'e', 'l', 'a', 'ŋ', 'a']",Indonesian,0.0,Prehistorical
+cérét,"['tʃ', 'é/e', 'r', 'é/e', 't']",Indonesian,1.0,Modern
+téko,"['t', 'é/e', 'k', 'o']",Indonesian,1.0,Modern
+cérék,"['tʃ', 'é/e', 'r', 'é/e', 'ʔ']",Indonesian,0.0,Prehistorical
+penggoréngan,"['p', 'e', 'ŋ', 'g', 'o', 'r', 'é/e', 'ŋ', 'a', 'n']",Indonesian,0.75,Modern
+panci (goréng),"['p', 'a', 'ɲ', 'i', '+', 'g', 'o', 'r', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+kuali,"['k', 'u', 'a', 'l', 'i']",Indonesian,0.75,Modern
+wajan,"['w', 'a', 'dʒ', 'a', 'n']",Indonesian,1.0,Modern
+piring,"['p', 'i', 'r', 'i', 'ŋ']",Indonesian,0.75,Early Malay
+pinggan,"['p', 'i', 'ŋ', 'g', 'a', 'n']",Indonesian,1.0,Early Malay
+piring,"['p', 'i', 'r', 'i', 'ŋ']",Indonesian,0.75,Early Malay
+"mangkuk, mangkok","['m', 'a', 'ŋ', 'k', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+kendi,"['k', 'e', 'n', 'd', 'i']",Indonesian,0.75,Early Malay
+picer,"['p', 'i', 'tʃ', 'e', 'r']",Indonesian,1.0,Modern
+cangkir,"['tʃ', 'a', 'ŋ', 'k', 'i', 'r']",Indonesian,0.5,No information
+gelas,"['g', 'e', 'l', 'a', 's']",Indonesian,1.0,Modern
+cawan,"['tʃ', 'a', 'w', 'a', 'n']",Indonesian,1.0,Early Malay
+alas cangkir,"['a', 'l', 'a', 's', '+', 'tʃ', 'a', 'ŋ', 'k', 'i', 'r']",Indonesian,0.0,Early Malay
+séndok,"['s', 'é/e', 'n', 'd', 'o', 'ʔ']",Indonesian,0.75,Modern
+pisau,"['p', 'i', 's', 'aʊ']",Indonesian,0.0,Prehistorical
+garpu,"['g', 'a', 'r', 'p', 'u']",Indonesian,1.0,Modern
+tang,"['t', 'a', 'ŋ']",Indonesian,1.0,Modern
+sarapan,"['s', 'a', 'r', 'a', 'p', 'a', 'n']",Indonesian,1.0,Modern
+makan pagi,"['m', 'a', 'k', 'a', 'n', '+', 'p', 'a', 'g', 'i']",Indonesian,0.0,Prehistorical
+makan siang,"['m', 'a', 'k', 'a', 'n', '+', 's', 'i', 'a', 'ŋ']",Indonesian,0.0,Modern
+makan malam,"['m', 'a', 'k', 'a', 'n', '+', 'm', 'a', 'l', 'a', 'm']",Indonesian,0.0,Prehistorical
+mengupas,"['m', 'e', 'ŋ', 'u', 'p', 'a', 's']",Indonesian,0.0,Prehistorical
+menyaring,"['m', 'e', 'ɲ', 'a', 'r', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+meniriskan,"['m', 'e', 'n', 'i', 'r', 'i', 's', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+mengerik,"['m', 'e', 'ŋ', 'e', 'r', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+mengeruk,"['m', 'e', 'ŋ', 'e', 'r', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+mengaduk,"['m', 'e', 'ŋ', 'a', 'd', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+mencampur,"['m', 'e', 'ɲ', 'a', 'm', 'p', 'u', 'r']",Indonesian,0.0,Prehistorical
+roti,"['r', 'o', 't', 'i']",Indonesian,1.0,Early Malay
+adonan,"['a', 'd', 'o', 'n', 'a', 'n']",Indonesian,1.0,Modern
+"meremas, meramas","['m', 'e', 'r', 'e', 'm', 'a', 's']",Indonesian,0.0,Prehistorical
+tepung,"['t', 'e', 'p', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+menumbuk,"['m', 'e', 'n', 'u', 'm', 'b', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+menggiling,"['m', 'e', 'ŋ', 'g', 'i', 'l', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+menghancurkan,"['m', 'e', 'ŋ', 'h', 'a', 'ɲ', 'u', 'r', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+gilingan,"['g', 'i', 'l', 'i', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+lesung,"['l', 'e', 's', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+alu,"['a', 'l', 'u']",Indonesian,0.0,Prehistorical
+daging,"['d', 'a', 'g', 'i', 'ŋ']",Indonesian,0.5,Early Malay
+sosis,"['s', 'o', 's', 'i', 's']",Indonesian,1.0,Modern
+"sop, sup","['s', 'o', 'p']",Indonesian,1.0,Modern
+soto,"['s', 'o', 't', 'o']",Indonesian,1.0,Modern
+"sayur, sayuran","['s', 'a', 'j', 'u', 'r']",Indonesian,0.0,Prehistorical
+kacang,"['k', 'a', 'tʃ', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kentang,"['k', 'e', 'n', 't', 'a', 'ŋ']",Indonesian,1.0,Modern
+buah,"['b', 'u', 'a', 'h']",Indonesian,0.0,Prehistorical
+ikat,"['i', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+gugus,"['g', 'u', 'g', 'u', 's']",Indonesian,0.0,Prehistorical
+tandan,"['t', 'a', 'n', 'd', 'a', 'n']",Indonesian,0.0,Prehistorical
+(buah) ara,"['b', 'u', 'a', 'h', '+', 'a', 'r', 'a']",Indonesian,0.0,Prehistorical
+(buah) anggur,"['b', 'u', 'a', 'h', '+', 'a', 'ŋ', 'g', 'u', 'r']",Indonesian,1.0,Early Malay
+kacang,"['k', 'a', 'tʃ', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+(buah) zaitun,"['b', 'u', 'a', 'h', '+', 'z', 'a', 'i', 't', 'u', 'n']",Indonesian,1.0,Early Malay
+olive,"['o', 'l', 'i', 'v', 'e']",Indonesian,1.0,Modern
+minyak,"['m', 'i', 'ɲ', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+lemak,"['l', 'e', 'm', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+garam,"['g', 'a', 'r', 'a', 'm']",Indonesian,0.0,Prehistorical
+lada,"['l', 'a', 'd', 'a']",Indonesian,0.0,Prehistorical
+merica,"['m', 'e', 'r', 'i', 'tʃ', 'a']",Indonesian,1.0,Modern
+"cabé, cabai","['tʃ', 'a', 'b', 'é/e']",Indonesian,1.0,Modern
+lombok,"['l', 'o', 'm', 'b', 'o', 'ʔ']",Indonesian,1.0,Modern
+madu,"['m', 'a', 'd', 'u']",Indonesian,1.0,Early Malay
+gula,"['g', 'u', 'l', 'a']",Indonesian,1.0,Early Malay
+susu (2),"['s', 'u', 's', 'u']",Indonesian,0.0,Prehistorical
+memerah,"['m', 'e', 'm', 'e', 'r', 'a', 'h']",Indonesian,0.0,Prehistorical
+kéju,"['k', 'é/e', 'dʒ', 'u']",Indonesian,1.0,Early Malay
+mentéga,"['m', 'e', 'n', 't', 'é/e', 'g', 'a']",Indonesian,1.0,Modern
+minuman,"['m', 'i', 'n', 'u', 'm', 'a', 'n']",Indonesian,0.0,Prehistorical
+anggur,"['a', 'ŋ', 'g', 'u', 'r']",Indonesian,1.0,Early Malay
+wine,"['w', 'i', 'n', 'e']",Indonesian,1.0,Modern
+bir,"['b', 'i', 'r']",Indonesian,1.0,Modern
+tuak,"['t', 'u', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+"telur, telor","['t', 'e', 'l', 'u', 'r']",Indonesian,0.0,Prehistorical
+kuning telur,"['k', 'u', 'n', 'i', 'ŋ', '+', 't', 'e', 'l', 'u', 'r']",Indonesian,0.0,Early Malay
+memakai,"['m', 'e', 'm', 'a', 'k', 'aɪ']",Indonesian,0.0,Prehistorical
+mengenakan,"['m', 'e', 'ŋ', 'e', 'n', 'a', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+pakaian,"['p', 'a', 'k', 'a', 'i', 'a', 'n']",Indonesian,0.0,Prehistorical
+baju,"['b', 'a', 'dʒ', 'u']",Indonesian,0.25,Early Malay
+busana,"['b', 'u', 's', 'a', 'n', 'a']",Indonesian,1.0,Early Malay
+tukang jahit,"['t', 'u', 'k', 'a', 'ŋ', '+', 'dʒ', 'a', 'h', 'i', 't']",Indonesian,0.0,Prehistorical
+kain,"['k', 'a', 'i', 'n']",Indonesian,0.0,Prehistorical
+wol,"['w', 'o', 'l']",Indonesian,1.0,Modern
+linen,"['l', 'i', 'n', 'e', 'n']",Indonesian,1.0,Modern
+katun,"['k', 'a', 't', 'u', 'n']",Indonesian,1.0,Modern
+kapas,"['k', 'a', 'p', 'a', 's']",Indonesian,0.75,No information
+sutera,"['s', 'u', 't', 'e', 'r', 'a']",Indonesian,1.0,Early Malay
+bulu,"['b', 'u', 'l', 'u']",Indonesian,0.0,Prehistorical
+kulit (binatang),"['k', 'u', 'l', 'i', 't', '+', 'b', 'i', 'n', 'a', 't', 'a', 'ŋ']",Indonesian,0.0,Early Malay
+memintal,"['m', 'e', 'm', 'i', 'n', 't', 'a', 'l']",Indonesian,0.0,Prehistorical
+kumparan,"['k', 'u', 'm', 'p', 'a', 'r', 'a', 'n']",Indonesian,0.0,Prehistorical
+menenun,"['m', 'e', 'n', 'e', 'n', 'u', 'n']",Indonesian,0.0,Prehistorical
+alat tenun,"['a', 'l', 'a', 't', '+', 't', 'e', 'n', 'u', 'n']",Indonesian,0.0,Early Malay
+menjahit,"['m', 'e', 'ɲ', 'a', 'h', 'i', 't']",Indonesian,0.0,Prehistorical
+jarum,"['dʒ', 'a', 'r', 'u', 'm']",Indonesian,0.0,Prehistorical
+pusut,"['p', 'u', 's', 'u', 't']",Indonesian,0.75,Modern
+benang,"['b', 'e', 'n', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+mencelup,"['m', 'e', 'ɲ', 'e', 'l', 'u', 'p']",Indonesian,0.0,Early Malay
+jubah,"['dʒ', 'u', 'b', 'a', 'h']",Indonesian,1.0,Early Malay
+tangga,"['t', 'a', 'ŋ', 'g', 'a']",Indonesian,0.0,Prehistorical
+daster,"['d', 'a', 's', 't', 'e', 'r']",Indonesian,1.0,Modern
+terusan,"['t', 'e', 'r', 'u', 's', 'a', 'n']",Indonesian,0.0,Modern
+gaun,"['g', 'a', 'u', 'n']",Indonesian,1.0,Modern
+tunik,"['t', 'u', 'n', 'i', 'ʔ']",Indonesian,1.0,Modern
+mantel,"['m', 'a', 'n', 't', 'e', 'l']",Indonesian,1.0,Modern
+baju,"['b', 'a', 'dʒ', 'u']",Indonesian,0.25,Early Malay
+keméja,"['k', 'e', 'm', 'é/e', 'dʒ', 'a']",Indonesian,1.0,Modern
+blus,"['b', 'l', 'u', 's']",Indonesian,1.0,Modern
+kaos,"['k', 'a', 'o', 's']",Indonesian,1.0,Modern
+kerah,"['k', 'e', 'r', 'a', 'h']",Indonesian,1.0,Modern
+rok,"['r', 'o', 'ʔ']",Indonesian,1.0,Modern
+celana,"['tʃ', 'e', 'l', 'a', 'n', 'a']",Indonesian,1.0,Modern
+seluar,"['s', 'e', 'l', 'u', 'a', 'r']",Indonesian,1.0,Early Malay
+kaos (kaki),"['k', 'a', 'o', 's', '+', 'k', 'a', 'k', 'i']",Indonesian,1.0,Modern
+sepatu,"['s', 'e', 'p', 'a', 't', 'u']",Indonesian,1.0,Modern
+(sepatu) bot,"['s', 'e', 'p', 'a', 't', 'u', '+', 'b', 'o', 't']",Indonesian,1.0,Modern
+tukang sepatu,"['t', 'u', 'k', 'a', 'ŋ', '+', 's', 'e', 'p', 'a', 't', 'u']",Indonesian,0.0,Early Malay
+topi,"['t', 'o', 'p', 'i']",Indonesian,1.0,Early Malay
+péci,"['p', 'é/e', 'tʃ', 'i']",Indonesian,1.0,Modern
+ikat pinggang,"['i', 'k', 'a', 't', '+', 'p', 'i', 'ŋ', 'g', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+tali pinggang,"['t', 'a', 'l', 'i', '+', 'p', 'i', 'ŋ', 'g', 'a', 'ŋ']",Indonesian,0.0,Early Malay
+sabuk,"['s', 'a', 'b', 'u', 'ʔ']",Indonesian,1.0,Modern
+géspér,"['g', 'é/e', 's', 'p', 'é/e', 'r']",Indonesian,1.0,Modern
+sarung tangan,"['s', 'a', 'r', 'u', 'ŋ', '+', 't', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Modern
+kerudung,"['k', 'e', 'r', 'u', 'd', 'u', 'ŋ']",Indonesian,1.0,Modern
+tudung,"['t', 'u', 'd', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+cadar,"['tʃ', 'a', 'd', 'a', 'r']",Indonesian,1.0,Early Malay
+"kantung, kantong","['k', 'a', 'n', 't', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+saku,"['s', 'a', 'k', 'u']",Indonesian,1.0,Modern
+kancing,"['k', 'a', 'ɲ', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+jarum,"['dʒ', 'a', 'r', 'u', 'm']",Indonesian,0.0,Prehistorical
+peniti,"['p', 'e', 'n', 'i', 't', 'i']",Indonesian,0.75,Modern
+perhiasan,"['p', 'e', 'r', 'h', 'i', 'a', 's', 'a', 'n']",Indonesian,0.0,Prehistorical
+permata,"['p', 'e', 'r', 'm', 'a', 't', 'a']",Indonesian,0.25,Early Malay
+cincin,"['tʃ', 'i', 'ɲ', 'i', 'n']",Indonesian,0.0,Prehistorical
+gelang,"['g', 'e', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kalung,"['k', 'a', 'l', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+manik-manik,"['m', 'a', 'n', 'i', 'k', '+', 'm', 'a', 'n', 'i', 'ʔ']",Indonesian,0.75,Early Malay
+anting-anting,"['a', 'n', 't', 'i', 'ŋ', '+', 'a', 'n', 't', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+giwang,"['g', 'i', 'w', 'a', 'ŋ']",Indonesian,1.0,Modern
+ikat kepala,"['i', 'k', 'a', 't', '+', 'k', 'e', 'p', 'a', 'l', 'a']",Indonesian,0.0,Prehistorical
+"serban, sorban","['s', 'e', 'r', 'b', 'a', 'n']",Indonesian,1.0,Early Malay
+blangkon,"['b', 'l', 'a', 'ŋ', 'k', 'o', 'n']",Indonesian,1.0,Modern
+destar,"['d', 'e', 's', 't', 'a', 'r']",Indonesian,1.0,Early Malay
+jilbab,"['dʒ', 'i', 'l', 'b', 'a', 'b']",Indonesian,1.0,Modern
+tato,"['t', 'a', 't', 'o']",Indonesian,1.0,Modern
+sapu tangan,"['s', 'a', 'p', 'u', '+', 't', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Early Malay
+(kain) lap,"['k', 'a', 'i', 'n', '+', 'l', 'a', 'p']",Indonesian,1.0,Modern
+handuk,"['h', 'a', 'n', 'd', 'u', 'ʔ']",Indonesian,1.0,Modern
+tuala,"['t', 'u', 'a', 'l', 'a']",Indonesian,1.0,Modern
+sisir,"['s', 'i', 's', 'i', 'r']",Indonesian,0.0,Prehistorical
+sikat,"['s', 'i', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+képang,"['k', 'é/e', 'p', 'a', 'ŋ']",Indonesian,1.0,Modern
+pisau cukur,"['p', 'i', 's', 'a', 'u', '+', 'tʃ', 'u', 'k', 'u', 'r']",Indonesian,0.0,Early Malay
+silét,"['s', 'i', 'l', 'é/e', 't']",Indonesian,1.0,Modern
+salep,"['s', 'a', 'l', 'e', 'p']",Indonesian,1.0,Modern
+sabun,"['s', 'a', 'b', 'u', 'n']",Indonesian,1.0,Early Malay
+cermin,"['tʃ', 'e', 'r', 'm', 'i', 'n']",Indonesian,0.25,Early Malay
+kaca,"['k', 'a', 'tʃ', 'a']",Indonesian,1.0,Early Malay
+tinggal,"['t', 'i', 'ŋ', 'g', 'a', 'l']",Indonesian,0.0,Prehistorical
+berdiam,"['b', 'e', 'r', 'd', 'i', 'a', 'm']",Indonesian,0.0,Prehistorical
+rumah,"['r', 'u', 'm', 'a', 'h']",Indonesian,0.0,Prehistorical
+pondok,"['p', 'o', 'n', 'd', 'o', 'ʔ']",Indonesian,0.75,Early Malay
+gubuk,"['g', 'u', 'b', 'u', 'ʔ']",Indonesian,1.0,Modern
+ténda,"['t', 'é/e', 'n', 'd', 'a']",Indonesian,1.0,Modern
+kémah,"['k', 'é/e', 'm', 'a', 'h']",Indonesian,1.0,Early Malay
+halaman,"['h', 'a', 'l', 'a', 'm', 'a', 'n']",Indonesian,0.0,Prehistorical
+dapur,"['d', 'a', 'p', 'u', 'r']",Indonesian,0.0,Prehistorical
+balai,"['b', 'a', 'l', 'aɪ']",Indonesian,0.0,Prehistorical
+kamar,"['k', 'a', 'm', 'a', 'r']",Indonesian,1.0,Modern
+bilik,"['b', 'i', 'l', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+"ruang, ruangan","['r', 'u', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+pintu,"['p', 'i', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+(pintu) gerbang,"['p', 'i', 'n', 't', 'u', '+', 'g', 'e', 'r', 'b', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+gapura,"['g', 'a', 'p', 'u', 'r', 'a']",Indonesian,1.0,Modern
+tiang pintu,"['t', 'i', 'a', 'ŋ', '+', 'p', 'i', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+kunci,"['k', 'u', 'ɲ', 'i']",Indonesian,1.0,Early Malay
+selot,"['s', 'e', 'l', 'o', 't']",Indonesian,1.0,Modern
+palang pintu,"['p', 'a', 'l', 'a', 'ŋ', '+', 'p', 'i', 'n', 't', 'u']",Indonesian,0.0,Early Malay
+gréndél,"['g', 'r', 'é/e', 'n', 'd', 'é/e', 'l']",Indonesian,1.0,Modern
+selot,"['s', 'e', 'l', 'o', 't']",Indonesian,1.0,Modern
+(anak) kunci,"['a', 'n', 'a', 'k', '+', 'k', 'u', 'ɲ', 'i']",Indonesian,0.0,Early Malay
+jendéla,"['dʒ', 'e', 'n', 'd', 'é/e', 'l', 'a']",Indonesian,1.0,Modern
+lantai,"['l', 'a', 'n', 't', 'aɪ']",Indonesian,0.0,Prehistorical
+dinding,"['d', 'i', 'n', 'd', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+témbok,"['t', 'é/e', 'm', 'b', 'o', 'ʔ']",Indonesian,0.75,Early Malay
+perapian,"['p', 'e', 'r', 'a', 'p', 'i', 'a', 'n']",Indonesian,0.0,Prehistorical
+kompor,"['k', 'o', 'm', 'p', 'o', 'r']",Indonesian,1.0,Modern
+cerobong (asap),"['tʃ', 'e', 'r', 'o', 'b', 'o', 'ŋ', '+', 'a', 's', 'a', 'p']",Indonesian,1.0,Modern
+tempat tidur,"['t', 'e', 'm', 'p', 'a', 't', '+', 't', 'i', 'd', 'u', 'r']",Indonesian,0.0,Early Malay
+ranjang,"['r', 'a', 'ɲ', 'a', 'ŋ']",Indonesian,0.25,Early Malay
+bantal,"['b', 'a', 'n', 't', 'a', 'l']",Indonesian,0.0,Prehistorical
+selimut,"['s', 'e', 'l', 'i', 'm', 'u', 't']",Indonesian,0.0,Prehistorical
+kursi,"['k', 'u', 'r', 's', 'i']",Indonesian,1.0,Early Malay
+méja,"['m', 'é/e', 'dʒ', 'a']",Indonesian,1.0,Early Malay
+lampu,"['l', 'a', 'm', 'p', 'u']",Indonesian,1.0,Modern
+obor,"['o', 'b', 'o', 'r']",Indonesian,1.0,Modern
+suluh,"['s', 'u', 'l', 'u', 'h']",Indonesian,0.0,Prehistorical
+dian,"['d', 'i', 'a', 'n']",Indonesian,1.0,Early Malay
+lilin,"['l', 'i', 'l', 'i', 'n']",Indonesian,0.0,Prehistorical
+rak,"['r', 'a', 'ʔ']",Indonesian,1.0,Modern
+palung,"['p', 'a', 'l', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+atap,"['a', 't', 'a', 'p']",Indonesian,0.0,Prehistorical
+ijuk,"['i', 'dʒ', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+bubungan,"['b', 'u', 'b', 'u', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+kasau,"['k', 'a', 's', 'aʊ']",Indonesian,0.0,Prehistorical
+balok,"['b', 'a', 'l', 'o', 'ʔ']",Indonesian,1.0,Modern
+tiang,"['t', 'i', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+papan,"['p', 'a', 'p', 'a', 'n']",Indonesian,0.0,Prehistorical
+lengkung,"['l', 'e', 'ŋ', 'k', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+tukang batu,"['t', 'u', 'k', 'a', 'ŋ', '+', 'b', 'a', 't', 'u']",Indonesian,0.0,Prehistorical
+batu bata,"['b', 'a', 't', 'u', '+', 'b', 'a', 't', 'a']",Indonesian,0.0,Early Malay
+semén,"['s', 'e', 'm', 'é/e', 'n']",Indonesian,1.0,Modern
+lépa,"['l', 'é/e', 'p', 'a']",Indonesian,1.0,Early Malay
+petani,"['p', 'e', 't', 'a', 'n', 'i']",Indonesian,0.0,Prehistorical
+ladang,"['l', 'a', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+"kebun, kebon","['k', 'e', 'b', 'u', 'n']",Indonesian,0.0,Prehistorical
+taman,"['t', 'a', 'm', 'a', 'n']",Indonesian,0.5,Early Malay
+menggarap,"['m', 'e', 'ŋ', 'g', 'a', 'r', 'a', 'p']",Indonesian,1.0,Modern
+pagar,"['p', 'a', 'g', 'a', 'r']",Indonesian,0.0,Prehistorical
+parit,"['p', 'a', 'r', 'i', 't']",Indonesian,0.0,Prehistorical
+got,"['g', 'o', 't']",Indonesian,1.0,Modern
+bandar,"['b', 'a', 'n', 'd', 'a', 'r']",Indonesian,1.0,Early Malay
+membajak,"['m', 'e', 'm', 'b', 'a', 'dʒ', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+menenggala,"['m', 'e', 'n', 'e', 'ŋ', 'g', 'a', 'l', 'a']",Indonesian,1.0,Early Malay
+alur,"['a', 'l', 'u', 'r']",Indonesian,0.0,Prehistorical
+menggali,"['m', 'e', 'ŋ', 'g', 'a', 'l', 'i']",Indonesian,0.0,Prehistorical
+pacul,"['p', 'a', 'tʃ', 'u', 'l']",Indonesian,1.0,Modern
+sekop,"['s', 'e', 'k', 'o', 'p']",Indonesian,1.0,Modern
+cangkul,"['tʃ', 'a', 'ŋ', 'k', 'u', 'l']",Indonesian,0.0,Prehistorical
+garpu,"['g', 'a', 'r', 'p', 'u']",Indonesian,1.0,Modern
+penggaruk,"['p', 'e', 'ŋ', 'g', 'a', 'r', 'u', 'ʔ']",Indonesian,0.0,Early Malay
+menabur,"['m', 'e', 'n', 'a', 'b', 'u', 'r']",Indonesian,0.0,Prehistorical
+benih,"['b', 'e', 'n', 'i', 'h']",Indonesian,0.0,Prehistorical
+biji,"['b', 'i', 'dʒ', 'i']",Indonesian,1.0,Early Malay
+membabat,"['m', 'e', 'm', 'b', 'a', 'b', 'a', 't']",Indonesian,1.0,Modern
+menebas,"['m', 'e', 'n', 'e', 'b', 'a', 's']",Indonesian,0.0,Prehistorical
+arit,"['a', 'r', 'i', 't']",Indonesian,1.0,Modern
+sabit,"['s', 'a', 'b', 'i', 't']",Indonesian,0.0,Prehistorical
+"celurit, clurit","['tʃ', 'e', 'l', 'u', 'r', 'i', 't']",Indonesian,1.0,Modern
+menebahkan,"['m', 'e', 'n', 'e', 'b', 'a', 'h', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+menumbuk,"['m', 'e', 'n', 'u', 'm', 'b', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+panén,"['p', 'a', 'n', 'é/e', 'n']",Indonesian,1.0,Modern
+butir,"['b', 'u', 't', 'i', 'r']",Indonesian,0.0,Prehistorical
+biji,"['b', 'i', 'dʒ', 'i']",Indonesian,1.0,Early Malay
+terigu,"['t', 'e', 'r', 'i', 'g', 'u']",Indonesian,1.0,Modern
+gandum,"['g', 'a', 'n', 'd', 'u', 'm']",Indonesian,1.0,Early Malay
+havermut,"['h', 'a', 'v', 'e', 'r', 'm', 'u', 't']",Indonesian,1.0,Modern
+jagung,"['dʒ', 'a', 'g', 'u', 'ŋ']",Indonesian,1.0,Early Malay
+nasi,"['n', 'a', 's', 'i']",Indonesian,0.0,Prehistorical
+beras,"['b', 'e', 'r', 'a', 's']",Indonesian,0.0,Prehistorical
+padi,"['p', 'a', 'd', 'i']",Indonesian,0.0,Prehistorical
+rumput,"['r', 'u', 'm', 'p', 'u', 't']",Indonesian,0.0,Prehistorical
+jerami,"['dʒ', 'e', 'r', 'a', 'm', 'i']",Indonesian,0.0,Prehistorical
+tanaman,"['t', 'a', 'n', 'a', 'm', 'a', 'n']",Indonesian,0.0,Prehistorical
+tumbuhan,"['t', 'u', 'm', 'b', 'u', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+pohon,"['p', 'o', 'h', 'o', 'n']",Indonesian,0.0,Prehistorical
+menanam,"['m', 'e', 'n', 'a', 'n', 'a', 'm']",Indonesian,0.0,Prehistorical
+akar,"['a', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+cabang,"['tʃ', 'a', 'b', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+dahan,"['d', 'a', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+ranting,"['r', 'a', 'n', 't', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+daun,"['d', 'a', 'u', 'n']",Indonesian,0.0,Prehistorical
+bunga,"['b', 'u', 'ŋ', 'a']",Indonesian,0.0,Prehistorical
+kembang,"['k', 'e', 'm', 'b', 'a', 'ŋ']",Indonesian,1.0,Modern
+pohon,"['p', 'o', 'h', 'o', 'n']",Indonesian,0.0,Prehistorical
+pinus,"['p', 'i', 'n', 'u', 's']",Indonesian,1.0,Modern
+cemara,"['tʃ', 'e', 'm', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+tanaman merambat,"['t', 'a', 'n', 'a', 'm', 'a', 'n', '+', 'm', 'e', 'r', 'a', 'm', 'b', 'a', 't']",Indonesian,0.0,Modern
+tembakau,"['t', 'e', 'm', 'b', 'a', 'k', 'aʊ']",Indonesian,1.0,Early Malay
+merokok,"['m', 'e', 'r', 'o', 'k', 'o', 'ʔ']",Indonesian,1.0,Modern
+pipa,"['p', 'i', 'p', 'a']",Indonesian,1.0,Modern
+cangklong,"['tʃ', 'a', 'ŋ', 'k', 'l', 'o', 'ŋ']",Indonesian,1.0,Modern
+tunggul,"['t', 'u', 'ŋ', 'g', 'u', 'l']",Indonesian,0.0,Prehistorical
+pokok (kayu),"['p', 'o', 'k', 'o', 'k', '+', 'k', 'a', 'j', 'u']",Indonesian,0.0,Prehistorical
+batang,"['b', 'a', 't', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+cabang,"['tʃ', 'a', 'b', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kulit kayu,"['k', 'u', 'l', 'i', 't', '+', 'k', 'a', 'j', 'u']",Indonesian,0.0,Prehistorical
+getah,"['g', 'e', 't', 'a', 'h']",Indonesian,0.0,Prehistorical
+palem,"['p', 'a', 'l', 'e', 'm']",Indonesian,1.0,Modern
+kelapa,"['k', 'e', 'l', 'a', 'p', 'a']",Indonesian,0.75,Early Malay
+nyiur,"['ɲ', 'i', 'u', 'r']",Indonesian,0.0,Prehistorical
+jeruk,"['dʒ', 'e', 'r', 'u', 'ʔ']",Indonesian,0.75,Modern
+pisang,"['p', 'i', 's', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+beringin,"['b', 'e', 'r', 'i', 'ŋ', 'i', 'n']",Indonesian,0.0,Prehistorical
+ubi jalar,"['u', 'b', 'i', '+', 'dʒ', 'a', 'l', 'a', 'r']",Indonesian,0.0,Modern
+ubi madu,"['u', 'b', 'i', '+', 'm', 'a', 'd', 'u']",Indonesian,0.0,Modern
+singkong,"['s', 'i', 'ŋ', 'k', 'o', 'ŋ']",Indonesian,1.0,Modern
+ubi kayu,"['u', 'b', 'i', '+', 'k', 'a', 'j', 'u']",Indonesian,0.0,Prehistorical
+labu,"['l', 'a', 'b', 'u']",Indonesian,0.75,Early Malay
+labu,"['l', 'a', 'b', 'u']",Indonesian,0.75,Early Malay
+bambu,"['b', 'a', 'm', 'b', 'u']",Indonesian,0.5,Modern
+tebu,"['t', 'e', 'b', 'u']",Indonesian,0.0,Prehistorical
+tuba,"['t', 'u', 'b', 'a']",Indonesian,0.0,Prehistorical
+jelatang,"['dʒ', 'e', 'l', 'a', 't', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+jamur,"['dʒ', 'a', 'm', 'u', 'r']",Indonesian,1.0,Modern
+melakukan,"['m', 'e', 'l', 'a', 'k', 'u', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+kerja,"['k', 'e', 'r', 'dʒ', 'a']",Indonesian,1.0,Early Malay
+pekerjaan,"['p', 'e', 'k', 'e', 'r', 'dʒ', 'aː', 'n']",Indonesian,0.0,Early Malay
+menekukkan,"['m', 'e', 'n', 'e', 'k', 'u', 'k', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+membéngkokkan,"['m', 'e', 'm', 'b', 'é/e', 'ŋ', 'k', 'o', 'k', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+melipat,"['m', 'e', 'l', 'i', 'p', 'a', 't']",Indonesian,0.0,Prehistorical
+mengikat,"['m', 'e', 'ŋ', 'i', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+menguraikan,"['m', 'e', 'ŋ', 'u', 'r', 'a', 'i', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+rantai,"['r', 'a', 'n', 't', 'aɪ']",Indonesian,0.0,Prehistorical
+tali,"['t', 'a', 'l', 'i']",Indonesian,0.0,Prehistorical
+ikatan,"['i', 'k', 'a', 't', 'a', 'n']",Indonesian,0.0,Prehistorical
+simpul,"['s', 'i', 'm', 'p', 'u', 'l']",Indonesian,0.0,Prehistorical
+memukul,"['m', 'e', 'm', 'u', 'k', 'u', 'l']",Indonesian,0.0,Prehistorical
+menggebrak,"['m', 'e', 'ŋ', 'g', 'e', 'b', 'r', 'a', 'ʔ']",Indonesian,1.0,Modern
+menghantam,"['m', 'e', 'ŋ', 'h', 'a', 'n', 't', 'a', 'm']",Indonesian,0.0,Prehistorical
+memotong,"['m', 'e', 'm', 'o', 't', 'o', 'ŋ']",Indonesian,0.0,Prehistorical
+menebang,"['m', 'e', 'n', 'e', 'b', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+membelah,"['m', 'e', 'm', 'b', 'e', 'l', 'a', 'h']",Indonesian,0.0,Prehistorical
+mencincang,"['m', 'e', 'ɲ', 'i', 'ɲ', 'a', 'ŋ']",Indonesian,0.0,Modern
+menusuk,"['m', 'e', 'n', 'u', 's', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+menikam,"['m', 'e', 'n', 'i', 'k', 'a', 'm']",Indonesian,0.0,Prehistorical
+pisau,"['p', 'i', 's', 'aʊ']",Indonesian,0.0,Prehistorical
+gunting,"['g', 'u', 'n', 't', 'i', 'ŋ']",Indonesian,0.0,Early Malay
+kapak,"['k', 'a', 'p', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+beliung,"['b', 'e', 'l', 'i', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+memecahkan,"['m', 'e', 'm', 'e', 'tʃ', 'a', 'h', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+rusak,"['r', 'u', 's', 'a', 'ʔ']",Indonesian,0.5,Prehistorical
+membelah,"['m', 'e', 'm', 'b', 'e', 'l', 'a', 'h']",Indonesian,0.0,Prehistorical
+menyobék,"['m', 'e', 'ɲ', 'o', 'b', 'é/e', 'ʔ']",Indonesian,0.0,Prehistorical
+merobék,"['m', 'e', 'r', 'o', 'b', 'é/e', 'ʔ']",Indonesian,0.0,Prehistorical
+patung,"['p', 'a', 't', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+menguliti,"['m', 'e', 'ŋ', 'u', 'l', 'i', 't', 'i']",Indonesian,0.0,Prehistorical
+menggosok,"['m', 'e', 'ŋ', 'g', 'o', 's', 'o', 'ʔ']",Indonesian,0.0,Prehistorical
+menggésék,"['m', 'e', 'ŋ', 'g', 'é/e', 's', 'é/e', 'ʔ']",Indonesian,0.0,Prehistorical
+merentangkan,"['m', 'e', 'r', 'e', 'n', 't', 'a', 'ŋ', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+merenggangkan,"['m', 'e', 'r', 'e', 'ŋ', 'g', 'a', 'ŋ', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menarik,"['m', 'e', 'n', 'a', 'r', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+menggelar,"['m', 'e', 'ŋ', 'g', 'e', 'l', 'a', 'r']",Indonesian,0.0,Prehistorical
+menggantung,"['m', 'e', 'ŋ', 'g', 'a', 'n', 't', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+menekan,"['m', 'e', 'n', 'e', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+memencét,"['m', 'e', 'm', 'e', 'ɲ', 'é/e', 't']",Indonesian,1.0,Modern
+memeras,"['m', 'e', 'm', 'e', 'r', 'a', 's']",Indonesian,0.0,Prehistorical
+memerah,"['m', 'e', 'm', 'e', 'r', 'a', 'h']",Indonesian,0.0,Prehistorical
+menuang,"['m', 'e', 'n', 'u', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+mencuci,"['m', 'e', 'ɲ', 'u', 'tʃ', 'i']",Indonesian,0.75,Early Malay
+membasuh,"['m', 'e', 'm', 'b', 'a', 's', 'u', 'h']",Indonesian,0.0,Prehistorical
+menyapu,"['m', 'e', 'ɲ', 'a', 'p', 'u']",Indonesian,0.0,Prehistorical
+sapu,"['s', 'a', 'p', 'u']",Indonesian,0.0,Prehistorical
+alat,"['a', 'l', 'a', 't']",Indonesian,1.0,Early Malay
+tukang kayu,"['t', 'u', 'k', 'a', 'ŋ', '+', 'k', 'a', 'j', 'u']",Indonesian,0.0,Prehistorical
+membangun,"['m', 'e', 'm', 'b', 'a', 'ŋ', 'u', 'n']",Indonesian,0.0,Prehistorical
+mengebor,"['m', 'e', 'ŋ', 'e', 'b', 'o', 'r']",Indonesian,1.0,Modern
+melubangi,"['m', 'e', 'l', 'u', 'b', 'a', 'ŋ', 'i']",Indonesian,0.0,Prehistorical
+melubangi,"['m', 'e', 'l', 'u', 'b', 'a', 'ŋ', 'i']",Indonesian,0.0,Prehistorical
+gergaji,"['g', 'e', 'r', 'g', 'a', 'dʒ', 'i']",Indonesian,0.5,Early Malay
+palu,"['p', 'a', 'l', 'u']",Indonesian,0.0,Prehistorical
+paku,"['p', 'a', 'k', 'u']",Indonesian,0.0,Prehistorical
+lém,"['l', 'é/e', 'm']",Indonesian,1.0,Modern
+tukang besi,"['t', 'u', 'k', 'a', 'ŋ', '+', 'b', 'e', 's', 'i']",Indonesian,0.0,Prehistorical
+menempa,"['m', 'e', 'n', 'e', 'm', 'p', 'a']",Indonesian,0.0,Prehistorical
+paron,"['p', 'a', 'r', 'o', 'n']",Indonesian,1.0,Modern
+landasan,"['l', 'a', 'n', 'd', 'a', 's', 'a', 'n']",Indonesian,0.0,Prehistorical
+mencétak,"['m', 'e', 'ɲ', 'é/e', 't', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+mengacu,"['m', 'e', 'ŋ', 'a', 'tʃ', 'u']",Indonesian,1.0,Early Malay
+mengecor,"['m', 'e', 'ŋ', 'e', 'tʃ', 'o', 'r']",Indonesian,1.0,Modern
+"mas, emas","['m', 'a', 's']",Indonesian,1.0,Early Malay
+kencana,"['k', 'e', 'ɲ', 'a', 'n', 'a']",Indonesian,1.0,Early Malay
+pérak,"['p', 'é/e', 'r', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+tembaga,"['t', 'e', 'm', 'b', 'a', 'g', 'a']",Indonesian,1.0,Early Malay
+besi,"['b', 'e', 's', 'i']",Indonesian,0.0,Prehistorical
+timbal,"['t', 'i', 'm', 'b', 'a', 'l']",Indonesian,1.0,Modern
+timah,"['t', 'i', 'm', 'a', 'h']",Indonesian,0.0,Prehistorical
+tukang tembikar,"['t', 'u', 'k', 'a', 'ŋ', '+', 't', 'e', 'm', 'b', 'i', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+membentuk,"['m', 'e', 'm', 'b', 'e', 'n', 't', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+tanah liat,"['t', 'a', 'n', 'a', 'h', '+', 'l', 'i', 'a', 't']",Indonesian,0.0,Prehistorical
+kaca,"['k', 'a', 'tʃ', 'a']",Indonesian,1.0,Early Malay
+menganyam,"['m', 'e', 'ŋ', 'a', 'ɲ', 'a', 'm']",Indonesian,0.0,Prehistorical
+mengépang,"['m', 'e', 'ŋ', 'é/e', 'p', 'a', 'ŋ']",Indonesian,1.0,Modern
+meramin,"['m', 'e', 'r', 'a', 'm', 'i', 'n']",Indonesian,0.0,Early Malay
+keranjang,"['k', 'e', 'r', 'a', 'ɲ', 'a', 'ŋ']",Indonesian,0.25,Prehistorical
+bakul,"['b', 'a', 'k', 'u', 'l']",Indonesian,0.0,Prehistorical
+tikar,"['t', 'i', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+permadani,"['p', 'e', 'r', 'm', 'a', 'd', 'a', 'n', 'i']",Indonesian,1.0,Early Malay
+karpet,"['k', 'a', 'r', 'p', 'e', 't']",Indonesian,1.0,Modern
+"sejedah, sajadah","['s', 'e', 'dʒ', 'e', 'd', 'a', 'h']",Indonesian,1.0,Early Malay
+nokén,"['n', 'o', 'k', 'é/e', 'n']",Indonesian,1.0,Modern
+kipas,"['k', 'i', 'p', 'a', 's']",Indonesian,0.0,Prehistorical
+mengipasi,"['m', 'e', 'ŋ', 'i', 'p', 'a', 's', 'i']",Indonesian,0.0,Prehistorical
+mengukir,"['m', 'e', 'ŋ', 'u', 'k', 'i', 'r']",Indonesian,0.0,Prehistorical
+tukang patung,"['t', 'u', 'k', 'a', 'ŋ', '+', 'p', 'a', 't', 'u', 'ŋ']",Indonesian,0.0,Early Malay
+pahat,"['p', 'a', 'h', 'a', 't']",Indonesian,0.0,Prehistorical
+cat,"['tʃ', 'a', 't']",Indonesian,1.0,Modern
+mengecat,"['m', 'e', 'ŋ', 'e', 'tʃ', 'a', 't']",Indonesian,1.0,Modern
+memindahkan,"['m', 'e', 'm', 'i', 'n', 'd', 'a', 'h', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+membalikkan,"['m', 'e', 'm', 'b', 'a', 'l', 'i', 'k', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+membélokkan,"['m', 'e', 'm', 'b', 'é/e', 'l', 'o', 'k', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+memutar,"['m', 'e', 'm', 'u', 't', 'a', 'r']",Indonesian,0.0,Prehistorical
+berpaling,"['b', 'e', 'r', 'p', 'a', 'l', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+putar balik,"['p', 'u', 't', 'a', 'r', '+', 'b', 'a', 'l', 'i', 'ʔ']",Indonesian,0.0,Modern
+membungkus,"['m', 'e', 'm', 'b', 'u', 'ŋ', 'k', 'u', 's']",Indonesian,0.0,Prehistorical
+meggulingkan,"['m', 'e', 'g', 'g', 'u', 'l', 'i', 'ŋ', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menjatuhkan,"['m', 'e', 'ɲ', 'a', 't', 'u', 'h', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+mencemplungkan,"['m', 'e', 'ɲ', 'e', 'm', 'p', 'l', 'u', 'ŋ', 'k', 'a', 'n']",Indonesian,0.0,Modern
+menceburkan,"['m', 'e', 'ɲ', 'e', 'b', 'u', 'r', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+melilitkan,"['m', 'e', 'l', 'i', 'l', 'i', 't', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+bangkit,"['b', 'a', 'ŋ', 'k', 'i', 't']",Indonesian,0.0,Prehistorical
+bangun,"['b', 'a', 'ŋ', 'u', 'n']",Indonesian,0.0,Prehistorical
+naik,"['n', 'a', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+menanjak,"['m', 'e', 'n', 'a', 'ɲ', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+terbit,"['t', 'e', 'r', 'b', 'i', 't']",Indonesian,0.0,Prehistorical
+mengangkat,"['m', 'e', 'ŋ', 'a', 'ŋ', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+jatuh,"['dʒ', 'a', 't', 'u', 'h']",Indonesian,0.0,Prehistorical
+gugur,"['g', 'u', 'g', 'u', 'r']",Indonesian,0.0,Prehistorical
+menétés,"['m', 'e', 'n', 'é/e', 't', 'é/e', 's']",Indonesian,0.75,Modern
+melémparkan,"['m', 'e', 'l', 'é/e', 'm', 'p', 'a', 'r', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menangkap,"['m', 'e', 'n', 'a', 'ŋ', 'k', 'a', 'p']",Indonesian,0.0,Prehistorical
+mengocok,"['m', 'e', 'ŋ', 'o', 'tʃ', 'o', 'ʔ']",Indonesian,0.75,Modern
+"menggoncang(kan), mengguncang(kan)","['m', 'e', 'ŋ', 'g', 'o', 'ɲ', 'a', 'ŋ', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+mengalir,"['m', 'e', 'ŋ', 'a', 'l', 'i', 'r']",Indonesian,0.0,Prehistorical
+tenggelam,"['t', 'e', 'ŋ', 'g', 'e', 'l', 'a', 'm']",Indonesian,0.0,Prehistorical
+terbenam,"['t', 'e', 'r', 'b', 'e', 'n', 'a', 'm']",Indonesian,0.0,Prehistorical
+mengapung,"['m', 'e', 'ŋ', 'a', 'p', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+mengambang,"['m', 'e', 'ŋ', 'a', 'm', 'b', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+berenang,"['b', 'e', 'r', 'e', 'n', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+menyelam,"['m', 'e', 'ɲ', 'e', 'l', 'a', 'm']",Indonesian,0.0,Prehistorical
+menyemprot,"['m', 'e', 'ɲ', 'e', 'm', 'p', 'r', 'o', 't']",Indonesian,1.0,Modern
+memercikkan,"['m', 'e', 'm', 'e', 'r', 'tʃ', 'i', 'k', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menyiram,"['m', 'e', 'ɲ', 'i', 'r', 'a', 'm']",Indonesian,0.0,Prehistorical
+mengguyur,"['m', 'e', 'ŋ', 'g', 'u', 'j', 'u', 'r']",Indonesian,1.0,Modern
+berlayar,"['b', 'e', 'r', 'l', 'a', 'j', 'a', 'r']",Indonesian,0.0,Prehistorical
+terbang,"['t', 'e', 'r', 'b', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+bertiup,"['b', 'e', 'r', 't', 'i', 'u', 'p']",Indonesian,0.0,Prehistorical
+merangkak,"['m', 'e', 'r', 'a', 'ŋ', 'k', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+merayap,"['m', 'e', 'r', 'a', 'j', 'a', 'p']",Indonesian,0.0,Prehistorical
+berlutut,"['b', 'e', 'r', 'l', 'u', 't', 'u', 't']",Indonesian,0.0,Prehistorical
+jongkok,"['dʒ', 'o', 'ŋ', 'k', 'o', 'ʔ']",Indonesian,1.0,Modern
+tergelincir,"['t', 'e', 'r', 'g', 'e', 'l', 'i', 'ɲ', 'i', 'r']",Indonesian,0.0,Prehistorical
+terpelését,"['t', 'e', 'r', 'p', 'e', 'l', 'é/e', 's', 'é/e', 't']",Indonesian,1.0,Modern
+terselip,"['t', 'e', 'r', 's', 'e', 'l', 'i', 'p']",Indonesian,0.0,Modern
+luncur,"['l', 'u', 'ɲ', 'u', 'r']",Indonesian,0.0,Prehistorical
+meloncat,"['m', 'e', 'l', 'o', 'ɲ', 'a', 't']",Indonesian,0.0,Prehistorical
+melompat,"['m', 'e', 'l', 'o', 'm', 'p', 'a', 't']",Indonesian,0.0,Prehistorical
+menendang,"['m', 'e', 'n', 'e', 'n', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+menyépak,"['m', 'e', 'ɲ', 'é/e', 'p', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+menari,"['m', 'e', 'n', 'a', 'r', 'i']",Indonesian,0.0,Prehistorical
+berdansa,"['b', 'e', 'r', 'd', 'a', 'n', 's', 'a']",Indonesian,1.0,Modern
+berjogét,"['b', 'e', 'r', 'dʒ', 'o', 'g', 'é/e', 't']",Indonesian,0.75,Early Malay
+berjalan,"['b', 'e', 'r', 'dʒ', 'a', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+pincang,"['p', 'i', 'ɲ', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+"lari, berlari","['l', 'a', 'r', 'i']",Indonesian,0.0,Prehistorical
+pergi,"['p', 'e', 'r', 'g', 'i']",Indonesian,0.0,Prehistorical
+naik,"['n', 'a', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+memanjat,"['m', 'e', 'm', 'a', 'ɲ', 'a', 't']",Indonesian,0.0,Prehistorical
+turun,"['t', 'u', 'r', 'u', 'n']",Indonesian,0.0,Prehistorical
+keluar,"['k', 'e', 'l', 'u', 'a', 'r']",Indonesian,0.0,Prehistorical
+datang,"['d', 'a', 't', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kembali,"['k', 'e', 'm', 'b', 'a', 'l', 'i']",Indonesian,0.25,No information
+balik,"['b', 'a', 'l', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+berangkat,"['b', 'e', 'r', 'a', 'ŋ', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+menghilang,"['m', 'e', 'ŋ', 'h', 'i', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+lenyap,"['l', 'e', 'ɲ', 'a', 'p']",Indonesian,0.0,Prehistorical
+raib,"['r', 'a', 'i', 'b']",Indonesian,1.0,Early Malay
+melarikan diri,"['m', 'e', 'l', 'a', 'r', 'i', 'k', 'a', 'n', '+', 'd', 'i', 'r', 'i']",Indonesian,0.0,Early Malay
+mengungsi,"['m', 'e', 'ŋ', 'u', 'ŋ', 's', 'i']",Indonesian,1.0,Modern
+kabur (2),"['k', 'a', 'b', 'u', 'r']",Indonesian,1.0,Modern
+menyusul,"['m', 'e', 'ɲ', 'u', 's', 'u', 'l']",Indonesian,0.0,Prehistorical
+mengikuti,"['m', 'e', 'ŋ', 'i', 'k', 'u', 't', 'i']",Indonesian,0.0,Prehistorical
+menurut,"['m', 'e', 'n', 'u', 'r', 'u', 't']",Indonesian,0.0,Prehistorical
+mengejar,"['m', 'e', 'ŋ', 'e', 'dʒ', 'a', 'r']",Indonesian,0.0,Prehistorical
+memburu,"['m', 'e', 'm', 'b', 'u', 'r', 'u']",Indonesian,0.0,Prehistorical
+sampai,"['s', 'a', 'm', 'p', 'aɪ']",Indonesian,0.0,Prehistorical
+tiba,"['t', 'i', 'b', 'a']",Indonesian,0.0,Prehistorical
+mendekati,"['m', 'e', 'n', 'd', 'e', 'k', 'a', 't', 'i']",Indonesian,0.0,Prehistorical
+menghampiri,"['m', 'e', 'ŋ', 'h', 'a', 'm', 'p', 'i', 'r', 'i']",Indonesian,0.0,Prehistorical
+masuk,"['m', 'a', 's', 'u', 'ʔ']",Indonesian,0.5,Prehistorical
+membawa,"['m', 'e', 'm', 'b', 'a', 'w', 'a']",Indonesian,0.25,Prehistorical
+menggéndong,"['m', 'e', 'ŋ', 'g', 'é/e', 'n', 'd', 'o', 'ŋ']",Indonesian,1.0,Modern
+menggenggam,"['m', 'e', 'ŋ', 'g', 'e', 'ŋ', 'g', 'a', 'm']",Indonesian,0.0,Prehistorical
+menénténg,"['m', 'e', 'n', 'é/e', 'n', 't', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+menjinjing,"['m', 'e', 'ɲ', 'i', 'ɲ', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+memikul,"['m', 'e', 'm', 'i', 'k', 'u', 'l']",Indonesian,0.0,Prehistorical
+menjunjung,"['m', 'e', 'ɲ', 'u', 'ɲ', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+mengepit,"['m', 'e', 'ŋ', 'e', 'p', 'i', 't']",Indonesian,0.0,Prehistorical
+membawa,"['m', 'e', 'm', 'b', 'a', 'w', 'a']",Indonesian,0.25,Prehistorical
+mengambil,"['m', 'e', 'ŋ', 'a', 'm', 'b', 'i', 'l']",Indonesian,0.0,Prehistorical
+mengantar(kan),"['m', 'e', 'ŋ', 'a', 'n', 't', 'a', 'r', 'k', 'a', 'n']",Indonesian,0.75,Early Malay
+mengirim(i),"['m', 'e', 'ŋ', 'i', 'r', 'i', 'm', 'i']",Indonesian,0.0,Prehistorical
+memimpin,"['m', 'e', 'm', 'i', 'm', 'p', 'i', 'n']",Indonesian,0.0,Prehistorical
+membimbing,"['m', 'e', 'm', 'b', 'i', 'm', 'b', 'i', 'ŋ']",Indonesian,0.5,Early Malay
+menuntun,"['m', 'e', 'n', 'u', 'n', 't', 'u', 'n']",Indonesian,0.0,Prehistorical
+mengemudikan,"['m', 'e', 'ŋ', 'e', 'm', 'u', 'd', 'i', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menyupir,"['m', 'e', 'ɲ', 'u', 'p', 'i', 'r']",Indonesian,1.0,Modern
+menyetir,"['m', 'e', 'ɲ', 'e', 't', 'i', 'r']",Indonesian,1.0,Modern
+mengendarai,"['m', 'e', 'ŋ', 'e', 'n', 'd', 'a', 'r', 'aɪ']",Indonesian,0.75,Early Malay
+naik,"['n', 'a', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+mendorong,"['m', 'e', 'n', 'd', 'o', 'r', 'o', 'ŋ']",Indonesian,0.0,Prehistorical
+jalan,"['dʒ', 'a', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+marga (2),"['m', 'a', 'r', 'g', 'a']",Indonesian,1.0,Early Malay
+jalan,"['dʒ', 'a', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+jembatan,"['dʒ', 'e', 'm', 'b', 'a', 't', 'a', 'n']",Indonesian,0.0,Early Malay
+"titi, titian","['t', 'i', 't', 'i']",Indonesian,0.0,Prehistorical
+keréta,"['k', 'e', 'r', 'é/e', 't', 'a']",Indonesian,1.0,Modern
+roda,"['r', 'o', 'd', 'a']",Indonesian,1.0,Early Malay
+gandar,"['g', 'a', 'n', 'd', 'a', 'r']",Indonesian,0.0,Prehistorical
+poros,"['p', 'o', 'r', 'o', 's']",Indonesian,0.25,Modern
+as,"['a', 's']",Indonesian,1.0,Modern
+kuk,"['k', 'u', 'ʔ']",Indonesian,0.5,Early Malay
+kapal,"['k', 'a', 'p', 'a', 'l']",Indonesian,1.0,Early Malay
+bahtera,"['b', 'a', 'h', 't', 'e', 'r', 'a']",Indonesian,1.0,Early Malay
+perahu,"['p', 'e', 'r', 'a', 'h', 'u']",Indonesian,0.25,Prehistorical
+perahu lesung,"['p', 'e', 'r', 'a', 'h', 'u', '+', 'l', 'e', 's', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+kano,"['k', 'a', 'n', 'o']",Indonesian,1.0,Modern
+katir,"['k', 'a', 't', 'i', 'r']",Indonesian,0.0,Prehistorical
+rakit,"['r', 'a', 'k', 'i', 't']",Indonesian,0.0,Prehistorical
+dayung,"['d', 'a', 'j', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+dayung,"['d', 'a', 'j', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+kayuh,"['k', 'a', 'j', 'u', 'h']",Indonesian,0.25,Prehistorical
+mendayung,"['m', 'e', 'n', 'd', 'a', 'j', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+mengayuh,"['m', 'e', 'ŋ', 'a', 'j', 'u', 'h']",Indonesian,0.0,Prehistorical
+kemudi,"['k', 'e', 'm', 'u', 'd', 'i']",Indonesian,0.0,Prehistorical
+tiang,"['t', 'i', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+layar,"['l', 'a', 'j', 'a', 'r']",Indonesian,0.0,Prehistorical
+jangkar,"['dʒ', 'a', 'ŋ', 'k', 'a', 'r']",Indonesian,0.5,Modern
+sauh,"['s', 'a', 'u', 'h']",Indonesian,0.0,Prehistorical
+pelabuhan,"['p', 'e', 'l', 'a', 'b', 'u', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+bandar,"['b', 'a', 'n', 'd', 'a', 'r']",Indonesian,1.0,Early Malay
+mendarat,"['m', 'e', 'n', 'd', 'a', 'r', 'a', 't']",Indonesian,0.0,Prehistorical
+mempunyai,"['m', 'e', 'm', 'p', 'u', 'ɲ', 'aɪ']",Indonesian,0.0,Early Malay
+ada,"['a', 'd', 'a']",Indonesian,0.0,Prehistorical
+memiliki,"['m', 'e', 'm', 'i', 'l', 'i', 'k', 'i']",Indonesian,0.0,Early Malay
+memiliki,"['m', 'e', 'm', 'i', 'l', 'i', 'k', 'i']",Indonesian,0.0,Early Malay
+mengambil,"['m', 'e', 'ŋ', 'a', 'm', 'b', 'i', 'l']",Indonesian,0.0,Prehistorical
+membawa,"['m', 'e', 'm', 'b', 'a', 'w', 'a']",Indonesian,0.25,Prehistorical
+mengantar(kan),"['m', 'e', 'ŋ', 'a', 'n', 't', 'a', 'r', 'k', 'a', 'n']",Indonesian,0.75,Early Malay
+memegang,"['m', 'e', 'm', 'e', 'g', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+menggenggam,"['m', 'e', 'ŋ', 'g', 'e', 'ŋ', 'g', 'a', 'm']",Indonesian,0.0,Prehistorical
+memegang,"['m', 'e', 'm', 'e', 'g', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+mendapat,"['m', 'e', 'n', 'd', 'a', 'p', 'a', 't']",Indonesian,0.0,Prehistorical
+menyimpan,"['m', 'e', 'ɲ', 'i', 'm', 'p', 'a', 'n']",Indonesian,0.0,Prehistorical
+barang,"['b', 'a', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+benda,"['b', 'e', 'n', 'd', 'a']",Indonesian,1.0,Early Malay
+memberi(kan),"['m', 'e', 'm', 'b', 'e', 'r', 'i', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+mengembalikan,"['m', 'e', 'ŋ', 'e', 'm', 'b', 'a', 'l', 'i', 'k', 'a', 'n']",Indonesian,0.0,No information
+memelihara,"['m', 'e', 'm', 'e', 'l', 'i', 'h', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+melestarikan,"['m', 'e', 'l', 'e', 's', 't', 'a', 'r', 'i', 'k', 'a', 'n']",Indonesian,0.0,Modern
+mengawétkan,"['m', 'e', 'ŋ', 'a', 'w', 'é/e', 't', 'k', 'a', 'n']",Indonesian,0.0,Modern
+menyelamatkan,"['m', 'e', 'ɲ', 'e', 'l', 'a', 'm', 'a', 't', 'k', 'a', 'n']",Indonesian,1.0,Early Malay
+menghancurkan,"['m', 'e', 'ŋ', 'h', 'a', 'ɲ', 'u', 'r', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+membinasakan,"['m', 'e', 'm', 'b', 'i', 'n', 'a', 's', 'a', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+melukai,"['m', 'e', 'l', 'u', 'k', 'aɪ']",Indonesian,0.0,Early Malay
+mencederai,"['m', 'e', 'ɲ', 'e', 'd', 'e', 'r', 'aɪ']",Indonesian,0.0,Early Malay
+mencari,"['m', 'e', 'ɲ', 'a', 'r', 'i']",Indonesian,0.5,Early Malay
+ketemu,"['k', 'e', 't', 'e', 'm', 'u']",Indonesian,0.0,Modern
+menemukan,"['m', 'e', 'n', 'e', 'm', 'u', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+kehilangan,"['k', 'e', 'h', 'i', 'l', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+melepas,"['m', 'e', 'l', 'e', 'p', 'a', 's']",Indonesian,0.0,Prehistorical
+uang,"['u', 'a', 'ŋ']",Indonesian,0.75,Modern
+duit,"['d', 'u', 'i', 't']",Indonesian,1.0,Modern
+uang logam,"['u', 'a', 'ŋ', '+', 'l', 'o', 'g', 'a', 'm']",Indonesian,0.0,Modern
+koin,"['k', 'o', 'i', 'n']",Indonesian,1.0,Modern
+kaya,"['k', 'a', 'j', 'a']",Indonesian,0.25,Early Malay
+miskin,"['m', 'i', 's', 'k', 'i', 'n']",Indonesian,1.0,Early Malay
+papa,"['p', 'a', 'p', 'a']",Indonesian,1.0,Early Malay
+pengemis,"['p', 'e', 'ŋ', 'e', 'm', 'i', 's']",Indonesian,0.0,Early Malay
+pelit,"['p', 'e', 'l', 'i', 't']",Indonesian,0.5,Modern
+kikir,"['k', 'i', 'k', 'i', 'r']",Indonesian,0.0,No information
+"sekakar, sekaker","['s', 'e', 'k', 'a', 'k', 'a', 'r']",Indonesian,0.25,Modern
+meminjamkan,"['m', 'e', 'm', 'i', 'ɲ', 'a', 'm', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+meminjam,"['m', 'e', 'm', 'i', 'ɲ', 'a', 'm']",Indonesian,0.0,Prehistorical
+berhutang,"['b', 'e', 'r', 'h', 'u', 't', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+hutang,"['h', 'u', 't', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+membayar,"['m', 'e', 'm', 'b', 'a', 'j', 'a', 'r']",Indonesian,0.0,Prehistorical
+rékening,"['r', 'é/e', 'k', 'e', 'n', 'i', 'ŋ']",Indonesian,1.0,Modern
+tagihan,"['t', 'a', 'g', 'i', 'h', 'a', 'n']",Indonesian,0.0,Early Malay
+bon,"['b', 'o', 'n']",Indonesian,1.0,Modern
+bil,"['b', 'i', 'l']",Indonesian,1.0,Modern
+pajak,"['p', 'a', 'dʒ', 'a', 'ʔ']",Indonesian,0.75,Modern
+mempekerjakan,"['m', 'e', 'm', 'p', 'e', 'k', 'e', 'r', 'dʒ', 'a', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+mengupahi,"['m', 'e', 'ŋ', 'u', 'p', 'a', 'h', 'i']",Indonesian,0.0,Prehistorical
+menggaji,"['m', 'e', 'ŋ', 'g', 'a', 'dʒ', 'i']",Indonesian,1.0,Modern
+gaji,"['g', 'a', 'dʒ', 'i']",Indonesian,1.0,Modern
+upah,"['u', 'p', 'a', 'h']",Indonesian,0.0,Prehistorical
+membeli,"['m', 'e', 'm', 'b', 'e', 'l', 'i']",Indonesian,0.0,Prehistorical
+menjual,"['m', 'e', 'ɲ', 'u', 'a', 'l']",Indonesian,0.0,Prehistorical
+menukar,"['m', 'e', 'n', 'u', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+membarter,"['m', 'e', 'm', 'b', 'a', 'r', 't', 'e', 'r']",Indonesian,1.0,Modern
+pedagang,"['p', 'e', 'd', 'a', 'g', 'a', 'ŋ']",Indonesian,0.0,Early Malay
+saudagar,"['s', 'a', 'u', 'd', 'a', 'g', 'a', 'r']",Indonesian,1.0,Early Malay
+pasar,"['p', 'a', 's', 'a', 'r']",Indonesian,1.0,Early Malay
+pekan (2),"['p', 'e', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+toko,"['t', 'o', 'k', 'o']",Indonesian,1.0,Modern
+kedai,"['k', 'e', 'd', 'aɪ']",Indonesian,1.0,Early Malay
+harga,"['h', 'a', 'r', 'g', 'a']",Indonesian,1.0,Early Malay
+mahal,"['m', 'a', 'h', 'a', 'l']",Indonesian,0.25,Early Malay
+murah,"['m', 'u', 'r', 'a', 'h']",Indonesian,0.5,Early Malay
+membagi,"['m', 'e', 'm', 'b', 'a', 'g', 'i']",Indonesian,1.0,Early Malay
+setelah,"['s', 'e', 't', 'e', 'l', 'a', 'h']",Indonesian,0.0,Prehistorical
+sesudah,"['s', 'e', 's', 'u', 'd', 'a', 'h']",Indonesian,0.0,Early Malay
+"usai, seusai","['u', 's', 'aɪ']",Indonesian,0.0,Early Malay
+(di) belakang,"['d', 'i', '+', 'b', 'e', 'l', 'a', 'k', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+di samping,"['d', 'i', '+', 's', 'a', 'm', 'p', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+ke bawah,"['k', 'e', '+', 'b', 'a', 'w', 'a', 'h']",Indonesian,0.0,Prehistorical
+sebelum,"['s', 'e', 'b', 'e', 'l', 'u', 'm']",Indonesian,0.0,Prehistorical
+(di) depan,"['d', 'i', '+', 'd', 'e', 'p', 'a', 'n']",Indonesian,0.0,Prehistorical
+di muka,"['d', 'i', '+', 'm', 'u', 'k', 'a']",Indonesian,0.0,Early Malay
+(di) dalam,"['d', 'i', '+', 'd', 'a', 'l', 'a', 'm']",Indonesian,0.0,Prehistorical
+di luar,"['d', 'i', '+', 'l', 'u', 'a', 'r']",Indonesian,0.0,Prehistorical
+(di) bawah,"['d', 'i', '+', 'b', 'a', 'w', 'a', 'h']",Indonesian,0.0,Prehistorical
+ke atas,"['k', 'e', '+', 'a', 't', 'a', 's']",Indonesian,0.0,Prehistorical
+tempat,"['t', 'e', 'm', 'p', 'a', 't']",Indonesian,0.0,Prehistorical
+menaruh,"['m', 'e', 'n', 'a', 'r', 'u', 'h']",Indonesian,0.0,Prehistorical
+meletakkan,"['m', 'e', 'l', 'e', 't', 'a', 'k', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+duduk,"['d', 'u', 'd', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+berbaring,"['b', 'e', 'r', 'b', 'a', 'r', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+tidur,"['t', 'i', 'd', 'u', 'r']",Indonesian,0.0,Prehistorical
+berdiri,"['b', 'e', 'r', 'd', 'i', 'r', 'i']",Indonesian,0.0,Prehistorical
+tinggal,"['t', 'i', 'ŋ', 'g', 'a', 'l']",Indonesian,0.0,Prehistorical
+sisa,"['s', 'i', 's', 'a']",Indonesian,1.0,Early Malay
+tulang belulang,"['t', 'u', 'l', 'a', 'ŋ', '+', 'b', 'e', 'l', 'u', 'l', 'a', 'ŋ']",Indonesian,0.0,Early Malay
+puing,"['p', 'u', 'i', 'ŋ']",Indonesian,1.0,Modern
+reruntuhan,"['r', 'e', 'r', 'u', 'n', 't', 'u', 'h', 'a', 'n']",Indonesian,1.0,Modern
+mengumpulkan,"['m', 'e', 'ŋ', 'u', 'm', 'p', 'u', 'l', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+memungut,"['m', 'e', 'm', 'u', 'ŋ', 'u', 't']",Indonesian,0.0,Prehistorical
+menumpukkan,"['m', 'e', 'n', 'u', 'm', 'p', 'u', 'k', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menimbun(kan),"['m', 'e', 'n', 'i', 'm', 'b', 'u', 'n', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menggabung(kan),"['m', 'e', 'ŋ', 'g', 'a', 'b', 'u', 'ŋ', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+memisahkan,"['m', 'e', 'm', 'i', 's', 'a', 'h', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menceraikan,"['m', 'e', 'ɲ', 'e', 'r', 'a', 'i', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+membagi,"['m', 'e', 'm', 'b', 'a', 'g', 'i']",Indonesian,1.0,Early Malay
+membuka,"['m', 'e', 'm', 'b', 'u', 'k', 'a']",Indonesian,0.0,Prehistorical
+menutup,"['m', 'e', 'n', 'u', 't', 'u', 'p']",Indonesian,0.0,Prehistorical
+menutup(i),"['m', 'e', 'n', 'u', 't', 'u', 'p', 'i']",Indonesian,0.0,Prehistorical
+menyembunyikan,"['m', 'e', 'ɲ', 'e', 'm', 'b', 'u', 'ɲ', 'i', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+tinggi,"['t', 'i', 'ŋ', 'g', 'i']",Indonesian,0.0,Prehistorical
+rendah,"['r', 'e', 'n', 'd', 'a', 'h']",Indonesian,0.0,Prehistorical
+puncak,"['p', 'u', 'ɲ', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+dasar,"['d', 'a', 's', 'a', 'r']",Indonesian,0.0,Prehistorical
+ujung,"['u', 'dʒ', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+runcing,"['r', 'u', 'ɲ', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+tepi,"['t', 'e', 'p', 'i']",Indonesian,0.0,Prehistorical
+sisi,"['s', 'i', 's', 'i']",Indonesian,0.0,Prehistorical
+samping,"['s', 'a', 'm', 'p', 'i', 'ŋ']",Indonesian,1.0,Modern
+segi,"['s', 'e', 'g', 'i']",Indonesian,0.0,Prehistorical
+tengah,"['t', 'e', 'ŋ', 'a', 'h']",Indonesian,0.0,Prehistorical
+kanan,"['k', 'a', 'n', 'a', 'n']",Indonesian,0.0,Prehistorical
+kiri,"['k', 'i', 'r', 'i']",Indonesian,0.0,Prehistorical
+dekat,"['d', 'e', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+jauh,"['dʒ', 'a', 'u', 'h']",Indonesian,0.0,Prehistorical
+timur,"['t', 'i', 'm', 'u', 'r']",Indonesian,0.0,Prehistorical
+barat,"['b', 'a', 'r', 'a', 't']",Indonesian,0.0,Prehistorical
+utara,"['u', 't', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+paksina,"['p', 'a', 'k', 's', 'i', 'n', 'a']",Indonesian,0.0,Early Malay
+selatan,"['s', 'e', 'l', 'a', 't', 'a', 'n']",Indonesian,0.0,Prehistorical
+daksina,"['d', 'a', 'k', 's', 'i', 'n', 'a']",Indonesian,1.0,Early Malay
+tumbuh,"['t', 'u', 'm', 'b', 'u', 'h']",Indonesian,0.0,Prehistorical
+mengukur,"['m', 'e', 'ŋ', 'u', 'k', 'u', 'r']",Indonesian,0.0,Prehistorical
+depa,"['d', 'e', 'p', 'a']",Indonesian,0.0,Prehistorical
+besar,"['b', 'e', 's', 'a', 'r']",Indonesian,0.0,Prehistorical
+kecil,"['k', 'e', 'tʃ', 'i', 'l']",Indonesian,0.0,Prehistorical
+panjang,"['p', 'a', 'ɲ', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+tinggi,"['t', 'i', 'ŋ', 'g', 'i']",Indonesian,0.0,Prehistorical
+péndék,"['p', 'é/e', 'n', 'd', 'é/e', 'ʔ']",Indonesian,0.0,Prehistorical
+lébar,"['l', 'é/e', 'b', 'a', 'r']",Indonesian,0.0,Prehistorical
+luas,"['l', 'u', 'a', 's']",Indonesian,0.0,Prehistorical
+sempit,"['s', 'e', 'm', 'p', 'i', 't']",Indonesian,0.0,Prehistorical
+tebal,"['t', 'e', 'b', 'a', 'l']",Indonesian,0.0,Prehistorical
+tipis,"['t', 'i', 'p', 'i', 's']",Indonesian,0.0,Prehistorical
+kurus,"['k', 'u', 'r', 'u', 's']",Indonesian,0.0,Prehistorical
+langsing,"['l', 'a', 'ŋ', 's', 'i', 'ŋ']",Indonesian,1.0,Modern
+dalam,"['d', 'a', 'l', 'a', 'm']",Indonesian,0.0,Prehistorical
+dangkal,"['d', 'a', 'ŋ', 'k', 'a', 'l']",Indonesian,0.75,Modern
+rata,"['r', 'a', 't', 'a']",Indonesian,0.0,Prehistorical
+datar,"['d', 'a', 't', 'a', 'r']",Indonesian,0.0,Modern
+gépéng,"['g', 'é/e', 'p', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+lurus,"['l', 'u', 'r', 'u', 's']",Indonesian,0.0,Prehistorical
+béngkok,"['b', 'é/e', 'ŋ', 'k', 'o', 'ʔ']",Indonesian,0.0,Prehistorical
+kait,"['k', 'a', 'i', 't']",Indonesian,0.0,Prehistorical
+pojok,"['p', 'o', 'dʒ', 'o', 'ʔ']",Indonesian,1.0,Modern
+sudut,"['s', 'u', 'd', 'u', 't']",Indonesian,0.0,Prehistorical
+huk,"['h', 'u', 'ʔ']",Indonesian,1.0,Modern
+palang,"['p', 'a', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+segiempat,"['s', 'e', 'g', 'i', 'e', 'm', 'p', 'a', 't']",Indonesian,0.0,Modern
+bundar,"['b', 'u', 'n', 'd', 'a', 'r']",Indonesian,0.0,Prehistorical
+bulat,"['b', 'u', 'l', 'a', 't']",Indonesian,0.0,Prehistorical
+lingkaran,"['l', 'i', 'ŋ', 'k', 'a', 'r', 'a', 'n']",Indonesian,0.0,Prehistorical
+bola,"['b', 'o', 'l', 'a']",Indonesian,1.0,Modern
+garis,"['g', 'a', 'r', 'i', 's']",Indonesian,1.0,Modern
+baris,"['b', 'a', 'r', 'i', 's']",Indonesian,0.0,Prehistorical
+"lubang, lobang","['l', 'u', 'b', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+mirip,"['m', 'i', 'r', 'i', 'p']",Indonesian,1.0,Modern
+mengubah,"['m', 'e', 'ŋ', 'u', 'b', 'a', 'h']",Indonesian,0.0,Prehistorical
+mengganti,"['m', 'e', 'ŋ', 'g', 'a', 'n', 't', 'i']",Indonesian,0.0,Prehistorical
+nol,"['n', 'o', 'l']",Indonesian,1.0,Modern
+kosong,"['k', 'o', 's', 'o', 'ŋ']",Indonesian,0.0,Prehistorical
+satu,"['s', 'a', 't', 'u']",Indonesian,0.25,Early Malay
+dua,"['d', 'u', 'a']",Indonesian,0.0,Prehistorical
+tiga,"['t', 'i', 'g', 'a']",Indonesian,0.75,Early Malay
+empat,"['e', 'm', 'p', 'a', 't']",Indonesian,0.0,Prehistorical
+lima,"['l', 'i', 'm', 'a']",Indonesian,0.0,Prehistorical
+enam,"['e', 'n', 'a', 'm']",Indonesian,0.0,Prehistorical
+tujuh,"['t', 'u', 'dʒ', 'u', 'h']",Indonesian,0.0,Prehistorical
+delapan,"['d', 'e', 'l', 'a', 'p', 'a', 'n']",Indonesian,0.0,Prehistorical
+sembilan,"['s', 'e', 'm', 'b', 'i', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+sepuluh,"['s', 'e', 'p', 'u', 'l', 'u', 'h']",Indonesian,0.0,Prehistorical
+sebelas,"['s', 'e', 'b', 'e', 'l', 'a', 's']",Indonesian,0.5,Early Malay
+dua belas,"['d', 'u', 'a', '+', 'b', 'e', 'l', 'a', 's']",Indonesian,0.0,Early Malay
+lima belas,"['l', 'i', 'm', 'a', '+', 'b', 'e', 'l', 'a', 's']",Indonesian,0.0,Early Malay
+dua puluh,"['d', 'u', 'a', '+', 'p', 'u', 'l', 'u', 'h']",Indonesian,0.0,Prehistorical
+seratus,"['s', 'e', 'r', 'a', 't', 'u', 's']",Indonesian,0.0,Prehistorical
+seribu,"['s', 'e', 'r', 'i', 'b', 'u']",Indonesian,0.0,Prehistorical
+menghitung,"['m', 'e', 'ŋ', 'h', 'i', 't', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+semua,"['s', 'e', 'm', 'u', 'a']",Indonesian,1.0,Early Malay
+segala,"['s', 'e', 'g', 'a', 'l', 'a']",Indonesian,1.0,Early Malay
+banyak,"['b', 'a', 'ɲ', 'a', 'ʔ']",Indonesian,0.0,Early Malay
+lebih,"['l', 'e', 'b', 'i', 'h']",Indonesian,0.0,Prehistorical
+lagi,"['l', 'a', 'g', 'i']",Indonesian,0.0,Prehistorical
+sedikit,"['s', 'e', 'd', 'i', 'k', 'i', 't']",Indonesian,0.0,Prehistorical
+cukup,"['tʃ', 'u', 'k', 'u', 'p']",Indonesian,0.0,Prehistorical
+beberapa,"['b', 'e', 'b', 'e', 'r', 'a', 'p', 'a']",Indonesian,0.0,Early Malay
+massa,"['m', 'a', 'ss/s', 'a']",Indonesian,1.0,Modern
+penuh,"['p', 'e', 'n', 'u', 'h']",Indonesian,0.0,Prehistorical
+kosong,"['k', 'o', 's', 'o', 'ŋ']",Indonesian,0.0,Prehistorical
+bagian,"['b', 'a', 'g', 'i', 'a', 'n']",Indonesian,0.0,Early Malay
+setengah,"['s', 'e', 't', 'e', 'ŋ', 'a', 'h']",Indonesian,0.0,Prehistorical
+separo,"['s', 'e', 'p', 'a', 'r', 'o']",Indonesian,1.0,Modern
+separuh,"['s', 'e', 'p', 'a', 'r', 'u', 'h']",Indonesian,0.0,Prehistorical
+hanya,"['h', 'a', 'ɲ', 'a']",Indonesian,0.0,Prehistorical
+cuma,"['tʃ', 'u', 'm', 'a']",Indonesian,1.0,Early Malay
+satu-satunya,"['s', 'a', 't', 'u', '+', 's', 'a', 't', 'u', 'ɲ', 'a']",Indonesian,0.0,Early Malay
+pertama,"['p', 'e', 'r', 't', 'a', 'm', 'a']",Indonesian,1.0,Early Malay
+kesatu,"['k', 'e', 's', 'a', 't', 'u']",Indonesian,0.0,Prehistorical
+terakhir,"['t', 'e', 'r', 'a', 'x', 'i', 'r']",Indonesian,0.0,Early Malay
+kedua,"['k', 'e', 'd', 'u', 'a']",Indonesian,0.0,Prehistorical
+pasang (2),"['p', 'a', 's', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+ketiga,"['k', 'e', 't', 'i', 'g', 'a']",Indonesian,0.0,Early Malay
+waktu,"['w', 'a', 'k', 't', 'u']",Indonesian,1.0,Early Malay
+masa,"['m', 'a', 's', 'a']",Indonesian,1.0,Early Malay
+tempo,"['t', 'e', 'm', 'p', 'o']",Indonesian,1.0,Modern
+umur,"['u', 'm', 'u', 'r']",Indonesian,1.0,Early Malay
+usia,"['u', 's', 'i', 'a']",Indonesian,1.0,Early Malay
+baru,"['b', 'a', 'r', 'u']",Indonesian,0.0,Prehistorical
+muda,"['m', 'u', 'd', 'a']",Indonesian,0.0,Prehistorical
+tua,"['t', 'u', 'a']",Indonesian,0.0,Prehistorical
+awal,"['a', 'w', 'a', 'l']",Indonesian,1.0,Early Malay
+dini,"['d', 'i', 'n', 'i']",Indonesian,0.75,Early Malay
+lat,"['l', 'a', 't']",Indonesian,1.0,Modern
+terlambat,"['t', 'e', 'r', 'l', 'a', 'm', 'b', 'a', 't']",Indonesian,0.0,Early Malay
+telat,"['t', 'e', 'l', 'a', 't']",Indonesian,1.0,Modern
+sekarang,"['s', 'e', 'k', 'a', 'r', 'a', 'ŋ']",Indonesian,0.0,Early Malay
+kini,"['k', 'i', 'n', 'i']",Indonesian,0.0,Early Malay
+segera,"['s', 'e', 'g', 'e', 'r', 'a']",Indonesian,1.0,Early Malay
+langsung,"['l', 'a', 'ŋ', 's', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+serta-merta,"['s', 'e', 'r', 't', 'a', '+', 'm', 'e', 'r', 't', 'a']",Indonesian,0.0,Early Malay
+cepat,"['tʃ', 'e', 'p', 'a', 't']",Indonesian,0.0,Prehistorical
+laju,"['l', 'a', 'dʒ', 'u']",Indonesian,0.75,Early Malay
+pesat,"['p', 'e', 's', 'a', 't']",Indonesian,0.0,Modern
+pelan,"['p', 'e', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+lambat,"['l', 'a', 'm', 'b', 'a', 't']",Indonesian,0.0,Prehistorical
+terburu-buru,"['t', 'e', 'r', 'b', 'u', 'r', 'u', '+', 'b', 'u', 'r', 'u']",Indonesian,0.0,Prehistorical
+cepat,"['tʃ', 'e', 'p', 'a', 't']",Indonesian,0.0,Prehistorical
+tergesa-gesa,"['t', 'e', 'r', 'g', 'e', 's', 'a', '+', 'g', 'e', 's', 'a']",Indonesian,0.0,Prehistorical
+bergegas,"['b', 'e', 'r', 'g', 'e', 'g', 'a', 's']",Indonesian,0.0,Prehistorical
+telat,"['t', 'e', 'l', 'a', 't']",Indonesian,1.0,Modern
+terlambat,"['t', 'e', 'r', 'l', 'a', 'm', 'b', 'a', 't']",Indonesian,0.0,Early Malay
+lat,"['l', 'a', 't']",Indonesian,1.0,Modern
+memulai,"['m', 'e', 'm', 'u', 'l', 'aɪ']",Indonesian,0.0,Early Malay
+berlangsung,"['b', 'e', 'r', 'l', 'a', 'ŋ', 's', 'u', 'ŋ']",Indonesian,0.0,Early Malay
+akhir,"['a', 'x', 'i', 'r']",Indonesian,1.0,Early Malay
+penghabisan,"['p', 'e', 'ŋ', 'h', 'a', 'b', 'i', 's', 'a', 'n']",Indonesian,0.0,Prehistorical
+tamat,"['t', 'a', 'm', 'a', 't']",Indonesian,1.0,Early Malay
+penghujung,"['p', 'e', 'ŋ', 'h', 'u', 'dʒ', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+selesai,"['s', 'e', 'l', 'e', 's', 'aɪ']",Indonesian,0.25,Early Malay
+berhenti,"['b', 'e', 'r', 'h', 'e', 'n', 't', 'i']",Indonesian,0.0,Prehistorical
+siap,"['s', 'i', 'a', 'p']",Indonesian,0.0,Prehistorical
+sedia,"['s', 'e', 'd', 'i', 'a']",Indonesian,1.0,Early Malay
+selalu,"['s', 'e', 'l', 'a', 'l', 'u']",Indonesian,0.0,Early Malay
+"sentiasa, senantiasa","['s', 'e', 'n', 't', 'i', 'a', 's', 'a']",Indonesian,1.0,Early Malay
+sering,"['s', 'e', 'r', 'i', 'ŋ']",Indonesian,0.0,Early Malay
+acap kali,"['a', 'tʃ', 'a', 'p', '+', 'k', 'a', 'l', 'i']",Indonesian,0.0,Early Malay
+kerap kali,"['k', 'e', 'r', 'a', 'p', '+', 'k', 'a', 'l', 'i']",Indonesian,0.0,Early Malay
+kadang-kadang,"['k', 'a', 'd', 'a', 'ŋ', '+', 'k', 'a', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kadangkala,"['k', 'a', 'd', 'a', 'ŋ', 'k', 'a', 'l', 'a']",Indonesian,0.0,Early Malay
+segera,"['s', 'e', 'g', 'e', 'r', 'a']",Indonesian,1.0,Early Malay
+lama,"['l', 'a', 'm', 'a']",Indonesian,0.0,Prehistorical
+lagi,"['l', 'a', 'g', 'i']",Indonesian,0.0,Prehistorical
+semula,"['s', 'e', 'm', 'u', 'l', 'a']",Indonesian,0.0,Early Malay
+siang (1),"['s', 'i', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+malam,"['m', 'a', 'l', 'a', 'm']",Indonesian,0.0,Prehistorical
+fajar,"['f', 'a', 'dʒ', 'a', 'r']",Indonesian,1.0,Early Malay
+subuh,"['s', 'u', 'b', 'u', 'h']",Indonesian,1.0,Early Malay
+pagi,"['p', 'a', 'g', 'i']",Indonesian,0.0,Prehistorical
+siang (2),"['s', 'i', 'a', 'ŋ']",Indonesian,0.0,Modern
+tengah hari,"['t', 'e', 'ŋ', 'a', 'h', '+', 'h', 'a', 'r', 'i']",Indonesian,0.0,Prehistorical
+soré,"['s', 'o', 'r', 'é/e']",Indonesian,1.0,Modern
+petang,"['p', 'e', 't', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+hari ini,"['h', 'a', 'r', 'i', '+', 'i', 'n', 'i']",Indonesian,0.0,Prehistorical
+"bésok, ésok","['b', 'é/e', 's', 'o', 'ʔ']",Indonesian,0.0,Prehistorical
+lusa,"['l', 'u', 's', 'a']",Indonesian,0.0,Prehistorical
+kemarin,"['k', 'e', 'm', 'a', 'r', 'i', 'n']",Indonesian,0.0,Early Malay
+kemarin dulu,"['k', 'e', 'm', 'a', 'r', 'i', 'n', '+', 'd', 'u', 'l', 'u']",Indonesian,0.0,Early Malay
+kemarin lusa,"['k', 'e', 'm', 'a', 'r', 'i', 'n', '+', 'l', 'u', 's', 'a']",Indonesian,0.0,Modern
+jam,"['dʒ', 'a', 'm']",Indonesian,1.0,Early Malay
+jam,"['dʒ', 'a', 'm']",Indonesian,1.0,Early Malay
+arloji,"['a', 'r', 'l', 'o', 'dʒ', 'i']",Indonesian,1.0,Modern
+minggu,"['m', 'i', 'ŋ', 'g', 'u']",Indonesian,1.0,Modern
+pekan (1),"['p', 'e', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+(hari) Minggu,"['h', 'a', 'r', 'i', '+', 'M/m', 'i', 'ŋ', 'g', 'u']",Indonesian,1.0,Modern
+(hari) Ahad,"['h', 'a', 'r', 'i', '+', 'A/a', 'h', 'a', 'd']",Indonesian,1.0,Early Malay
+Senin,"['S/s', 'e', 'n', 'i', 'n']",Indonesian,1.0,Early Malay
+Selasa,"['S/s', 'e', 'l', 'a', 's', 'a']",Indonesian,1.0,Early Malay
+Rabu,"['R/r', 'a', 'b', 'u']",Indonesian,1.0,Early Malay
+Kamis,"['K/k', 'a', 'm', 'i', 's']",Indonesian,1.0,Early Malay
+Jum'at,"['J/dʒ', 'u', 'm', 'ʔ', 'a', 't']",Indonesian,1.0,Early Malay
+Sabtu,"['S/s', 'a', 'b', 't', 'u']",Indonesian,1.0,Early Malay
+bulan,"['b', 'u', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+tahun,"['t', 'a', 'h', 'u', 'n']",Indonesian,0.0,Prehistorical
+musim dingin,"['m', 'u', 's', 'i', 'm', '+', 'd', 'i', 'ŋ', 'i', 'n']",Indonesian,0.0,Early Malay
+musim semi,"['m', 'u', 's', 'i', 'm', '+', 's', 'e', 'm', 'i']",Indonesian,0.0,Early Malay
+musim panas,"['m', 'u', 's', 'i', 'm', '+', 'p', 'a', 'n', 'a', 's']",Indonesian,0.0,Early Malay
+musim gugur,"['m', 'u', 's', 'i', 'm', '+', 'g', 'u', 'g', 'u', 'r']",Indonesian,0.0,Early Malay
+musim,"['m', 'u', 's', 'i', 'm']",Indonesian,1.0,Early Malay
+"bau, berbau","['b', 'aʊ']",Indonesian,0.0,Prehistorical
+berkerut,"['b', 'e', 'r', 'k', 'e', 'r', 'u', 't']",Indonesian,0.0,Prehistorical
+keriput,"['k', 'e', 'r', 'i', 'p', 'u', 't']",Indonesian,0.5,Modern
+menciumi,"['m', 'e', 'ɲ', 'i', 'u', 'm', 'i']",Indonesian,0.25,Prehistorical
+menghidu,"['m', 'e', 'ŋ', 'h', 'i', 'd', 'u']",Indonesian,0.0,Prehistorical
+mengendus,"['m', 'e', 'ŋ', 'e', 'n', 'd', 'u', 's']",Indonesian,0.75,Modern
+mencium (2),"['m', 'e', 'ɲ', 'i', 'u', 'm']",Indonesian,0.25,Prehistorical
+harum,"['h', 'a', 'r', 'u', 'm']",Indonesian,0.0,Prehistorical
+wangi,"['w', 'a', 'ŋ', 'i']",Indonesian,1.0,Modern
+bau,"['b', 'aʊ']",Indonesian,0.0,Prehistorical
+terasa,"['t', 'e', 'r', 'a', 's', 'a']",Indonesian,1.0,Early Malay
+manis,"['m', 'a', 'n', 'i', 's']",Indonesian,0.0,Prehistorical
+"asin, masin","['a', 's', 'i', 'n']",Indonesian,0.0,Prehistorical
+pahit,"['p', 'a', 'h', 'i', 't']",Indonesian,0.0,Prehistorical
+"asam, masam","['a', 's', 'a', 'm']",Indonesian,0.0,Prehistorical
+kecut,"['k', 'e', 'tʃ', 'u', 't']",Indonesian,1.0,Modern
+payau,"['p', 'a', 'j', 'aʊ']",Indonesian,0.0,Prehistorical
+mendengar,"['m', 'e', 'n', 'd', 'e', 'ŋ', 'a', 'r']",Indonesian,0.0,Prehistorical
+mendengarkan,"['m', 'e', 'n', 'd', 'e', 'ŋ', 'a', 'r', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+suara,"['s', 'u', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+bunyi,"['b', 'u', 'ɲ', 'i']",Indonesian,0.0,Prehistorical
+keras,"['k', 'e', 'r', 'a', 's']",Indonesian,0.0,Prehistorical
+sepi,"['s', 'e', 'p', 'i']",Indonesian,1.0,Modern
+tenang,"['t', 'e', 'n', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+diam (2),"['d', 'i', 'a', 'm']",Indonesian,0.0,Prehistorical
+sunyi,"['s', 'u', 'ɲ', 'i']",Indonesian,0.75,Early Malay
+melihat,"['m', 'e', 'l', 'i', 'h', 'a', 't']",Indonesian,0.0,Prehistorical
+melihat,"['m', 'e', 'l', 'i', 'h', 'a', 't']",Indonesian,0.0,Prehistorical
+menunjukkan,"['m', 'e', 'n', 'u', 'ɲ', 'u', 'k', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+memperlihatkan,"['m', 'e', 'm', 'p', 'e', 'r', 'l', 'i', 'h', 'a', 't', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+bersinar,"['b', 'e', 'r', 's', 'i', 'n', 'a', 'r']",Indonesian,0.0,Prehistorical
+mengkilat,"['m', 'e', 'ŋ', 'k', 'i', 'l', 'a', 't']",Indonesian,0.0,Early Malay
+bercahaya,"['b', 'e', 'r', 'tʃ', 'a', 'h', 'a', 'j', 'a']",Indonesian,1.0,Early Malay
+berkilau,"['b', 'e', 'r', 'k', 'i', 'l', 'aʊ']",Indonesian,0.0,Prehistorical
+mengkilap,"['m', 'e', 'ŋ', 'k', 'i', 'l', 'a', 'p']",Indonesian,0.0,Early Malay
+menyilaukan,"['m', 'e', 'ɲ', 'i', 'l', 'a', 'u', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+cerah,"['tʃ', 'e', 'r', 'a', 'h']",Indonesian,0.0,Prehistorical
+warna,"['w', 'a', 'r', 'n', 'a']",Indonesian,1.0,Early Malay
+kelir,"['k', 'e', 'l', 'i', 'r']",Indonesian,1.0,Modern
+terang,"['t', 'e', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+gelap,"['g', 'e', 'l', 'a', 'p']",Indonesian,0.0,Prehistorical
+tua,"['t', 'u', 'a']",Indonesian,0.0,Prehistorical
+putih,"['p', 'u', 't', 'i', 'h']",Indonesian,0.0,Prehistorical
+hitam,"['h', 'i', 't', 'a', 'm']",Indonesian,0.0,Prehistorical
+mérah,"['m', 'é/e', 'r', 'a', 'h']",Indonesian,0.0,Prehistorical
+biru,"['b', 'i', 'r', 'u']",Indonesian,0.25,Early Malay
+hijau,"['h', 'i', 'dʒ', 'aʊ']",Indonesian,0.0,Prehistorical
+kuning,"['k', 'u', 'n', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+menyentuh,"['m', 'e', 'ɲ', 'e', 'n', 't', 'u', 'h']",Indonesian,0.0,Prehistorical
+meraba,"['m', 'e', 'r', 'a', 'b', 'a']",Indonesian,0.0,Prehistorical
+menyinggung,"['m', 'e', 'ɲ', 'i', 'ŋ', 'g', 'u', 'ŋ']",Indonesian,0.25,Prehistorical
+memegang,"['m', 'e', 'm', 'e', 'g', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+mengenai,"['m', 'e', 'ŋ', 'e', 'n', 'aɪ']",Indonesian,0.0,Prehistorical
+mencubit,"['m', 'e', 'ɲ', 'u', 'b', 'i', 't']",Indonesian,0.0,Prehistorical
+merasakan,"['m', 'e', 'r', 'a', 's', 'a', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+meraba,"['m', 'e', 'r', 'a', 'b', 'a']",Indonesian,0.0,Prehistorical
+keras,"['k', 'e', 'r', 'a', 's']",Indonesian,0.0,Prehistorical
+empuk,"['e', 'm', 'p', 'u', 'ʔ']",Indonesian,1.0,Modern
+lembék,"['l', 'e', 'm', 'b', 'é/e', 'ʔ']",Indonesian,0.0,Prehistorical
+lunak,"['l', 'u', 'n', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+lembut,"['l', 'e', 'm', 'b', 'u', 't']",Indonesian,0.0,Prehistorical
+kasar,"['k', 'a', 's', 'a', 'r']",Indonesian,0.0,Prehistorical
+halus,"['h', 'a', 'l', 'u', 's']",Indonesian,0.0,Prehistorical
+licin,"['l', 'i', 'tʃ', 'i', 'n']",Indonesian,0.0,Prehistorical
+mulus,"['m', 'u', 'l', 'u', 's']",Indonesian,0.0,Modern
+tajam,"['t', 'a', 'dʒ', 'a', 'm']",Indonesian,0.0,Prehistorical
+tumpul,"['t', 'u', 'm', 'p', 'u', 'l']",Indonesian,0.0,Prehistorical
+majal,"['m', 'a', 'dʒ', 'a', 'l']",Indonesian,0.25,Modern
+berat,"['b', 'e', 'r', 'a', 't']",Indonesian,0.0,Prehistorical
+énténg,"['é/e', 'n', 't', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+ringan,"['r', 'i', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+basah,"['b', 'a', 's', 'a', 'h']",Indonesian,0.0,Prehistorical
+kering,"['k', 'e', 'r', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+panas,"['p', 'a', 'n', 'a', 's']",Indonesian,0.0,Prehistorical
+hangat,"['h', 'a', 'ŋ', 'a', 't']",Indonesian,0.0,Prehistorical
+dingin,"['d', 'i', 'ŋ', 'i', 'n']",Indonesian,0.0,Prehistorical
+bersih,"['b', 'e', 'r', 's', 'i', 'h']",Indonesian,0.0,Prehistorical
+kotor,"['k', 'o', 't', 'o', 'r']",Indonesian,0.0,Prehistorical
+kumuh,"['k', 'u', 'm', 'u', 'h']",Indonesian,0.75,Modern
+cemar,"['tʃ', 'e', 'm', 'a', 'r']",Indonesian,0.0,Prehistorical
+nyawa,"['ɲ', 'a', 'w', 'a']",Indonesian,0.0,Prehistorical
+jiwa,"['dʒ', 'i', 'w', 'a']",Indonesian,1.0,Early Malay
+arwah,"['a', 'r', 'w', 'a', 'h']",Indonesian,1.0,Early Malay
+roh,"['r', 'o', 'h']",Indonesian,1.0,Early Malay
+semangat,"['s', 'e', 'm', 'a', 'ŋ', 'a', 't']",Indonesian,0.0,Prehistorical
+hantu,"['h', 'a', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+héran,"['h', 'é/e', 'r', 'a', 'n']",Indonesian,1.0,Early Malay
+kagét,"['k', 'a', 'g', 'é/e', 't']",Indonesian,1.0,Modern
+terkejut,"['t', 'e', 'r', 'k', 'e', 'dʒ', 'u', 't']",Indonesian,0.0,Prehistorical
+keberuntungan,"['k', 'e', 'b', 'e', 'r', 'u', 'n', 't', 'u', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+kemujuran,"['k', 'e', 'm', 'u', 'dʒ', 'u', 'r', 'a', 'n']",Indonesian,0.0,Modern
+hoki,"['h', 'o', 'k', 'i']",Indonesian,1.0,Modern
+kemalangan,"['k', 'e', 'm', 'a', 'l', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+"sial, kesialan","['s', 'i', 'a', 'l']",Indonesian,0.0,Prehistorical
+celaka,"['tʃ', 'e', 'l', 'a', 'k', 'a']",Indonesian,0.75,Early Malay
+sué,"['s', 'u', 'é/e']",Indonesian,1.0,Modern
+senang,"['s', 'e', 'n', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+bahagia,"['b', 'a', 'h', 'a', 'g', 'i', 'a']",Indonesian,1.0,Early Malay
+gembira,"['g', 'e', 'm', 'b', 'i', 'r', 'a']",Indonesian,0.75,Early Malay
+tertawa,"['t', 'e', 'r', 't', 'a', 'w', 'a']",Indonesian,0.0,Prehistorical
+ketawa,"['k', 'e', 't', 'a', 'w', 'a']",Indonesian,0.0,Prehistorical
+tersenyum,"['t', 'e', 'r', 's', 'e', 'ɲ', 'u', 'm']",Indonesian,0.0,Prehistorical
+bermain,"['b', 'e', 'r', 'm', 'a', 'i', 'n']",Indonesian,0.0,Prehistorical
+mengasihi,"['m', 'e', 'ŋ', 'a', 's', 'i', 'h', 'i']",Indonesian,0.0,Early Malay
+"cinta, mencintai","['tʃ', 'i', 'n', 't', 'a']",Indonesian,1.0,Early Malay
+menyayangi,"['m', 'e', 'ɲ', 'a', 'j', 'a', 'ŋ', 'i']",Indonesian,0.0,Early Malay
+mencium (1),"['m', 'e', 'ɲ', 'i', 'u', 'm']",Indonesian,0.25,Prehistorical
+memeluk,"['m', 'e', 'm', 'e', 'l', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+merangkul,"['m', 'e', 'r', 'a', 'ŋ', 'k', 'u', 'l']",Indonesian,1.0,Modern
+rasa sakit,"['r', 'a', 's', 'a', '+', 's', 'a', 'k', 'i', 't']",Indonesian,0.0,Early Malay
+kesedihan,"['k', 'e', 's', 'e', 'd', 'i', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+"kekhawatiran, kekuatiran","['k', 'e', 'x', 'a', 'w', 'a', 't', 'i', 'r', 'a', 'n']",Indonesian,0.0,Early Malay
+kecemasan,"['k', 'e', 'tʃ', 'e', 'm', 'a', 's', 'a', 'n']",Indonesian,0.0,Early Malay
+kebimbangan,"['k', 'e', 'b', 'i', 'm', 'b', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+kegelisahan,"['k', 'e', 'g', 'e', 'l', 'i', 's', 'a', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+menyesal(i),"['m', 'e', 'ɲ', 'e', 's', 'a', 'l', 'i']",Indonesian,0.0,Prehistorical
+kasihan,"['k', 'a', 's', 'i', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+menangis,"['m', 'e', 'n', 'a', 'ŋ', 'i', 's']",Indonesian,0.0,Prehistorical
+air mata,"['a', 'i', 'r', '+', 'm', 'a', 't', 'a']",Indonesian,0.0,Prehistorical
+merintih,"['m', 'e', 'r', 'i', 'n', 't', 'i', 'h']",Indonesian,0.75,Modern
+mengerang,"['m', 'e', 'ŋ', 'e', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+membenci,"['m', 'e', 'm', 'b', 'e', 'ɲ', 'i']",Indonesian,0.0,Prehistorical
+kemarahan,"['k', 'e', 'm', 'a', 'r', 'a', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+amarah,"['a', 'm', 'a', 'r', 'a', 'h']",Indonesian,1.0,Early Malay
+murka,"['m', 'u', 'r', 'k', 'a']",Indonesian,1.0,Early Malay
+kecemburuan,"['k', 'e', 'tʃ', 'e', 'm', 'b', 'u', 'r', 'u', 'a', 'n']",Indonesian,0.0,Prehistorical
+iri hati,"['i', 'r', 'i', '+', 'h', 'a', 't', 'i']",Indonesian,0.0,Prehistorical
+dengki,"['d', 'e', 'ŋ', 'k', 'i']",Indonesian,0.0,Prehistorical
+rasa malu,"['r', 'a', 's', 'a', '+', 'm', 'a', 'l', 'u']",Indonesian,0.0,Early Malay
+nista,"['n', 'i', 's', 't', 'a']",Indonesian,1.0,Early Malay
+aib,"['a', 'i', 'b']",Indonesian,1.0,Early Malay
+bangga,"['b', 'a', 'ŋ', 'g', 'a']",Indonesian,0.0,Prehistorical
+berani,"['b', 'e', 'r', 'a', 'n', 'i']",Indonesian,0.0,Prehistorical
+berani,"['b', 'e', 'r', 'a', 'n', 'i']",Indonesian,0.0,Prehistorical
+rasa takut,"['r', 'a', 's', 'a', '+', 't', 'a', 'k', 'u', 't']",Indonesian,0.0,Early Malay
+ketakutan,"['k', 'e', 't', 'a', 'k', 'u', 't', 'a', 'n']",Indonesian,0.0,Prehistorical
+bahaya,"['b', 'a', 'h', 'a', 'j', 'a']",Indonesian,1.0,Early Malay
+mau,"['m', 'aʊ']",Indonesian,0.0,Prehistorical
+ingin,"['i', 'ŋ', 'i', 'n']",Indonesian,0.0,Prehistorical
+memilih,"['m', 'e', 'm', 'i', 'l', 'i', 'h']",Indonesian,0.0,Prehistorical
+berharap,"['b', 'e', 'r', 'h', 'a', 'r', 'a', 'p']",Indonesian,0.0,Prehistorical
+setia,"['s', 'e', 't', 'i', 'a']",Indonesian,1.0,Early Malay
+benar,"['b', 'e', 'n', 'a', 'r']",Indonesian,0.0,Prehistorical
+berbohong,"['b', 'e', 'r', 'b', 'o', 'h', 'o', 'ŋ']",Indonesian,0.0,Prehistorical
+berdusta,"['b', 'e', 'r', 'd', 'u', 's', 't', 'a']",Indonesian,1.0,Early Malay
+penipuan,"['p', 'e', 'n', 'i', 'p', 'u', 'a', 'n']",Indonesian,0.0,Prehistorical
+kebohongan,"['k', 'e', 'b', 'o', 'h', 'o', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+kecurangan,"['k', 'e', 'tʃ', 'u', 'r', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Modern
+memaafkan,"['m', 'e', 'm', 'aː', 'f', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+mengampuni,"['m', 'e', 'ŋ', 'a', 'm', 'p', 'u', 'n', 'i']",Indonesian,0.0,Prehistorical
+baik,"['b', 'a', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+bagus,"['b', 'a', 'g', 'u', 's']",Indonesian,0.0,Prehistorical
+jelék,"['dʒ', 'e', 'l', 'é/e', 'ʔ']",Indonesian,1.0,Modern
+buruk,"['b', 'u', 'r', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+betul,"['b', 'e', 't', 'u', 'l']",Indonesian,0.0,Prehistorical
+benar,"['b', 'e', 'n', 'a', 'r']",Indonesian,0.0,Prehistorical
+salah,"['s', 'a', 'l', 'a', 'h']",Indonesian,0.0,Prehistorical
+kesalahan,"['k', 'e', 's', 'a', 'l', 'a', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+kesalahan,"['k', 'e', 's', 'a', 'l', 'a', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+kesalahan,"['k', 'e', 's', 'a', 'l', 'a', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+puji(an),"['p', 'u', 'dʒ', 'i', 'a', 'n']",Indonesian,1.0,Early Malay
+indah,"['i', 'n', 'd', 'a', 'h']",Indonesian,0.0,Prehistorical
+cantik,"['tʃ', 'a', 'n', 't', 'i', 'ʔ']",Indonesian,0.5,Early Malay
+asri,"['a', 's', 'r', 'i']",Indonesian,1.0,Early Malay
+permai,"['p', 'e', 'r', 'm', 'aɪ']",Indonesian,0.0,Early Malay
+jelék,"['dʒ', 'e', 'l', 'é/e', 'ʔ']",Indonesian,1.0,Modern
+rakus,"['r', 'a', 'k', 'u', 's']",Indonesian,0.0,Prehistorical
+loba,"['l', 'o', 'b', 'a']",Indonesian,1.0,Early Malay
+serakah,"['s', 'e', 'r', 'a', 'k', 'a', 'h']",Indonesian,0.75,Early Malay
+tamak,"['t', 'a', 'm', 'a', 'ʔ']",Indonesian,1.0,Early Malay
+cerdas,"['tʃ', 'e', 'r', 'd', 'a', 's']",Indonesian,0.0,Prehistorical
+cerdik,"['tʃ', 'e', 'r', 'd', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+pintar,"['p', 'i', 'n', 't', 'a', 'r']",Indonesian,1.0,Modern
+pandai,"['p', 'a', 'n', 'd', 'aɪ']",Indonesian,0.75,Early Malay
+akal,"['a', 'k', 'a', 'l']",Indonesian,1.0,Early Malay
+benak,"['b', 'e', 'n', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+pikir,"['p', 'i', 'k', 'i', 'r']",Indonesian,1.0,Early Malay
+pikir,"['p', 'i', 'k', 'i', 'r']",Indonesian,1.0,Early Malay
+kira,"['k', 'i', 'r', 'a']",Indonesian,0.25,Early Malay
+percaya,"['p', 'e', 'r', 'tʃ', 'a', 'j', 'a']",Indonesian,1.0,Early Malay
+mengerti,"['m', 'e', 'ŋ', 'e', 'r', 't', 'i']",Indonesian,1.0,Early Malay
+memahami,"['m', 'e', 'm', 'a', 'h', 'a', 'm', 'i']",Indonesian,0.0,Early Malay
+tahu,"['t', 'a', 'h', 'u']",Indonesian,0.0,Prehistorical
+menebak,"['m', 'e', 'n', 'e', 'b', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+menduga,"['m', 'e', 'n', 'd', 'u', 'g', 'a']",Indonesian,0.0,Prehistorical
+menerka,"['m', 'e', 'n', 'e', 'r', 'k', 'a']",Indonesian,1.0,Early Malay
+meniru,"['m', 'e', 'n', 'i', 'r', 'u']",Indonesian,0.0,Prehistorical
+kelihatan,"['k', 'e', 'l', 'i', 'h', 'a', 't', 'a', 'n']",Indonesian,0.0,Prehistorical
+tampak,"['t', 'a', 'm', 'p', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+nampak,"['n', 'a', 'm', 'p', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+terlihat,"['t', 'e', 'r', 'l', 'i', 'h', 'a', 't']",Indonesian,0.0,Prehistorical
+idé,"['i', 'd', 'é/e']",Indonesian,1.0,Modern
+gagasan,"['g', 'a', 'g', 'a', 's', 'a', 'n']",Indonesian,1.0,Modern
+bijaksana,"['b', 'i', 'dʒ', 'a', 'k', 's', 'a', 'n', 'a']",Indonesian,1.0,Early Malay
+bodoh,"['b', 'o', 'd', 'o', 'h']",Indonesian,0.0,Prehistorical
+goblok,"['g', 'o', 'b', 'l', 'o', 'ʔ']",Indonesian,1.0,Modern
+bégo,"['b', 'é/e', 'g', 'o']",Indonesian,1.0,Modern
+konyol,"['k', 'o', 'ɲ', 'o', 'l']",Indonesian,1.0,Modern
+dungu,"['d', 'u', 'ŋ', 'u']",Indonesian,0.0,Prehistorical
+gila,"['g', 'i', 'l', 'a']",Indonesian,0.0,Prehistorical
+belajar,"['b', 'e', 'l', 'a', 'dʒ', 'a', 'r']",Indonesian,0.75,Early Malay
+belajar,"['b', 'e', 'l', 'a', 'dʒ', 'a', 'r']",Indonesian,0.75,Early Malay
+mengajar,"['m', 'e', 'ŋ', 'a', 'dʒ', 'a', 'r']",Indonesian,1.0,Early Malay
+murid,"['m', 'u', 'r', 'i', 'd']",Indonesian,1.0,Early Malay
+guru,"['g', 'u', 'r', 'u']",Indonesian,1.0,Early Malay
+sekolah,"['s', 'e', 'k', 'o', 'l', 'a', 'h']",Indonesian,1.0,Modern
+mengingat,"['m', 'e', 'ŋ', 'i', 'ŋ', 'a', 't']",Indonesian,0.0,Prehistorical
+"lupa, melupakan","['l', 'u', 'p', 'a']",Indonesian,0.0,Prehistorical
+jelas,"['dʒ', 'e', 'l', 'a', 's']",Indonesian,0.0,Prehistorical
+kabur (1),"['k', 'a', 'b', 'u', 'r']",Indonesian,0.0,Prehistorical
+rahasia,"['r', 'a', 'h', 'a', 's', 'i', 'a']",Indonesian,1.0,Early Malay
+pasti,"['p', 'a', 's', 't', 'i']",Indonesian,0.75,Early Malay
+tentu,"['t', 'e', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+yakin,"['j', 'a', 'k', 'i', 'n']",Indonesian,1.0,Early Malay
+menjelaskan,"['m', 'e', 'ɲ', 'e', 'l', 'a', 's', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+menerangkan,"['m', 'e', 'n', 'e', 'r', 'a', 'ŋ', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+maksud,"['m', 'a', 'k', 's', 'u', 'd']",Indonesian,1.0,Early Malay
+niat,"['n', 'i', 'a', 't']",Indonesian,1.0,Early Malay
+kehendak,"['k', 'e', 'h', 'e', 'n', 'd', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+sebab,"['s', 'e', 'b', 'a', 'b']",Indonesian,1.0,Early Malay
+keraguan,"['k', 'e', 'r', 'a', 'g', 'u', 'a', 'n']",Indonesian,0.0,Prehistorical
+kesangsian,"['k', 'e', 's', 'a', 'ŋ', 's', 'i', 'a', 'n']",Indonesian,0.0,Early Malay
+mencurigai,"['m', 'e', 'ɲ', 'u', 'r', 'i', 'g', 'aɪ']",Indonesian,0.0,Modern
+menyangka,"['m', 'e', 'ɲ', 'a', 'ŋ', 'k', 'a']",Indonesian,1.0,Early Malay
+mengkhianati,"['m', 'e', 'ŋ', 'x', 'i', 'a', 'n', 'a', 't', 'i']",Indonesian,1.0,Early Malay
+keperluan,"['k', 'e', 'p', 'e', 'r', 'l', 'u', 'a', 'n']",Indonesian,0.0,Early Malay
+kebutuhan,"['k', 'e', 'b', 'u', 't', 'u', 'h', 'a', 'n']",Indonesian,0.0,Modern
+gampang,"['g', 'a', 'm', 'p', 'a', 'ŋ']",Indonesian,0.75,Modern
+mudah,"['m', 'u', 'd', 'a', 'h']",Indonesian,0.0,Prehistorical
+susah,"['s', 'u', 's', 'a', 'h']",Indonesian,0.0,Prehistorical
+sulit,"['s', 'u', 'l', 'i', 't']",Indonesian,0.0,Prehistorical
+sukar,"['s', 'u', 'k', 'a', 'r']",Indonesian,0.0,Early Malay
+mencoba,"['m', 'e', 'ɲ', 'o', 'b', 'a']",Indonesian,0.25,Early Malay
+cara,"['tʃ', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+gaya,"['g', 'a', 'j', 'a']",Indonesian,0.0,Prehistorical
+dan,"['d', 'a', 'n']",Indonesian,0.0,Early Malay
+serta,"['s', 'e', 'r', 't', 'a']",Indonesian,1.0,Early Malay
+karena,"['k', 'a', 'r', 'e', 'n', 'a']",Indonesian,1.0,Early Malay
+sebab,"['s', 'e', 'b', 'a', 'b']",Indonesian,1.0,Early Malay
+gara-gara,"['g', 'a', 'r', 'a', '+', 'g', 'a', 'r', 'a']",Indonesian,1.0,Modern
+kalau,"['k', 'a', 'l', 'aʊ']",Indonesian,0.0,Early Malay
+jika,"['dʒ', 'i', 'k', 'a']",Indonesian,0.0,Prehistorical
+andai,"['a', 'n', 'd', 'aɪ']",Indonesian,0.5,Early Malay
+atau,"['a', 't', 'aʊ']",Indonesian,1.0,Early Malay
+"ya, iya","['j', 'a']",Indonesian,0.0,Prehistorical
+bukan,"['b', 'u', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+tak,"['t', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+"enggak, nggak, gak, ga","['e', 'ŋ', 'g', 'a', 'ʔ']",Indonesian,0.75,Modern
+tidak,"['t', 'i', 'd', 'a', 'ʔ']",Indonesian,0.0,Early Malay
+bagaimana,"['b', 'a', 'g', 'a', 'i', 'm', 'a', 'n', 'a']",Indonesian,0.0,Early Malay
+berapa,"['b', 'e', 'r', 'a', 'p', 'a']",Indonesian,0.0,Early Malay
+berapa,"['b', 'e', 'r', 'a', 'p', 'a']",Indonesian,0.0,Early Malay
+apa,"['a', 'p', 'a']",Indonesian,0.0,Prehistorical
+kapan,"['k', 'a', 'p', 'a', 'n']",Indonesian,1.0,Modern
+bila,"['b', 'i', 'l', 'a']",Indonesian,1.0,Early Malay
+(di) mana,"['d', 'i', '+', 'm', 'a', 'n', 'a']",Indonesian,0.0,Prehistorical
+(yang) mana,"['j', 'a', 'ŋ', '+', 'm', 'a', 'n', 'a']",Indonesian,0.0,Prehistorical
+siapa,"['s', 'i', 'a', 'p', 'a']",Indonesian,0.0,Prehistorical
+mengapa,"['m', 'e', 'ŋ', 'a', 'p', 'a']",Indonesian,0.0,Prehistorical
+kenapa,"['k', 'e', 'n', 'a', 'p', 'a']",Indonesian,0.0,Early Malay
+suara,"['s', 'u', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+menyanyi,"['m', 'e', 'ɲ', 'a', 'ɲ', 'i']",Indonesian,0.0,Prehistorical
+bernyanyi,"['b', 'e', 'r', 'ɲ', 'a', 'ɲ', 'i']",Indonesian,0.0,Prehistorical
+teriak,"['t', 'e', 'r', 'i', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+berbisik,"['b', 'e', 'r', 'b', 'i', 's', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+bergumam,"['b', 'e', 'r', 'g', 'u', 'm', 'a', 'm']",Indonesian,0.0,Prehistorical
+bersiul,"['b', 'e', 'r', 's', 'i', 'u', 'l']",Indonesian,0.0,Prehistorical
+menjerit,"['m', 'e', 'ɲ', 'e', 'r', 'i', 't']",Indonesian,0.0,Prehistorical
+melolong,"['m', 'e', 'l', 'o', 'l', 'o', 'ŋ']",Indonesian,0.0,Early Malay
+berbicara,"['b', 'e', 'r', 'b', 'i', 'tʃ', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+ngomong,"['ŋ', 'o', 'm', 'o', 'ŋ']",Indonesian,1.0,Modern
+ngobrol,"['ŋ', 'o', 'b', 'r', 'o', 'l']",Indonesian,1.0,Modern
+menggagap,"['m', 'e', 'ŋ', 'g', 'a', 'g', 'a', 'p']",Indonesian,0.0,Prehistorical
+mengatakan,"['m', 'e', 'ŋ', 'a', 't', 'a', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+bilang,"['b', 'i', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+menceritakan,"['m', 'e', 'ɲ', 'e', 'r', 'i', 't', 'a', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+pidato,"['p', 'i', 'd', 'a', 't', 'o']",Indonesian,1.0,Modern
+diam (1),"['d', 'i', 'a', 'm']",Indonesian,0.0,Prehistorical
+bahasa,"['b', 'a', 'h', 'a', 's', 'a']",Indonesian,1.0,Early Malay
+kata,"['k', 'a', 't', 'a']",Indonesian,1.0,Early Malay
+nama,"['n', 'a', 'm', 'a']",Indonesian,1.0,Early Malay
+bertanya,"['b', 'e', 'r', 't', 'a', 'ɲ', 'a']",Indonesian,0.0,Prehistorical
+menjawab,"['m', 'e', 'ɲ', 'a', 'w', 'a', 'b']",Indonesian,1.0,Early Malay
+membalas,"['m', 'e', 'm', 'b', 'a', 'l', 'a', 's']",Indonesian,0.0,Prehistorical
+menyahut,"['m', 'e', 'ɲ', 'a', 'h', 'u', 't']",Indonesian,0.0,Prehistorical
+mengaku(i),"['m', 'e', 'ŋ', 'a', 'k', 'u', 'i']",Indonesian,0.0,Prehistorical
+menyangkal,"['m', 'e', 'ɲ', 'a', 'ŋ', 'k', 'a', 'l']",Indonesian,0.0,Prehistorical
+membantah,"['m', 'e', 'm', 'b', 'a', 'n', 't', 'a', 'h']",Indonesian,0.0,Prehistorical
+menyanggah,"['m', 'e', 'ɲ', 'a', 'ŋ', 'g', 'a', 'h']",Indonesian,0.0,Prehistorical
+meminta,"['m', 'e', 'm', 'i', 'n', 't', 'a']",Indonesian,0.0,Prehistorical
+berjanji,"['b', 'e', 'r', 'dʒ', 'a', 'ɲ', 'i']",Indonesian,0.0,Prehistorical
+menolak,"['m', 'e', 'n', 'o', 'l', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+melarang,"['m', 'e', 'l', 'a', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+menegur,"['m', 'e', 'n', 'e', 'g', 'u', 'r']",Indonesian,0.0,Prehistorical
+menghardik,"['m', 'e', 'ŋ', 'h', 'a', 'r', 'd', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+mencaci-maki,"['m', 'e', 'ɲ', 'a', 'tʃ', 'i', '+', 'm', 'a', 'k', 'i']",Indonesian,0.0,Early Malay
+mengoméli,"['m', 'e', 'ŋ', 'o', 'm', 'é/e', 'l', 'i']",Indonesian,1.0,Modern
+mengata-ngatai,"['m', 'e', 'ŋ', 'a', 't', 'a', '+', 'ŋ', 'a', 't', 'aɪ']",Indonesian,0.0,Early Malay
+memarahi,"['m', 'e', 'm', 'a', 'r', 'a', 'h', 'i']",Indonesian,0.0,Prehistorical
+memanggil,"['m', 'e', 'm', 'a', 'ŋ', 'g', 'i', 'l']",Indonesian,0.0,Prehistorical
+menamakan,"['m', 'e', 'n', 'a', 'm', 'a', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+menamai,"['m', 'e', 'n', 'a', 'm', 'aɪ']",Indonesian,0.0,Early Malay
+mengumumkan,"['m', 'e', 'ŋ', 'u', 'm', 'u', 'm', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+mengancam,"['m', 'e', 'ŋ', 'a', 'ɲ', 'a', 'm']",Indonesian,0.5,Early Malay
+membual,"['m', 'e', 'm', 'b', 'u', 'a', 'l']",Indonesian,0.0,Prehistorical
+menyombongkan diri,"['m', 'e', 'ɲ', 'o', 'm', 'b', 'o', 'ŋ', 'k', 'a', 'n', '+', 'd', 'i', 'r', 'i']",Indonesian,0.0,Early Malay
+menulis,"['m', 'e', 'n', 'u', 'l', 'i', 's']",Indonesian,0.0,Prehistorical
+membaca,"['m', 'e', 'm', 'b', 'a', 'tʃ', 'a']",Indonesian,1.0,Early Malay
+kertas,"['k', 'e', 'r', 't', 'a', 's']",Indonesian,1.0,Early Malay
+pulpén,"['p', 'u', 'l', 'p', 'é/e', 'n']",Indonesian,1.0,Modern
+péna,"['p', 'é/e', 'n', 'a']",Indonesian,1.0,Early Malay
+bolpoin,"['b', 'o', 'l', 'p', 'o', 'i', 'n']",Indonesian,1.0,Modern
+kalam,"['k', 'a', 'l', 'a', 'm']",Indonesian,1.0,Early Malay
+buku,"['b', 'u', 'k', 'u']",Indonesian,1.0,Modern
+penyair,"['p', 'e', 'ɲ', 'a', 'i', 'r']",Indonesian,0.0,Early Malay
+pujangga,"['p', 'u', 'dʒ', 'a', 'ŋ', 'g', 'a']",Indonesian,1.0,Early Malay
+"suling, seruling","['s', 'u', 'l', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+"gendang, genderang","['g', 'e', 'n', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+trompét,"['t', 'r', 'o', 'm', 'p', 'é/e', 't']",Indonesian,1.0,Modern
+écék-écék,"['é/e', 'tʃ', 'é/e', 'k', '+', 'é/e', 'tʃ', 'é/e', 'ʔ']",Indonesian,0.25,Modern
+kécrékan,"['k', 'é/e', 'tʃ', 'r', 'é/e', 'k', 'a', 'n']",Indonesian,0.75,Modern
+negara,"['n', 'e', 'g', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+tanah-air,"['t', 'a', 'n', 'a', 'h', '+', 'a', 'i', 'r']",Indonesian,0.0,Early Malay
+tumpah darah,"['t', 'u', 'm', 'p', 'a', 'h', '+', 'd', 'a', 'r', 'a', 'h']",Indonesian,0.0,Early Malay
+kota,"['k', 'o', 't', 'a']",Indonesian,1.0,Early Malay
+désa,"['d', 'é/e', 's', 'a']",Indonesian,1.0,Early Malay
+kampung,"['k', 'a', 'm', 'p', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+perbatasan,"['p', 'e', 'r', 'b', 'a', 't', 'a', 's', 'a', 'n']",Indonesian,0.0,Prehistorical
+rakyat,"['r', 'a', 'k', 'j', 'a', 't']",Indonesian,1.0,Early Malay
+marga (1),"['m', 'a', 'r', 'g', 'a']",Indonesian,1.0,Modern
+suku,"['s', 'u', 'k', 'u']",Indonesian,0.0,Prehistorical
+kepala adat,"['k', 'e', 'p', 'a', 'l', 'a', '+', 'a', 'd', 'a', 't']",Indonesian,0.0,Modern
+kepala suku,"['k', 'e', 'p', 'a', 'l', 'a', '+', 's', 'u', 'k', 'u']",Indonesian,0.0,Modern
+tongkat,"['t', 'o', 'ŋ', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+memerintah,"['m', 'e', 'm', 'e', 'r', 'i', 'n', 't', 'a', 'h']",Indonesian,0.0,Prehistorical
+raja,"['r', 'a', 'dʒ', 'a']",Indonesian,1.0,Early Malay
+ratu,"['r', 'a', 't', 'u']",Indonesian,1.0,Early Malay
+bangsawan,"['b', 'a', 'ŋ', 's', 'a', 'w', 'a', 'n']",Indonesian,0.0,Early Malay
+warga(negara),"['w', 'a', 'r', 'g', 'a', 'n', 'e', 'g', 'a', 'r', 'a']",Indonesian,1.0,Modern
+tuan,"['t', 'u', 'a', 'n']",Indonesian,0.0,Prehistorical
+budak,"['b', 'u', 'd', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+pembantu,"['p', 'e', 'm', 'b', 'a', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+memerintahkan,"['m', 'e', 'm', 'e', 'r', 'i', 'n', 't', 'a', 'h', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+"mentaati, menaati","['m', 'e', 'n', 't', 'aː', 't', 'i']",Indonesian,0.0,Early Malay
+mematuhi,"['m', 'e', 'm', 'a', 't', 'u', 'h', 'i']",Indonesian,0.0,Prehistorical
+"mengijinkan, mengizinkan","['m', 'e', 'ŋ', 'i', 'dʒ', 'i', 'n', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+memperboléhkan,"['m', 'e', 'm', 'p', 'e', 'r', 'b', 'o', 'l', 'é/e', 'h', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+membiarkan,"['m', 'e', 'm', 'b', 'i', 'a', 'r', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+teman,"['t', 'e', 'm', 'a', 'n']",Indonesian,0.75,Early Malay
+kawan,"['k', 'a', 'w', 'a', 'n']",Indonesian,0.0,Prehistorical
+handai,"['h', 'a', 'n', 'd', 'aɪ']",Indonesian,0.75,Early Malay
+taulan,"['t', 'a', 'u', 'l', 'a', 'n']",Indonesian,0.75,Early Malay
+"sahabat, sobat","['s', 'a', 'h', 'a', 'b', 'a', 't']",Indonesian,1.0,Early Malay
+musuh,"['m', 'u', 's', 'u', 'h']",Indonesian,0.0,Prehistorical
+seteru,"['s', 'e', 't', 'e', 'r', 'u']",Indonesian,1.0,Early Malay
+tetangga,"['t', 'e', 't', 'a', 'ŋ', 'g', 'a']",Indonesian,0.0,Prehistorical
+jiran,"['dʒ', 'i', 'r', 'a', 'n']",Indonesian,1.0,Early Malay
+"tamu, tetamu","['t', 'a', 'm', 'u']",Indonesian,0.0,Prehistorical
+tuan rumah,"['t', 'u', 'a', 'n', '+', 'r', 'u', 'm', 'a', 'h']",Indonesian,0.0,Prehistorical
+membantu,"['m', 'e', 'm', 'b', 'a', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+menolong,"['m', 'e', 'n', 'o', 'l', 'o', 'ŋ']",Indonesian,0.0,Prehistorical
+mencegah,"['m', 'e', 'ɲ', 'e', 'g', 'a', 'h']",Indonesian,1.0,Modern
+menghalangI,"['m', 'e', 'ŋ', 'h', 'a', 'l', 'a', 'ŋ', 'i']",Indonesian,0.0,Prehistorical
+adat,"['a', 'd', 'a', 't']",Indonesian,1.0,Early Malay
+perselisihan,"['p', 'e', 'r', 's', 'e', 'l', 'i', 's', 'i', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+pertikaian,"['p', 'e', 'r', 't', 'i', 'k', 'a', 'i', 'a', 'n']",Indonesian,0.0,Early Malay
+pertengkaran (mulut),"['p', 'e', 'r', 't', 'e', 'ŋ', 'k', 'a', 'r', 'a', 'n', '+', 'm', 'u', 'l', 'u', 't']",Indonesian,0.0,Early Malay
+perkelahian,"['p', 'e', 'r', 'k', 'e', 'l', 'a', 'h', 'i', 'a', 'n']",Indonesian,0.0,Early Malay
+percékcokan,"['p', 'e', 'r', 'tʃ', 'é/e', 'k', 'tʃ', 'o', 'k', 'a', 'n']",Indonesian,0.0,Modern
+persekongkolan,"['p', 'e', 'r', 's', 'e', 'k', 'o', 'ŋ', 'k', 'o', 'l', 'a', 'n']",Indonesian,0.5,Modern
+komplot,"['k', 'o', 'm', 'p', 'l', 'o', 't']",Indonesian,1.0,Modern
+kongkalikong,"['k', 'o', 'ŋ', 'k', 'a', 'l', 'i', 'k', 'o', 'ŋ']",Indonesian,0.25,Modern
+konspirasi,"['k', 'o', 'n', 's', 'p', 'i', 'r', 'a', 's', 'i']",Indonesian,1.0,Modern
+"kasak-kisik, kasak-kusuk","['k', 'a', 's', 'a', 'k', '+', 'k', 'i', 's', 'i', 'ʔ']",Indonesian,0.0,Modern
+berjumpa,"['b', 'e', 'r', 'dʒ', 'u', 'm', 'p', 'a']",Indonesian,0.0,Prehistorical
+bersua,"['b', 'e', 'r', 's', 'u', 'a']",Indonesian,0.5,Early Malay
+ketemu,"['k', 'e', 't', 'e', 'm', 'u']",Indonesian,0.0,Modern
+bertemu,"['b', 'e', 'r', 't', 'e', 'm', 'u']",Indonesian,0.0,Prehistorical
+pelacur,"['p', 'e', 'l', 'a', 'tʃ', 'u', 'r']",Indonesian,0.0,Modern
+lonté,"['l', 'o', 'n', 't', 'é/e']",Indonesian,1.0,Modern
+pérék,"['p', 'é/e', 'r', 'é/e', 'ʔ']",Indonesian,0.0,Modern
+WTS,"['w', 'é/e', 't', 'éé/eː', 's']",Indonesian,0.0,Modern
+PSK,"['p', 'eː', 's', 'k', 'a']",Indonesian,0.0,Modern
+cabo,"['tʃ', 'a', 'b', 'o']",Indonesian,1.0,Modern
+berkelahi,"['b', 'e', 'r', 'k', 'e', 'l', 'a', 'h', 'i']",Indonesian,1.0,Early Malay
+berperang,"['b', 'e', 'r', 'p', 'e', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+bertengkar,"['b', 'e', 'r', 't', 'e', 'ŋ', 'k', 'a', 'r']",Indonesian,0.0,Prehistorical
+bertempur,"['b', 'e', 'r', 't', 'e', 'm', 'p', 'u', 'r']",Indonesian,0.0,Modern
+"brantem, berantem","['b', 'r', 'a', 'n', 't', 'e', 'm']",Indonesian,1.0,Modern
+bertikai,"['b', 'e', 'r', 't', 'i', 'k', 'aɪ']",Indonesian,0.75,Modern
+bertarung,"['b', 'e', 'r', 't', 'a', 'r', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+perang,"['p', 'e', 'r', 'a', 'ŋ']",Indonesian,0.5,Early Malay
+pertempuran,"['p', 'e', 'r', 't', 'e', 'm', 'p', 'u', 'r', 'a', 'n']",Indonesian,0.0,Early Malay
+perdamaian,"['p', 'e', 'r', 'd', 'a', 'm', 'a', 'i', 'a', 'n']",Indonesian,0.0,Prehistorical
+tentara,"['t', 'e', 'n', 't', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+tentara,"['t', 'e', 'n', 't', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+serdadu,"['s', 'e', 'r', 'd', 'a', 'd', 'u']",Indonesian,1.0,Modern
+prajurit,"['p', 'r', 'a', 'dʒ', 'u', 'r', 'i', 't']",Indonesian,1.0,Early Malay
+laskar,"['l', 'a', 's', 'k', 'a', 'r']",Indonesian,1.0,Early Malay
+senjata,"['s', 'e', 'ɲ', 'a', 't', 'a']",Indonesian,1.0,Early Malay
+pentung,"['p', 'e', 'n', 't', 'u', 'ŋ']",Indonesian,0.0,Prehistorical
+jipang,"['dʒ', 'i', 'p', 'a', 'ŋ']",Indonesian,0.75,Modern
+ketapél,"['k', 'e', 't', 'a', 'p', 'é/e', 'l']",Indonesian,1.0,Modern
+panah,"['p', 'a', 'n', 'a', 'h']",Indonesian,0.0,Prehistorical
+busur,"['b', 'u', 's', 'u', 'r']",Indonesian,0.0,Prehistorical
+anak panah,"['a', 'n', 'a', 'k', '+', 'p', 'a', 'n', 'a', 'h']",Indonesian,0.0,Prehistorical
+tombak,"['t', 'o', 'm', 'b', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+pedang,"['p', 'e', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+bedil,"['b', 'e', 'd', 'i', 'l']",Indonesian,0.75,Early Malay
+"senapan, senapang","['s', 'e', 'n', 'a', 'p', 'a', 'n']",Indonesian,1.0,Modern
+baju baja,"['b', 'a', 'dʒ', 'u', '+', 'b', 'a', 'dʒ', 'a']",Indonesian,0.25,Modern
+hélem,"['h', 'é/e', 'l', 'e', 'm']",Indonesian,1.0,Modern
+perisai,"['p', 'e', 'r', 'i', 's', 'aɪ']",Indonesian,1.0,Early Malay
+taméng,"['t', 'a', 'm', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+bénténg,"['b', 'é/e', 'n', 't', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+menara,"['m', 'e', 'n', 'a', 'r', 'a']",Indonesian,0.75,Early Malay
+kemenangan,"['k', 'e', 'm', 'e', 'n', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+kejayaan,"['k', 'e', 'dʒ', 'a', 'j', 'aː', 'n']",Indonesian,0.0,Early Malay
+kekalahan,"['k', 'e', 'k', 'a', 'l', 'a', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+serangan,"['s', 'e', 'r', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+serbuan,"['s', 'e', 'r', 'b', 'u', 'a', 'n']",Indonesian,0.0,Prehistorical
+gempuran,"['g', 'e', 'm', 'p', 'u', 'r', 'a', 'n']",Indonesian,1.0,Modern
+membéla,"['m', 'e', 'm', 'b', 'é/e', 'l', 'a']",Indonesian,0.5,Early Malay
+mempertahankan,"['m', 'e', 'm', 'p', 'e', 'r', 't', 'a', 'h', 'a', 'n', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+mundur,"['m', 'u', 'n', 'd', 'u', 'r']",Indonesian,0.0,Prehistorical
+menyerahkan diri,"['m', 'e', 'ɲ', 'e', 'r', 'a', 'h', 'k', 'a', 'n', '+', 'd', 'i', 'r', 'i']",Indonesian,0.0,Early Malay
+tawanan,"['t', 'a', 'w', 'a', 'n', 'a', 'n']",Indonesian,0.0,Prehistorical
+tahanan,"['t', 'a', 'h', 'a', 'n', 'a', 'n']",Indonesian,0.0,Prehistorical
+narapidana,"['n', 'a', 'r', 'a', 'p', 'i', 'd', 'a', 'n', 'a']",Indonesian,0.0,Modern
+pesakitan,"['p', 'e', 's', 'a', 'k', 'i', 't', 'a', 'n']",Indonesian,0.75,Modern
+penjaga,"['p', 'e', 'ɲ', 'a', 'g', 'a']",Indonesian,0.0,Early Malay
+satpam,"['s', 'a', 't', 'p', 'a', 'm']",Indonesian,0.0,Modern
+jarahan,"['dʒ', 'a', 'r', 'a', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+peradangan,"['p', 'e', 'r', 'a', 'd', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+nelayan,"['n', 'e', 'l', 'a', 'j', 'a', 'n']",Indonesian,1.0,Early Malay
+mata kail,"['m', 'a', 't', 'a', '+', 'k', 'a', 'i', 'l']",Indonesian,0.0,Prehistorical
+tali kail,"['t', 'a', 'l', 'i', '+', 'k', 'a', 'i', 'l']",Indonesian,0.0,Prehistorical
+jala,"['dʒ', 'a', 'l', 'a']",Indonesian,1.0,Early Malay
+pukat,"['p', 'u', 'k', 'a', 't']",Indonesian,0.0,Prehistorical
+jaring,"['dʒ', 'a', 'r', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+bubu,"['b', 'u', 'b', 'u']",Indonesian,0.0,Prehistorical
+umpan,"['u', 'm', 'p', 'a', 'n']",Indonesian,0.0,Prehistorical
+berburu,"['b', 'e', 'r', 'b', 'u', 'r', 'u']",Indonesian,0.0,Prehistorical
+menémbak,"['m', 'e', 'n', 'é/e', 'm', 'b', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+luncas,"['l', 'u', 'ɲ', 'a', 's']",Indonesian,0.0,Prehistorical
+melését,"['m', 'e', 'l', 'é/e', 's', 'é/e', 't']",Indonesian,1.0,Modern
+ketinggalan,"['k', 'e', 't', 'i', 'ŋ', 'g', 'a', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+perangkap,"['p', 'e', 'r', 'a', 'ŋ', 'k', 'a', 'p']",Indonesian,0.0,Prehistorical
+menjerat,"['m', 'e', 'ɲ', 'e', 'r', 'a', 't']",Indonesian,0.0,Prehistorical
+menjebak,"['m', 'e', 'ɲ', 'e', 'b', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+undang-undang,"['u', 'n', 'd', 'a', 'ŋ', '+', 'u', 'n', 'd', 'a', 'ŋ']",Indonesian,0.0,Early Malay
+hukum,"['h', 'u', 'k', 'u', 'm']",Indonesian,1.0,Early Malay
+pengadilan,"['p', 'e', 'ŋ', 'a', 'd', 'i', 'l', 'a', 'n']",Indonesian,0.0,Early Malay
+mahkamah,"['m', 'a', 'h', 'k', 'a', 'm', 'a', 'h']",Indonesian,1.0,Modern
+di,"['d', 'i']",Indonesian,0.0,Prehistorical
+mengadili,"['m', 'e', 'ŋ', 'a', 'd', 'i', 'l', 'i']",Indonesian,0.0,Early Malay
+putusan,"['p', 'u', 't', 'u', 's', 'a', 'n']",Indonesian,0.0,Early Malay
+hakim,"['h', 'a', 'k', 'i', 'm']",Indonesian,1.0,Early Malay
+penuntut,"['p', 'e', 'n', 'u', 'n', 't', 'u', 't']",Indonesian,0.0,Prehistorical
+terdakwa,"['t', 'e', 'r', 'd', 'a', 'kʷ', 'a']",Indonesian,0.0,Modern
+saksi,"['s', 'a', 'k', 's', 'i']",Indonesian,1.0,Early Malay
+bersumpah,"['b', 'e', 'r', 's', 'u', 'm', 'p', 'a', 'h']",Indonesian,0.0,Prehistorical
+sumpah,"['s', 'u', 'm', 'p', 'a', 'h']",Indonesian,0.0,Prehistorical
+menuduh,"['m', 'e', 'n', 'u', 'd', 'u', 'h']",Indonesian,0.0,Prehistorical
+menuding,"['m', 'e', 'n', 'u', 'd', 'i', 'ŋ']",Indonesian,1.0,Modern
+mendakwa,"['m', 'e', 'n', 'd', 'a', 'kʷ', 'a']",Indonesian,1.0,Modern
+menghukum,"['m', 'e', 'ŋ', 'h', 'u', 'k', 'u', 'm']",Indonesian,1.0,Early Malay
+memvonis,"['m', 'e', 'm', 'v', 'o', 'n', 'i', 's']",Indonesian,1.0,Modern
+bersalah,"['b', 'e', 'r', 's', 'a', 'l', 'a', 'h']",Indonesian,0.0,Prehistorical
+hukuman,"['h', 'u', 'k', 'u', 'm', 'a', 'n']",Indonesian,0.0,Early Malay
+setrap,"['s', 'e', 't', 'r', 'a', 'p']",Indonesian,1.0,Modern
+penalti,"['p', 'e', 'n', 'a', 'l', 't', 'i']",Indonesian,1.0,Modern
+vonis,"['v', 'o', 'n', 'i', 's']",Indonesian,1.0,Modern
+pidana,"['p', 'i', 'd', 'a', 'n', 'a']",Indonesian,1.0,Early Malay
+sanksi,"['s', 'a', 'n', 'k', 's', 'i']",Indonesian,1.0,Modern
+denda,"['d', 'e', 'n', 'd', 'a']",Indonesian,1.0,Early Malay
+penjara,"['p', 'e', 'ɲ', 'a', 'r', 'a']",Indonesian,1.0,Early Malay
+bui,"['b', 'u', 'i']",Indonesian,1.0,Modern
+lembaga pemasyarakatan,"['l', 'e', 'm', 'b', 'a', 'g', 'a', '+', 'p', 'e', 'm', 'a', 'ʃ', 'a', 'r', 'a', 'k', 'a', 't', 'a', 'n']",Indonesian,0.0,Modern
+pembunuhan,"['p', 'e', 'm', 'b', 'u', 'n', 'u', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+zina(h),"['z', 'i', 'n', 'a', 'h']",Indonesian,1.0,Early Malay
+pemerkosaan,"['p', 'e', 'm', 'e', 'r', 'k', 'o', 's', 'aː', 'n']",Indonesian,0.0,Early Malay
+sumpah palsu,"['s', 'u', 'm', 'p', 'a', 'h', '+', 'p', 'a', 'l', 's', 'u']",Indonesian,0.0,Modern
+mencuri,"['m', 'e', 'ɲ', 'u', 'r', 'i']",Indonesian,1.0,Early Malay
+pencuri,"['p', 'e', 'ɲ', 'u', 'r', 'i']",Indonesian,0.0,Early Malay
+maling,"['m', 'a', 'l', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+agama,"['a', 'g', 'a', 'm', 'a']",Indonesian,1.0,Early Malay
+religi,"['r', 'e', 'l', 'i', 'g', 'i']",Indonesian,1.0,Modern
+déwa,"['d', 'é/e', 'w', 'a']",Indonesian,1.0,Early Malay
+rumah ibadah,"['r', 'u', 'm', 'a', 'h', '+', 'i', 'b', 'a', 'd', 'a', 'h']",Indonesian,0.0,Modern
+kuil,"['k', 'u', 'i', 'l']",Indonesian,1.0,Early Malay
+altar,"['a', 'l', 't', 'a', 'r']",Indonesian,1.0,Modern
+korban,"['k', 'o', 'r', 'b', 'a', 'n']",Indonesian,1.0,Early Malay
+beribadah,"['b', 'e', 'r', 'i', 'b', 'a', 'd', 'a', 'h']",Indonesian,1.0,Early Malay
+sembahyang,"['s', 'e', 'm', 'b', 'a', 'h', 'j', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+sembahyang,"['s', 'e', 'm', 'b', 'a', 'h', 'j', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+berdoa,"['b', 'e', 'r', 'd', 'o', 'a']",Indonesian,1.0,Early Malay
+sholat,"['s', 'o', 'l', 'a', 't']",Indonesian,1.0,Early Malay
+pendéta,"['p', 'e', 'n', 'd', 'é/e', 't', 'a']",Indonesian,1.0,Early Malay
+imam,"['i', 'm', 'a', 'm']",Indonesian,1.0,Early Malay
+"pastor, pastur","['p', 'a', 's', 't', 'o', 'r']",Indonesian,1.0,Modern
+romo,"['r', 'o', 'm', 'o']",Indonesian,1.0,Modern
+suci,"['s', 'u', 'tʃ', 'i']",Indonesian,1.0,Early Malay
+kudus,"['k', 'u', 'd', 'u', 's']",Indonesian,1.0,Early Malay
+berkhotbah,"['b', 'e', 'r', 'x', 'o', 't', 'b', 'a', 'h']",Indonesian,1.0,Early Malay
+memberkati,"['m', 'e', 'm', 'b', 'e', 'r', 'k', 'a', 't', 'i']",Indonesian,0.0,Early Malay
+merestui,"['m', 'e', 'r', 'e', 's', 't', 'u', 'i']",Indonesian,0.0,Early Malay
+mengutuk,"['m', 'e', 'ŋ', 'u', 't', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+mencaci-maki,"['m', 'e', 'ɲ', 'a', 'tʃ', 'i', '+', 'm', 'a', 'k', 'i']",Indonesian,0.0,Early Malay
+berpuasa,"['b', 'e', 'r', 'p', 'u', 'a', 's', 'a']",Indonesian,1.0,Early Malay
+"syurga, syorga, surga, sorga","['ʃ', 'u', 'r', 'g', 'a']",Indonesian,1.0,Early Malay
+kayangan,"['k', 'a', 'j', 'a', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+neraka,"['n', 'e', 'r', 'a', 'k', 'a']",Indonesian,1.0,Early Malay
+sétan,"['s', 'é/e', 't', 'a', 'n']",Indonesian,1.0,Early Malay
+berhala,"['b', 'e', 'r', 'h', 'a', 'l', 'a']",Indonesian,1.0,Early Malay
+sihir,"['s', 'i', 'h', 'i', 'r']",Indonesian,1.0,Early Malay
+sulap,"['s', 'u', 'l', 'a', 'p']",Indonesian,0.0,Prehistorical
+penyihir,"['p', 'e', 'ɲ', 'i', 'h', 'i', 'r']",Indonesian,0.0,Modern
+tukang sihir,"['t', 'u', 'k', 'a', 'ŋ', '+', 's', 'i', 'h', 'i', 'r']",Indonesian,0.0,Modern
+bidadari,"['b', 'i', 'd', 'a', 'd', 'a', 'r', 'i']",Indonesian,1.0,Early Malay
+peri,"['p', 'e', 'r', 'i']",Indonesian,1.0,Early Malay
+makhluk halus,"['m', 'a', 'x', 'l', 'u', 'k', '+', 'h', 'a', 'l', 'u', 's']",Indonesian,0.0,Modern
+hantu,"['h', 'a', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+alamat buruk,"['a', 'l', 'a', 'm', 'a', 't', '+', 'b', 'u', 'r', 'u', 'ʔ']",Indonesian,0.0,Early Malay
+radio,"['r', 'a', 'd', 'i', 'o']",Indonesian,1.0,Modern
+télevisi,"['t', 'é/e', 'l', 'e', 'v', 'i', 's', 'i']",Indonesian,1.0,Modern
+TV,"['t', 'i', 'f', 'i']",Indonesian,1.0,Modern
+"télepon, télpon, telpon, télefon, telfon","['t', 'é/e', 'l', 'e', 'p', 'o', 'n']",Indonesian,1.0,Modern
+sepéda motor,"['s', 'e', 'p', 'é/e', 'd', 'a', '+', 'm', 'o', 't', 'o', 'r']",Indonesian,0.0,Modern
+mobil,"['m', 'o', 'b', 'i', 'l']",Indonesian,1.0,Modern
+bis,"['b', 'i', 's']",Indonesian,1.0,Modern
+pesawat (terbang),"['p', 'e', 's', 'a', 'w', 'a', 't', '+', 't', 'e', 'r', 'b', 'a', 'ŋ']",Indonesian,0.0,Modern
+kapal terbang,"['k', 'a', 'p', 'a', 'l', '+', 't', 'e', 'r', 'b', 'a', 'ŋ']",Indonesian,0.0,Modern
+listrik,"['l', 'i', 's', 't', 'r', 'i', 'ʔ']",Indonesian,1.0,Modern
+baterai,"['b', 'a', 't', 'e', 'r', 'aɪ']",Indonesian,1.0,Modern
+rumah sakit,"['r', 'u', 'm', 'a', 'h', '+', 's', 'a', 'k', 'i', 't']",Indonesian,0.0,Modern
+perawat,"['p', 'e', 'r', 'a', 'w', 'a', 't']",Indonesian,0.0,Modern
+suster,"['s', 'u', 's', 't', 'e', 'r']",Indonesian,1.0,Modern
+"pil, pél","['p', 'i', 'l']",Indonesian,1.0,Modern
+suntikan,"['s', 'u', 'n', 't', 'i', 'k', 'a', 'n']",Indonesian,0.0,Modern
+inyéksi,"['i', 'ɲ', 'é/e', 'k', 's', 'i']",Indonesian,1.0,Modern
+injéksi,"['i', 'ɲ', 'é/e', 'k', 's', 'i']",Indonesian,1.0,Modern
+"kran, keran","['k', 'r', 'a', 'n']",Indonesian,1.0,Modern
+wastafel,"['w', 'a', 's', 't', 'a', 'f', 'e', 'l']",Indonesian,1.0,Modern
+kamar kecil,"['k', 'a', 'm', 'a', 'r', '+', 'k', 'e', 'tʃ', 'i', 'l']",Indonesian,0.0,Modern
+"toilét, toalét","['t', 'o', 'i', 'l', 'é/e', 't']",Indonesian,1.0,Modern
+klosét,"['k', 'l', 'o', 's', 'é/e', 't']",Indonesian,1.0,Modern
+WC,"['w', 'e', 's', 'e']",Indonesian,1.0,Modern
+kakus,"['k', 'a', 'k', 'u', 's']",Indonesian,0.0,Modern
+jamban,"['dʒ', 'a', 'm', 'b', 'a', 'n']",Indonesian,0.0,Prehistorical
+kasur,"['k', 'a', 's', 'u', 'r']",Indonesian,0.25,Modern
+pemerintah,"['p', 'e', 'm', 'e', 'r', 'i', 'n', 't', 'a', 'h']",Indonesian,0.0,Early Malay
+présidén,"['p', 'r', 'é/e', 's', 'i', 'd', 'é/e', 'n']",Indonesian,1.0,Modern
+menteri,"['m', 'e', 'n', 't', 'e', 'r', 'i']",Indonesian,1.0,Early Malay
+polisi,"['p', 'o', 'l', 'i', 's', 'i']",Indonesian,1.0,Modern
+SIM,"['s', 'i', 'm']",Indonesian,0.0,Modern
+kejahatan,"['k', 'e', 'dʒ', 'a', 'h', 'a', 't', 'a', 'n']",Indonesian,0.0,Prehistorical
+tindak pidana,"['t', 'i', 'n', 'd', 'a', 'k', '+', 'p', 'i', 'd', 'a', 'n', 'a']",Indonesian,0.0,Modern
+pemilihan,"['p', 'e', 'm', 'i', 'l', 'i', 'h', 'a', 'n']",Indonesian,0.0,Prehistorical
+pos,"['p', 'o', 's']",Indonesian,1.0,Modern
+"prangko, perangko","['p', 'r', 'a', 'ŋ', 'k', 'o']",Indonesian,1.0,Modern
+surat,"['s', 'u', 'r', 'a', 't']",Indonesian,0.0,Prehistorical
+bank,"['b', 'a', 'n', 'ʔ']",Indonesian,1.0,Modern
+kaléng,"['k', 'a', 'l', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+"sekrup, sekerup","['s', 'e', 'k', 'r', 'u', 'p']",Indonesian,1.0,Modern
+obéng,"['o', 'b', 'é/e', 'ŋ']",Indonesian,1.0,Modern
+botol,"['b', 'o', 't', 'o', 'l']",Indonesian,1.0,Modern
+permén,"['p', 'e', 'r', 'm', 'é/e', 'n']",Indonesian,1.0,Modern
+gula-gula,"['g', 'u', 'l', 'a', '+', 'g', 'u', 'l', 'a']",Indonesian,0.0,Modern
+kembang gula,"['k', 'e', 'm', 'b', 'a', 'ŋ', '+', 'g', 'u', 'l', 'a']",Indonesian,0.75,Modern
+kaca mata,"['k', 'a', 'tʃ', 'a', '+', 'm', 'a', 't', 'a']",Indonesian,0.0,Modern
+plastik,"['p', 'l', 'a', 's', 't', 'i', 'ʔ']",Indonesian,1.0,Modern
+bom,"['b', 'o', 'm']",Indonesian,1.0,Modern
+béngkél,"['b', 'é/e', 'ŋ', 'k', 'é/e', 'l']",Indonesian,1.0,Modern
+rokok,"['r', 'o', 'k', 'o', 'ʔ']",Indonesian,1.0,Modern
+kalénder,"['k', 'a', 'l', 'é/e', 'n', 'd', 'e', 'r']",Indonesian,1.0,Modern
+penanggalan,"['p', 'e', 'n', 'a', 'ŋ', 'g', 'a', 'l', 'a', 'n']",Indonesian,0.75,Modern
+filem,"['f', 'i', 'l', 'e', 'm']",Indonesian,1.0,Modern
+musik,"['m', 'u', 's', 'i', 'ʔ']",Indonesian,1.0,Modern
+lagu,"['l', 'a', 'g', 'u']",Indonesian,0.0,Prehistorical
+surat kabar,"['s', 'u', 'r', 'a', 't', '+', 'k', 'a', 'b', 'a', 'r']",Indonesian,0.0,Early Malay
+koran,"['k', 'o', 'r', 'a', 'n']",Indonesian,1.0,Modern
+alamat,"['a', 'l', 'a', 'm', 'a', 't']",Indonesian,1.0,Early Malay
+nomor,"['n', 'o', 'm', 'o', 'r']",Indonesian,1.0,Modern
+angka,"['a', 'ŋ', 'k', 'a']",Indonesian,1.0,Early Malay
+keréta api,"['k', 'e', 'r', 'é/e', 't', 'a', '+', 'a', 'p', 'i']",Indonesian,0.0,Modern
+akta kelahiran,"['a', 'k', 't', 'a', '+', 'k', 'e', 'l', 'a', 'h', 'i', 'r', 'a', 'n']",Indonesian,0.0,Modern
+mengerém,"['m', 'e', 'ŋ', 'e', 'r', 'é/e', 'm']",Indonesian,1.0,Modern
+minyak tanah,"['m', 'i', 'ɲ', 'a', 'k', '+', 't', 'a', 'n', 'a', 'h']",Indonesian,0.0,Modern
+mesin,"['m', 'e', 's', 'i', 'n']",Indonesian,1.0,Modern
+motor,"['m', 'o', 't', 'o', 'r']",Indonesian,1.0,Modern
+mesin,"['m', 'e', 's', 'i', 'n']",Indonesian,1.0,Modern
+sepéda,"['s', 'e', 'p', 'é/e', 'd', 'a']",Indonesian,1.0,Modern
+jalan,"['dʒ', 'a', 'l', 'a', 'n']",Indonesian,0.0,Prehistorical
+memerdékakan,"['m', 'e', 'm', 'e', 'r', 'd', 'é/e', 'k', 'a', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+mengundang,"['m', 'e', 'ŋ', 'u', 'n', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+mengajak,"['m', 'e', 'ŋ', 'a', 'dʒ', 'a', 'ʔ']",Indonesian,0.5,Early Malay
+plat (mobil),"['p', 'l', 'a', 't', '+', 'm', 'o', 'b', 'i', 'l']",Indonesian,1.0,Modern
+kartu pos,"['k', 'a', 'r', 't', 'u', '+', 'p', 'o', 's']",Indonesian,0.0,Modern
+"ada, berada","['a', 'd', 'a']",Indonesian,0.0,Prehistorical
+merupakan,"['m', 'e', 'r', 'u', 'p', 'a', 'k', 'a', 'n']",Indonesian,0.0,Early Malay
+menjadi,"['m', 'e', 'ɲ', 'a', 'd', 'i']",Indonesian,0.0,Prehistorical
+menjadi,"['m', 'e', 'ɲ', 'a', 'd', 'i']",Indonesian,0.0,Prehistorical
+tanpa,"['t', 'a', 'n', 'p', 'a']",Indonesian,1.0,Modern
+léwat,"['l', 'é/e', 'w', 'a', 't']",Indonesian,0.0,Prehistorical
+melalui,"['m', 'e', 'l', 'a', 'l', 'u', 'i']",Indonesian,0.0,Prehistorical
+sama,"['s', 'a', 'm', 'a']",Indonesian,1.0,Early Malay
+bukan,"['b', 'u', 'k', 'a', 'n']",Indonesian,0.0,Prehistorical
+tidak,"['t', 'i', 'd', 'a', 'ʔ']",Indonesian,0.0,Early Malay
+ini,"['i', 'n', 'i']",Indonesian,0.0,Prehistorical
+itu,"['i', 't', 'u']",Indonesian,0.0,Prehistorical
+sini,"['s', 'i', 'n', 'i']",Indonesian,0.0,Prehistorical
+situ (1),"['s', 'i', 't', 'u']",Indonesian,0.0,Prehistorical
+sana,"['s', 'a', 'n', 'a']",Indonesian,0.0,Early Malay
+lain,"['l', 'a', 'i', 'n']",Indonesian,0.0,Prehistorical
+vagina,"['v', 'a', 'g', 'i', 'n', 'a']",Indonesian,1.0,Modern
+puki,"['p', 'u', 'k', 'i']",Indonesian,0.0,Prehistorical
+téh,"['t', 'é/e', 'h']",Indonesian,1.0,Modern
+kopi,"['k', 'o', 'p', 'i']",Indonesian,1.0,Modern
+berikut,"['b', 'e', 'r', 'i', 'k', 'u', 't']",Indonesian,0.0,Early Malay
+depan,"['d', 'e', 'p', 'a', 'n']",Indonesian,0.0,Prehistorical
+mendatang,"['m', 'e', 'n', 'd', 'a', 't', 'a', 'ŋ']",Indonesian,0.0,No information
+kelinci,"['k', 'e', 'l', 'i', 'ɲ', 'i']",Indonesian,1.0,Modern
+arnab,"['a', 'r', 'n', 'a', 'b']",Indonesian,1.0,Early Malay
+terwélu,"['t', 'e', 'r', 'w', 'é/e', 'l', 'u']",Indonesian,1.0,Modern
+(burung) puyuh,"['b', 'u', 'r', 'u', 'ŋ', '+', 'p', 'u', 'j', 'u', 'h']",Indonesian,0.0,Prehistorical
+tupai,"['t', 'u', 'p', 'aɪ']",Indonesian,0.0,Prehistorical
+berang-berang,"['b', 'e', 'r', 'a', 'ŋ', '+', 'b', 'e', 'r', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+érétan,"['é/e', 'r', 'é/e', 't', 'a', 'n']",Indonesian,0.0,Modern
+laso,"['l', 'a', 's', 'o']",Indonesian,1.0,Modern
+daun jarum,"['d', 'a', 'u', 'n', '+', 'dʒ', 'a', 'r', 'u', 'm']",Indonesian,0.0,Modern
+urat,"['u', 'r', 'a', 't']",Indonesian,0.0,Prehistorical
+menyamak,"['m', 'e', 'ɲ', 'a', 'm', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+sunat,"['s', 'u', 'n', 'a', 't']",Indonesian,1.0,Early Malay
+khitan,"['kʰ', 'i', 't', 'a', 'n']",Indonesian,1.0,Early Malay
+kutu,"['k', 'u', 't', 'u']",Indonesian,0.0,Prehistorical
+tapir,"['t', 'a', 'p', 'i', 'r']",Indonesian,1.0,Modern
+batu asah,"['b', 'a', 't', 'u', '+', 'a', 's', 'a', 'h']",Indonesian,0.0,Prehistorical
+kamp,"['k', 'a', 'm', 'p']",Indonesian,1.0,Modern
+perkémahan,"['p', 'e', 'r', 'k', 'é/e', 'm', 'a', 'h', 'a', 'n']",Indonesian,0.0,Early Malay
+tugal,"['t', 'u', 'g', 'a', 'l']",Indonesian,0.0,Prehistorical
+kormoran,"['k', 'o', 'r', 'm', 'o', 'r', 'a', 'n']",Indonesian,1.0,Modern
+udang,"['u', 'd', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+rayap,"['r', 'a', 'j', 'a', 'p']",Indonesian,1.0,Modern
+kutu,"['k', 'u', 't', 'u']",Indonesian,0.0,Prehistorical
+bumerang,"['b', 'u', 'm', 'e', 'r', 'a', 'ŋ']",Indonesian,1.0,Modern
+kangguru,"['k', 'a', 'ŋ', 'g', 'u', 'r', 'u']",Indonesian,1.0,Modern
+tenggiling,"['t', 'e', 'ŋ', 'g', 'i', 'l', 'i', 'ŋ']",Indonesian,0.0,Prehistorical
+(burung) tukan,"['b', 'u', 'r', 'u', 'ŋ', '+', 't', 'u', 'k', 'a', 'n']",Indonesian,1.0,Modern
+jaguar,"['dʒ', 'a', 'g', 'u', 'a', 'r']",Indonesian,1.0,Modern
+jawawut,"['dʒ', 'a', 'w', 'a', 'w', 'u', 't']",Indonesian,1.0,Modern
+bunglon,"['b', 'u', 'ŋ', 'l', 'o', 'n']",Indonesian,1.0,Modern
+menimba,"['m', 'e', 'n', 'i', 'm', 'b', 'a']",Indonesian,0.0,Prehistorical
+pasak,"['p', 'a', 's', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+pulang,"['p', 'u', 'l', 'a', 'ŋ']",Indonesian,0.0,Prehistorical
+kerbau,"['k', 'e', 'r', 'b', 'aʊ']",Indonesian,0.0,Prehistorical
+sabana,"['s', 'a', 'b', 'a', 'n', 'a']",Indonesian,1.0,Modern
+uap,"['u', 'a', 'p']",Indonesian,0.25,Early Malay
+kakak,"['k', 'a', 'k', 'a', 'ʔ']",Indonesian,0.0,Prehistorical
+adik,"['a', 'd', 'i', 'ʔ']",Indonesian,0.0,Prehistorical
+kakék-nénék,"['k', 'a', 'k', 'é/e', 'k', '+', 'n', 'é/e', 'n', 'é/e', 'ʔ']",Indonesian,0.75,Modern
+cucu,"['tʃ', 'u', 'tʃ', 'u']",Indonesian,0.0,Prehistorical
+keponakan,"['k', 'e', 'p', 'o', 'n', 'a', 'k', 'a', 'n']",Indonesian,1.0,Modern
+kemenakan,"['k', 'e', 'm', 'e', 'n', 'a', 'k', 'a', 'n']",Indonesian,0.5,Modern
+mertua,"['m', 'e', 'r', 't', 'u', 'a']",Indonesian,1.0,Modern
+menantu,"['m', 'e', 'n', 'a', 'n', 't', 'u']",Indonesian,0.0,Prehistorical
+ipar,"['i', 'p', 'a', 'r']",Indonesian,0.0,Prehistorical
+"hidup, kehidupan","['h', 'i', 'd', 'u', 'p']",Indonesian,0.0,Prehistorical
+bangkai,"['b', 'a', 'ŋ', 'k', 'aɪ']",Indonesian,0.0,Prehistorical
+penyakit,"['p', 'e', 'ɲ', 'a', 'k', 'i', 't']",Indonesian,0.0,Prehistorical
+gembok,"['g', 'e', 'm', 'b', 'o', 'ʔ']",Indonesian,1.0,Modern
+sawah,"['s', 'a', 'w', 'a', 'h']",Indonesian,0.0,Prehistorical
+merusak,"['m', 'e', 'r', 'u', 's', 'a', 'ʔ']",Indonesian,0.75,Early Malay
+(di) atas,"['d', 'i', '+', 'a', 't', 'a', 's']",Indonesian,0.0,Prehistorical
+"potong, potongan","['p', 'o', 't', 'o', 'ŋ']",Indonesian,0.0,Prehistorical
+sendiri,"['s', 'e', 'n', 'd', 'i', 'r', 'i']",Indonesian,0.0,Prehistorical
+awal,"['a', 'w', 'a', 'l']",Indonesian,1.0,Early Malay
+mula,"['m', 'u', 'l', 'a']",Indonesian,1.0,Early Malay
+hari,"['h', 'a', 'r', 'i']",Indonesian,0.0,Prehistorical
+geréja,"['g', 'e', 'r', 'é/e', 'dʒ', 'a']",Indonesian,1.0,Modern
+"masjid, mesjid","['m', 'a', 's', 'dʒ', 'i', 'd']",Indonesian,1.0,Early Malay
+nihil,"['n', 'i', 'h', 'i', 'l']",Indonesian,1.0,Modern
+tidak apa-apa,"['t', 'i', 'd', 'a', 'k', '+', 'a', 'p', 'a', '+', 'a', 'p', 'a']",Indonesian,0.0,Prehistorical
+mati,"['m', 'a', 't', 'i']",Indonesian,0.0,Prehistorical
+meninggal,"['m', 'e', 'n', 'i', 'ŋ', 'g', 'a', 'l']",Indonesian,0.0,Early Malay
+menggaruk,"['m', 'e', 'ŋ', 'g', 'a', 'r', 'u', 'ʔ']",Indonesian,0.0,Prehistorical
+membuat,"['m', 'e', 'm', 'b', 'u', 'a', 't']",Indonesian,0.0,Prehistorical
+membikin,"['m', 'e', 'm', 'b', 'i', 'k', 'i', 'n']",Indonesian,0.0,Early Malay
+perut,"['p', 'e', 'r', 'u', 't']",Indonesian,0.0,Prehistorical
+mengelap,"['m', 'e', 'ŋ', 'e', 'l', 'a', 'p']",Indonesian,1.0,Modern
+menyéka,"['m', 'e', 'ɲ', 'é/e', 'k', 'a']",Indonesian,1.0,Modern
+membeku,"['m', 'e', 'm', 'b', 'e', 'k', 'u']",Indonesian,0.0,Prehistorical
+dengan,"['d', 'e', 'ŋ', 'a', 'n']",Indonesian,0.0,Prehistorical
+bersama,"['b', 'e', 'r', 's', 'a', 'm', 'a']",Indonesian,0.0,Early Malay
+serta,"['s', 'e', 'r', 't', 'a']",Indonesian,1.0,Early Malay
+di,"['d', 'i']",Indonesian,0.0,Prehistorical
+dalam,"['d', 'a', 'l', 'a', 'm']",Indonesian,0.0,Prehistorical
+bapak mertua,"['b', 'a', 'p', 'a', 'k', '+', 'm', 'e', 'r', 't', 'u', 'a']",Indonesian,1.0,Modern
+ibu mertua,"['i', 'b', 'u', '+', 'm', 'e', 'r', 't', 'u', 'a']",Indonesian,1.0,Modern
+anak tiri,"['a', 'n', 'a', 'k', '+', 't', 'i', 'r', 'i']",Indonesian,0.0,Prehistorical

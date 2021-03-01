@@ -21,3 +21,7 @@ shell:
 	docker container run --init --rm \
 	--mount type=bind,source="$(shell pwd)",target=/project \
 	-i -t loanwords bash
+
+.PHONY: analysis
+analysis:
+	bonobo run src/data/etl.py && python src/cli/cli.py all

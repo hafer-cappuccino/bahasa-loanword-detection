@@ -1,38 +1,24 @@
 FROM python:3.9-slim as base
 
-ARG POETRY_VERSION
-
-ENV POETRY_VERSION=${POETRY_VERSION:-1.1.4} \
-    POETRY_HOME="/opt/poetry" \
-    POETRY_NO_INTERACTION=1 \
-    POETRY_VIRTUALENVS_CREATE=false \
-    PIP_NO_CACHE_DIR=true \
-    # Enables Python tracebacks on segfaults
-    # and disable pyc files from being written at import time
-    PYTHONFAULTHANDLER=1 \
+# Enables Python tracebacks on segfaults
+# and disable pyc files from being written at import time
+ENV PYTHONFAULTHANDLER=1 \
     PYTHONBUFFERED=1  \
     PYTHONDONTWRITEBYTECODE=1 \
     PYTHONPATH="/project"
 
-ENV PATH="$POETRY_HOME/bin:$PATH"
-
-RUN apt-get update \
-    && apt-get install --no-install-recommends -y \
-        # deps for installing poetry
-        curl \
+RUN apt-get update && apt-get install --no-install-recommends -y \
         # deps for building python deps
         build-essential
 
-RUN curl -sSL https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.py | python
-
 WORKDIR /project
 
-COPY poetry.lock pyproject.toml ./
+COPY requirements.txt ./
 
-RUN poetry install
+RUN pip install -r requirements.txt
 
 COPY . /project/
 
-VOLUME /out
+RUN apt-get purge -y build-essential
 
 CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]

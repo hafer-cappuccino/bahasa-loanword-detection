@@ -16,10 +16,14 @@ $ make build
 To run the docker container:
 
 ```sh
-$ make run
+$ make shell
 ```
 
-A Jupyter lab link should be displayed in your terminal.
+This runs an interactive bash shell. Then, you can run the following to see the model evaluations:
+
+``` sh
+$ make analysis
+```
 
 ### Poetry
 
@@ -36,14 +40,17 @@ From within the virtualenv, a Jupyter lab can be served: `jupyter lab`.
 
 ## Make Directives
 
+**These directives only work outside of docker containers except `analysis`.**
+
 A [Makefile](Makefile) has been included in this project for convenience. To use
 the Makefile rules, simply run `make <rule>` with `<rule>` substituted with any
-of the rules in the table below.
+of the rules in the table below. 
 
 | rule | description |
 | --------| ----------- |
 | `build` | Build a docker image. |
-| `run` | Runs a docker container with the built image. |
+| `run` | Runs a docker container with the built image. This starts a Jupyter server.|
 | `stop` | Stops the docker container. |
 | `csv` | Writes the list of Indonesian word forms to a CSV file. Requires a running docker container. |
-
+| `shell` | Runs an interactive bash shell of a docker container. |
+| `analysis` | Outputs into the terminal the classification reports and confusion matrices of each language model. |
