@@ -57,4 +57,4 @@ of the rules in the table below.
 | `stop` | Stops the docker container. |
 | `csv` | Writes the list of Indonesian word forms to a CSV file. Requires a running docker container. |
 | `shell` | Runs an interactive bash shell of a docker container. |
-| `analysis` | Outputs into the terminal the classification reports and confusion matrices of each language model. |
+| `analysis` | Outputs into the terminal the classification reports and confusion matrices of each language model. Requires to be in an activated virtualenv with `poetry shell` or in a running docker container.|
