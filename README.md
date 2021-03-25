@@ -4,12 +4,12 @@
 
 This repository contains materials on the project dedicated to Loanwords Detection in Bahasa Indonesia. We carried out this mini research as our final project for the Master’s course *Advanced Natural Language Processing* at the University of Potsdam. 
 
-The whole framework of the project was mainly inspired by the study of [Miller et al. on Borrowings Detection in Monolingual Wordlists](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242709). Following their practice, we also considered words as their [phonetic representations]() and took phonemes as features for the models. However, unlike the authors who studied loanwords in all the languages represented in [WOLD](https://wold.clld.org), we only focused on the Bahasa Indonesian language.
+The whole framework of the project was mainly inspired by the study of [Miller et al. on Borrowings Detection in Monolingual Wordlists](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242709). Following their practice, we also considered words as their [phonetic representations](https://github.com/hafer-cappuccino/bahasa-loanword-detection/blob/main/notebooks/data/phonemes.ipynb) and took phonemes as features for the models. However, unlike the authors who studied loanwords in all the languages represented in [WOLD](https://wold.clld.org), we only focused on the Bahasa Indonesian language.
 
 We implemented three following **models**:
 -	[The Bag of Sounds](https://github.com/hafer-cappuccino/bahasa-loanword-detection/blob/main/src/models/svm.py) 
 -	[Markov Model](https://github.com/hafer-cappuccino/bahasa-loanword-detection/blob/main/src/models/markov.py) with interpolated Kneser-Ney smoothing
--	[GRU-based Neural Network](https://github.com/hafer-cappuccino/bahasa-loanword-detection/tree/main/src/models/gru). For this model, also find the python [notebook](https://github.com/hafer-cappuccino/bahasa-loanword-detection/tree/main/notebooks/model) with detailed explanations and code. 
+-	[GRU-based Neural Network](https://github.com/hafer-cappuccino/bahasa-loanword-detection/tree/main/src/models/gru). For this model, also find the python [notebook](https://github.com/hafer-cappuccino/bahasa-loanword-detection/tree/main/notebooks/model/GRU-NN-overview.ipynb) with detailed explanations and code. 
 
 The **results** were in line with those of Miller et al. BoS predictably resulted in lower performance since it processed phonemes as an unordered set of phonemes: **f1-score** of **0.48**. MM and GRU-NN that considered the phonemic sequences in a word, led to **f1-score** of **0.62** and **0.64** respectively on the testing set. 
 
