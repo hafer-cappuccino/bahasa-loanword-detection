@@ -4,7 +4,7 @@
 
 This repository contains materials on the project dedicated to Loanwords Detection in Bahasa Indonesia. We carried out this mini research as our final project for the Master’s course *Advanced Natural Language Processing* at the University of Potsdam. 
 
-The whole framework of the project was mainly inspired by the study of Miller et al. on [Borrowings Detection in Monolingual Wordlists](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242709). Following their practice, we considered words as their [phonetic representations](https://github.com/hafer-cappuccino/bahasa-loanword-detection/blob/main/notebooks/data/phonemes.ipynb) and took phonemes as features for the models. However, unlike the authors who studied loanwords in all the languages represented in [WOLD](https://wold.clld.org), we only focused on the Bahasa Indonesia language.
+The whole framework of the project was mainly inspired by the study of Miller et al. on [Borrowings Detection in Monolingual Wordlists](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242709). Following their practice, we considered words as their [phonetic representations](https://github.com/hafer-cappuccino/bahasa-loanword-detection/blob/main/notebooks/data/phonemes.ipynb) and took phonemes as features for the models. However, unlike the authors who studied loanwords in all the languages presented in [WOLD](https://wold.clld.org), we only focused on the Bahasa Indonesia language.
 
 We implemented three following **models**:
 -	[The Bag of Sounds](https://github.com/hafer-cappuccino/bahasa-loanword-detection/blob/main/src/models/svm.py) 
